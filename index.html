@@ -1,508 +1,115 @@
 <!DOCTYPE html>
 <html lang="fr">
 <head>
-  <script>document.documentElement.classList.add('js');</script>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Dr Pascal Clappaz — Chirurgien orthopédiste & traumatologue à Bourg-en-Bresse</title>
-  <meta name="description" content="Dr Pascal Clappaz, chirurgien orthopédiste et traumatologue à Bourg-en-Bresse (Clinique Convert). Chirurgie du membre supérieur : épaule, coude, main et poignet. Prise de rendez-vous en ligne." />
-  <meta name="theme-color" content="#0f3d5e" />
-
-  <!-- Open Graph -->
-  <meta property="og:type" content="website" />
-  <meta property="og:title" content="Dr Pascal Clappaz — Chirurgien orthopédiste à Bourg-en-Bresse" />
-  <meta property="og:description" content="Chirurgie orthopédique et traumatologique du membre supérieur. Clinique Convert, Bourg-en-Bresse." />
-  <meta property="og:locale" content="fr_FR" />
-
-  <link rel="preconnect" href="https://fonts.googleapis.com" />
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
-  <link rel="stylesheet" href="assets/styles.css" />
-
-  <!-- Données structurées (SEO / fiche praticien) -->
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "Physician",
-    "name": "Dr Pascal Clappaz",
-    "medicalSpecialty": "Orthopedic",
-    "description": "Chirurgien orthopédiste et traumatologue à Bourg-en-Bresse, spécialisé en chirurgie du membre supérieur (épaule, coude, main et poignet).",
-    "identifier": { "@type": "PropertyValue", "propertyID": "RPPS", "value": "10002496015" },
-    "alumniOf": { "@type": "CollegeOrUniversity", "name": "Université de Besançon (CHU de Besançon)" },
-    "memberOf": [
-      { "@type": "MedicalOrganization", "name": "Société Française de Chirurgie Orthopédique et Traumatologique (SOFCOT)" },
-      { "@type": "MedicalOrganization", "name": "Société Française de l'Épaule et du Coude (SOFEC)" },
-      { "@type": "MedicalOrganization", "name": "Société Française de la Chirurgie de la Main (SFCM)" }
-    ],
-    "image": "assets/dr-clappaz.jpg",
-    "address": {
-      "@type": "PostalAddress",
-      "streetAddress": "Clinique Convert, 62 avenue de Jasseron",
-      "addressLocality": "Bourg-en-Bresse",
-      "postalCode": "01000",
-      "addressCountry": "FR"
-    },
-    "telephone": "+33474456422",
-    "areaServed": "Bourg-en-Bresse et Ain (01)",
-    "availableService": [
-      { "@type": "MedicalProcedure", "name": "Chirurgie de l'épaule" },
-      { "@type": "MedicalProcedure", "name": "Chirurgie du coude" },
-      { "@type": "MedicalProcedure", "name": "Chirurgie de la main et du poignet" },
-      { "@type": "MedicalProcedure", "name": "Traumatologie" }
-    ]
-  }
-  </script>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Maquettes — Galerie des sites</title>
+<meta name="description" content="Galerie des maquettes de sites vitrines.">
+<meta name="robots" content="noindex">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=Lato:wght@300;400;700&display=swap" rel="stylesheet">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' fill='%230B1220'/%3E%3Ctext x='32' y='44' font-family='Georgia' font-size='36' fill='%23C0A062' text-anchor='middle'%3EM%3C/text%3E%3C/svg%3E">
+<style>
+:root{
+  --ink:#0B1220; --ink-2:#101A2E;
+  --gold:#C0A062; --cream:#F6F2EA;
+  --text:#E9E4D8; --text-2:rgba(233,228,216,.62);
+  --line:rgba(192,160,98,.22);
+  --font-display:"EB Garamond",Georgia,serif;
+  --font-body:"Lato",system-ui,sans-serif;
+}
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+body{
+  font-family:var(--font-body);background:var(--ink);color:var(--text);
+  min-height:100dvh;line-height:1.6;-webkit-font-smoothing:antialiased;
+}
+a{color:inherit;text-decoration:none}
+.container{max-width:68rem;margin-inline:auto;padding:clamp(2rem,6vw,5rem) clamp(1.25rem,4vw,3rem)}
+header.page{margin-bottom:clamp(2.5rem,6vw,4.5rem)}
+.eyebrow{
+  display:flex;align-items:center;gap:.85rem;font-size:.7rem;font-weight:700;
+  letter-spacing:.32em;text-transform:uppercase;color:var(--gold);margin-bottom:1.2rem;
+}
+.eyebrow::before{content:"";width:2.6rem;height:1px;background:var(--gold)}
+h1{font-family:var(--font-display);font-weight:500;font-size:clamp(2.2rem,5.5vw,3.8rem);line-height:1.1}
+h1 em{font-style:italic;color:var(--gold)}
+.intro{margin-top:1.2rem;max-width:38rem;color:var(--text-2);font-weight:300}
+.grid{display:grid;gap:1.5rem;grid-template-columns:repeat(auto-fill,minmax(min(19rem,100%),1fr))}
+.card{
+  border:1px solid var(--line);background:var(--ink-2);padding:2rem;
+  display:flex;flex-direction:column;gap:.9rem;position:relative;
+  transition:border-color .3s,transform .3s cubic-bezier(.22,1,.36,1);
+}
+.card:hover,.card:focus-visible{border-color:var(--gold);transform:translateY(-4px)}
+.card .type{font-size:.68rem;font-weight:700;letter-spacing:.26em;text-transform:uppercase;color:var(--gold)}
+.card h2{font-family:var(--font-display);font-weight:500;font-size:1.55rem;color:var(--text)}
+.card p{font-size:.92rem;color:var(--text-2);font-weight:300;flex-grow:1}
+.card .go{
+  display:inline-flex;align-items:center;gap:.6rem;margin-top:.4rem;
+  font-size:.75rem;font-weight:700;letter-spacing:.2em;text-transform:uppercase;color:var(--gold);
+}
+.card .go svg{width:1.1rem;height:1.1rem;transition:transform .3s}
+.card:hover .go svg{transform:translateX(5px)}
+.empty{border:1px dashed var(--line);padding:2rem;color:var(--text-2);font-size:.9rem;font-weight:300}
+footer{margin-top:clamp(3rem,8vw,5rem);padding-top:1.5rem;border-top:1px solid var(--line);
+  font-size:.75rem;color:var(--text-2);display:flex;flex-wrap:wrap;gap:1rem;justify-content:space-between}
+a:focus-visible{outline:2px solid var(--gold);outline-offset:3px}
+</style>
 </head>
 <body>
-  <a class="skip-link" href="#main">Aller au contenu principal</a>
-
-  <!-- ===================== HEADER ===================== -->
-  <header class="site-header" id="top">
-    <div class="container header-inner">
-      <a href="#top" class="brand" aria-label="Accueil - Dr Pascal Clappaz">
-        <span class="brand-mark" aria-hidden="true">
-          <svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
-            <path d="M12 21s-7-4.35-9.5-8.5C1 9.5 2.5 6 6 6c2 0 3.2 1.1 4 2.3C10.8 7.1 12 6 14 6c3.5 0 5 3.5 3.5 6.5C19 16.65 12 21 12 21z"/>
-          </svg>
-        </span>
-        <span class="brand-text">
-          <strong>Dr Pascal Clappaz</strong>
-          <small>Chirurgien orthopédiste</small>
-        </span>
-      </a>
-
-      <nav class="main-nav" aria-label="Navigation principale">
-        <button class="nav-toggle" aria-expanded="false" aria-controls="nav-list" aria-label="Ouvrir le menu">
-          <span></span><span></span><span></span>
-        </button>
-        <ul id="nav-list" class="nav-list">
-          <li><a href="#presentation">Présentation</a></li>
-          <li><a href="#parcours">Parcours</a></li>
-          <li><a href="#expertise">Expertise</a></li>
-          <li><a href="#approche">Approche</a></li>
-          <li><a href="#infos">Informations</a></li>
-          <li><a href="#contact">Contact</a></li>
-          <li class="nav-cta"><a href="https://www.doctolib.fr/chirurgien-orthopediste/bourg-en-bresse/pascal-clappaz" target="_blank" rel="noopener">Prendre rendez-vous</a></li>
-        </ul>
-      </nav>
-    </div>
+<div class="container">
+  <header class="page">
+    <p class="eyebrow">Galerie</p>
+    <h1>Maquettes <em>&amp; démonstrations</em></h1>
+    <p class="intro">Sites vitrines de démonstration. Chaque maquette est un site autonome —
+    cliquez sur une carte pour l'ouvrir.</p>
   </header>
 
-  <main id="main">
-    <!-- ===================== HERO ===================== -->
-    <section class="hero">
-      <div class="container hero-inner">
-        <div class="hero-content" data-reveal>
-          <p class="eyebrow">Chirurgie orthopédique &amp; traumatologique</p>
-          <h1>Retrouvez la mobilité<br />et le geste sans douleur</h1>
-          <p class="lead">
-            Le Dr Pascal Clappaz, chirurgien orthopédiste et traumatologue à Bourg-en-Bresse,
-            prend en charge les pathologies et traumatismes du membre supérieur —
-            épaule, coude, main et poignet — au sein de la Clinique Convert.
-          </p>
-          <div class="hero-actions">
-            <a class="btn btn-primary" href="https://www.doctolib.fr/chirurgien-orthopediste/bourg-en-bresse/pascal-clappaz" target="_blank" rel="noopener">
-              Prendre rendez-vous en ligne
-            </a>
-            <a class="btn btn-ghost" href="tel:+33474456422">
-              <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.13.96.36 1.9.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.9.34 1.85.57 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
-              04 74 45 64 22
-            </a>
-          </div>
+  <div class="grid" id="grid"></div>
 
-          <ul class="hero-trust">
-            <li>
-              <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg>
-              Clinique Convert, Bourg-en-Bresse
-            </li>
-            <li>
-              <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg>
-              Membre supérieur &amp; traumatologie
-            </li>
-            <li>
-              <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg>
-              Conventionné secteur 2
-            </li>
-          </ul>
-        </div>
-
-        <div class="hero-visual" data-reveal>
-          <div class="hero-card">
-            <div class="hero-card-photo">
-              <!-- Photo : déposez le portrait dans assets/dr-clappaz.jpg ; sinon l'icône de repli s'affiche. -->
-              <img class="portrait" src="assets/dr-clappaz.jpg" alt="Portrait du Dr Pascal Clappaz, chirurgien orthopédiste" loading="lazy" onerror="this.remove()" />
-              <svg class="portrait-fallback" viewBox="0 0 120 120" width="96" height="96" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
-                <circle cx="60" cy="44" r="24"/>
-                <path d="M20 104c0-22 18-34 40-34s40 12 40 34"/>
-              </svg>
-            </div>
-            <p class="hero-card-name">Dr Pascal Clappaz</p>
-            <p class="hero-card-role">Chirurgien orthopédiste<br />&amp; traumatologue</p>
-          </div>
-        </div>
-      </div>
-    </section>
-
-    <!-- ===================== PRÉSENTATION ===================== -->
-    <section id="presentation" class="section">
-      <div class="container two-col">
-        <div class="col-media" data-reveal>
-          <div class="stat-grid">
-            <div class="stat">
-              <span class="stat-num">Depuis 2006</span>
-              <span class="stat-label">À la Clinique Convert de Bourg-en-Bresse</span>
-            </div>
-            <div class="stat">
-              <span class="stat-num">CHU</span>
-              <span class="stat-label">Formé au CHU de Besançon</span>
-            </div>
-            <div class="stat">
-              <span class="stat-num">3</span>
-              <span class="stat-label">Sociétés savantes (SOFCOT · SOFEC · SFCM)</span>
-            </div>
-            <div class="stat">
-              <span class="stat-num">Secteur 2</span>
-              <span class="stat-label">Exercice libéral conventionné</span>
-            </div>
-          </div>
-        </div>
-        <div class="col-text" data-reveal>
-          <p class="section-eyebrow">Présentation</p>
-          <h2>Un chirurgien dédié aux pathologies du membre supérieur</h2>
-          <p>
-            Le Dr Pascal Clappaz est chirurgien orthopédiste et traumatologue à la
-            Clinique Convert de Bourg-en-Bresse depuis 2006. Formé au CHU de Besançon,
-            où il a exercé comme chef de clinique assistant puis praticien hospitalier,
-            il a orienté sa pratique vers la chirurgie du membre supérieur : l'épaule,
-            le coude, la main et le poignet, ainsi que la traumatologie.
-          </p>
-          <p>
-            Titulaire de diplômes universitaires en pathologie de l'épaule et du coude,
-            en chirurgie de la main et en techniques microchirurgicales, il est membre
-            titulaire des principales sociétés savantes françaises de la spécialité
-            (SOFCOT, SOFEC, SFCM).
-          </p>
-          <p>
-            Chaque consultation vise un diagnostic précis et une prise en charge adaptée,
-            médicale ou chirurgicale, dans un objectif clair : soulager la douleur,
-            restaurer la fonction et vous permettre de reprendre vos activités.
-          </p>
-          <a class="link-arrow" href="#parcours">
-            Voir le parcours et les diplômes
-            <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg>
-          </a>
-        </div>
-      </div>
-    </section>
-
-    <!-- ===================== PARCOURS ===================== -->
-    <section id="parcours" class="section section-alt">
-      <div class="container">
-        <div class="section-head" data-reveal>
-          <p class="section-eyebrow">Parcours &amp; titres</p>
-          <h2>Une formation universitaire et hospitalière spécialisée</h2>
-          <p class="section-intro">
-            Diplômé et formé au CHU de Besançon, le Dr Clappaz a construit une expertise
-            ciblée sur le membre supérieur, reconnue par les sociétés savantes de la spécialité.
-          </p>
-        </div>
-
-        <div class="parcours-grid">
-          <div class="parcours-col" data-reveal>
-            <h3 class="parcours-title">
-              <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M22 10v6M2 10l10-5 10 5-10 5z"/><path d="M6 12v5c3 3 9 3 12 0v-5"/></svg>
-              Expérience
-            </h3>
-            <ol class="timeline">
-              <li class="tl-item">
-                <span class="tl-year">Depuis 2006</span>
-                <div class="tl-body">
-                  <strong>Praticien — Clinique Convert</strong>
-                  Bourg-en-Bresse · Chirurgie orthopédique du membre supérieur
-                </div>
-              </li>
-              <li class="tl-item">
-                <span class="tl-year">2004 – 2005</span>
-                <div class="tl-body">
-                  <strong>Praticien hospitalier</strong>
-                  CHU de Besançon
-                </div>
-              </li>
-              <li class="tl-item">
-                <span class="tl-year">2002 – 2004</span>
-                <div class="tl-body">
-                  <strong>Chef de clinique assistant</strong>
-                  CHU de Besançon
-                </div>
-              </li>
-            </ol>
-          </div>
-
-          <div class="parcours-col" data-reveal>
-            <h3 class="parcours-title">
-              <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3 2 8l10 5 10-5-10-5z"/><path d="M6 10.5V16c0 1.5 3 3 6 3s6-1.5 6-3v-5.5"/></svg>
-              Formations &amp; diplômes
-            </h3>
-            <ol class="timeline">
-              <li class="tl-item">
-                <span class="tl-year">2004</span>
-                <div class="tl-body"><strong>D.I.U. Chirurgie de la main</strong>Université de Besançon</div>
-              </li>
-              <li class="tl-item">
-                <span class="tl-year">2004</span>
-                <div class="tl-body"><strong>D.E.S.C. Chirurgie orthopédique et traumatologique</strong>Université de Besançon</div>
-              </li>
-              <li class="tl-item">
-                <span class="tl-year">2002</span>
-                <div class="tl-body"><strong>Diplôme d'État de docteur en médecine</strong>Université de Besançon</div>
-              </li>
-              <li class="tl-item">
-                <span class="tl-year">2002</span>
-                <div class="tl-body"><strong>D.I.U. Techniques microchirurgicales et supramicrochirurgie</strong>Université de Besançon</div>
-              </li>
-              <li class="tl-item">
-                <span class="tl-year">2001</span>
-                <div class="tl-body"><strong>D.I.U. Pathologie de l'épaule et du coude</strong>Université de Besançon</div>
-              </li>
-              <li class="tl-item">
-                <span class="tl-year">2000</span>
-                <div class="tl-body"><strong>Maîtrise de sciences biologiques et médicales</strong>Université de Besançon</div>
-              </li>
-            </ol>
-          </div>
-        </div>
-
-        <div class="societies" data-reveal>
-          <p class="societies-label">Membre titulaire des sociétés savantes</p>
-          <ul class="societies-list">
-            <li>
-              <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg>
-              Société Française de Chirurgie Orthopédique et Traumatologique <span>(SOFCOT)</span>
-            </li>
-            <li>
-              <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg>
-              Société Française de l'Épaule et du Coude <span>(SOFEC)</span>
-            </li>
-            <li>
-              <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg>
-              Société Française de la Chirurgie de la Main <span>(SFCM)</span>
-            </li>
-          </ul>
-        </div>
-      </div>
-    </section>
-
-    <!-- ===================== EXPERTISE ===================== -->
-    <section id="expertise" class="section">
-      <div class="container">
-        <div class="section-head" data-reveal>
-          <p class="section-eyebrow">Domaines d'expertise</p>
-          <h2>Une prise en charge complète du membre supérieur</h2>
-          <p class="section-intro">
-            De la consultation au suivi post-opératoire, les pathologies traitées couvrent
-            l'ensemble du membre supérieur, en chirurgie réglée comme en traumatologie.
-          </p>
-        </div>
-
-        <div class="cards" data-reveal>
-          <article class="card">
-            <span class="card-icon">
-              <svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="7" r="4"/><path d="M6 21v-2a6 6 0 0 1 12 0v2"/></svg>
-            </span>
-            <h3>Épaule</h3>
-            <p>Conflit sous-acromial, rupture de la coiffe des rotateurs, instabilité et luxation, arthrose (arthroplastie).</p>
-          </article>
-
-          <article class="card">
-            <span class="card-icon">
-              <svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M8 3v7a4 4 0 0 0 4 4 4 4 0 0 1 4 4v3"/><circle cx="8" cy="3" r="1.5"/><circle cx="16" cy="21" r="1.5"/></svg>
-            </span>
-            <h3>Coude</h3>
-            <p>Épicondylite (« tennis elbow »), compression du nerf ulnaire, raideur et séquelles de traumatismes.</p>
-          </article>
-
-          <article class="card">
-            <span class="card-icon">
-              <svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M18 11V6a2 2 0 0 0-4 0v5M14 10V4a2 2 0 0 0-4 0v6M10 10.5V6a2 2 0 0 0-4 0v8a7 7 0 0 0 7 7h1a6 6 0 0 0 6-6v-3a2 2 0 0 0-4 0"/></svg>
-            </span>
-            <h3>Main &amp; poignet</h3>
-            <p>Syndrome du canal carpien, maladie de Dupuytren, doigt à ressaut, arthrose (rhizarthrose), kystes.</p>
-          </article>
-
-          <article class="card">
-            <span class="card-icon">
-              <svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2v4M12 18v4M4.9 4.9l2.8 2.8M16.3 16.3l2.8 2.8M2 12h4M18 12h4M4.9 19.1l2.8-2.8M16.3 7.7l2.8-2.8"/></svg>
-            </span>
-            <h3>Traumatologie</h3>
-            <p>Fractures, entorses et luxations, plaies de la main, prise en charge des urgences orthopédiques.</p>
-          </article>
-
-          <article class="card">
-            <span class="card-icon">
-              <svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M9 12l2 2 4-4"/><path d="M21 12a9 9 0 1 1-18 0 9 9 0 0 1 18 0z"/></svg>
-            </span>
-            <h3>Chirurgie mini-invasive</h3>
-            <p>Techniques arthroscopiques et gestes ciblés lorsqu'ils sont indiqués, pour une récupération facilitée.</p>
-          </article>
-
-          <article class="card">
-            <span class="card-icon">
-              <svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><path d="M14 2v6h6M9 13h6M9 17h6"/></svg>
-            </span>
-            <h3>Avis &amp; second avis</h3>
-            <p>Consultation d'évaluation, orientation thérapeutique et second avis avant décision opératoire.</p>
-          </article>
-        </div>
-
-        <p class="disclaimer">
-          Liste non exhaustive et fournie à titre informatif. Seule une consultation permet
-          d'établir un diagnostic et de proposer une prise en charge adaptée à votre situation.
-        </p>
-      </div>
-    </section>
-
-    <!-- ===================== APPROCHE ===================== -->
-    <section id="approche" class="section section-alt">
-      <div class="container">
-        <div class="section-head" data-reveal>
-          <p class="section-eyebrow">Votre parcours de soin</p>
-          <h2>Une prise en charge claire, à chaque étape</h2>
-        </div>
-
-        <ol class="steps" data-reveal>
-          <li class="step">
-            <span class="step-num">1</span>
-            <h3>La consultation</h3>
-            <p>Écoute de votre motif, examen clinique et analyse de vos examens d'imagerie pour poser un diagnostic précis.</p>
-          </li>
-          <li class="step">
-            <span class="step-num">2</span>
-            <h3>La proposition de traitement</h3>
-            <p>Explication des options — médicales, rééducatives ou chirurgicales — avec leurs bénéfices et leurs risques.</p>
-          </li>
-          <li class="step">
-            <span class="step-num">3</span>
-            <h3>L'intervention</h3>
-            <p>Si la chirurgie est retenue, elle est organisée à la Clinique Convert dans un cadre technique adapté.</p>
-          </li>
-          <li class="step">
-            <span class="step-num">4</span>
-            <h3>Le suivi</h3>
-            <p>Consultations de contrôle et coordination avec la rééducation pour optimiser votre récupération.</p>
-          </li>
-        </ol>
-      </div>
-    </section>
-
-    <!-- ===================== INFORMATIONS PRATIQUES ===================== -->
-    <section id="infos" class="section">
-      <div class="container two-col two-col-wide">
-        <div class="col-text" data-reveal>
-          <p class="section-eyebrow">Informations pratiques</p>
-          <h2>Cabinet &amp; accès</h2>
-
-          <ul class="info-list">
-            <li>
-              <span class="info-icon">
-                <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>
-              </span>
-              <div>
-                <strong>Adresse</strong>
-                Clinique Convert<br />62 avenue de Jasseron, 01000 Bourg-en-Bresse
-              </div>
-            </li>
-            <li>
-              <span class="info-icon">
-                <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.13.96.36 1.9.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.9.34 1.85.57 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
-              </span>
-              <div>
-                <strong>Téléphone</strong>
-                <a href="tel:+33474456422">04 74 45 64 22</a> · <a href="tel:+33474456403">04 74 45 64 03</a>
-              </div>
-            </li>
-            <li>
-              <span class="info-icon">
-                <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 3"/></svg>
-              </span>
-              <div>
-                <strong>Horaires</strong>
-                Du lundi au vendredi, 8h – 17h<br />Fermé le samedi et le dimanche
-              </div>
-            </li>
-            <li>
-              <span class="info-icon">
-                <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="5" width="20" height="14" rx="2"/><path d="M2 10h20"/></svg>
-              </span>
-              <div>
-                <strong>Conventionnement</strong>
-                Secteur 2 · exercice libéral<br />Renseignez-vous sur les tarifs lors de la prise de rendez-vous.
-              </div>
-            </li>
-          </ul>
-
-          <div class="info-actions">
-            <a class="btn btn-primary" href="https://www.doctolib.fr/chirurgien-orthopediste/bourg-en-bresse/pascal-clappaz" target="_blank" rel="noopener">Prendre rendez-vous</a>
-            <a class="btn btn-outline" href="https://www.google.com/maps/dir/?api=1&destination=Clinique+Convert+62+avenue+de+Jasseron+01000+Bourg-en-Bresse" target="_blank" rel="noopener">Itinéraire</a>
-          </div>
-        </div>
-
-        <div class="col-media" data-reveal>
-          <div class="map-wrap">
-            <iframe
-              title="Localisation de la Clinique Convert à Bourg-en-Bresse"
-              src="https://www.openstreetmap.org/export/embed.html?bbox=5.2453%2C46.2069%2C5.2613%2C46.2149&layer=mapnik&marker=46.2109519%2C5.2533254"
-              loading="lazy"
-              referrerpolicy="no-referrer-when-downgrade"></iframe>
-          </div>
-        </div>
-      </div>
-    </section>
-
-    <!-- ===================== CONTACT / RDV ===================== -->
-    <section id="contact" class="section cta-section">
-      <div class="container cta-inner" data-reveal>
-        <h2>Besoin d'un avis orthopédique ?</h2>
-        <p>
-          Prenez rendez-vous en ligne à tout moment, ou contactez le secrétariat
-          de la Clinique Convert pendant les heures d'ouverture.
-        </p>
-        <div class="cta-actions">
-          <a class="btn btn-primary btn-lg" href="https://www.doctolib.fr/chirurgien-orthopediste/bourg-en-bresse/pascal-clappaz" target="_blank" rel="noopener">Prendre rendez-vous sur Doctolib</a>
-          <a class="btn btn-ghost-light btn-lg" href="tel:+33474456422">Appeler le 04 74 45 64 22</a>
-        </div>
-        <p class="cta-urgent">
-          En cas d'urgence vitale, composez le <strong>15</strong> (SAMU) ou le <strong>112</strong>.
-        </p>
-      </div>
-    </section>
-  </main>
-
-  <!-- ===================== FOOTER ===================== -->
-  <footer class="site-footer">
-    <div class="container footer-inner">
-      <div class="footer-brand">
-        <strong>Dr Pascal Clappaz</strong>
-        <span>Chirurgien orthopédiste &amp; traumatologue</span>
-        <span>Clinique Convert — 62 avenue de Jasseron, 01000 Bourg-en-Bresse</span>
-      </div>
-      <nav class="footer-nav" aria-label="Liens de pied de page">
-        <a href="#presentation">Présentation</a>
-        <a href="#expertise">Expertise</a>
-        <a href="#infos">Informations</a>
-        <a href="#contact">Rendez-vous</a>
-        <a href="mentions-legales.html">Mentions légales</a>
-      </nav>
-      <div class="footer-legal">
-        <p>© <span id="year"></span> Dr Pascal Clappaz. Tous droits réservés.</p>
-        <p class="footer-note">
-          Site à caractère informatif — ne remplace pas une consultation médicale.
-          Les informations affichées proviennent de sources publiques et doivent être
-          validées par le praticien.
-        </p>
-      </div>
-    </div>
+  <footer>
+    <span>© 2026 — Maquettes de démonstration, informations fictives</span>
+    <span id="count"></span>
   </footer>
+</div>
 
-  <script src="assets/script.js"></script>
+<script>
+/* ============================================================
+   Pour ajouter un site : une entrée dans ce tableau, c'est tout.
+   dossier = nom du dossier dans le dépôt (lien relatif).
+   ============================================================ */
+const SITES = [
+  {
+    dossier: "template",
+    type: "Template — Avocat",
+    titre: "Valmont & Associés",
+    description: "Template de site vitrine premium pour avocat : hero animé GSAP, expertises, parcours, formation, témoignages, contact. Base de départ des autres maquettes."
+  },
+  {
+    dossier: "dr-pascal-clappaz",
+    type: "Chirurgien orthopédiste",
+    titre: "Dr Pascal Clappaz",
+    description: "Site vitrine — chirurgie orthopédique et traumatologique du membre supérieur (épaule, coude, main, poignet). Clinique Convert, Bourg-en-Bresse."
+  },
+];
+
+const grid = document.getElementById("grid");
+if (SITES.length === 0) {
+  grid.innerHTML = '<div class="empty">Aucune maquette pour le moment — ajoutez une entrée dans le tableau SITES de index.html.</div>';
+} else {
+  grid.innerHTML = SITES.map(s => `
+    <a class="card" href="${s.dossier}/">
+      <span class="type">${s.type}</span>
+      <h2>${s.titre}</h2>
+      <p>${s.description}</p>
+      <span class="go">Voir le site
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg>
+      </span>
+    </a>`).join("");
+}
+document.getElementById("count").textContent =
+  SITES.length + (SITES.length > 1 ? " maquettes" : " maquette");
+</script>
 </body>
 </html>
