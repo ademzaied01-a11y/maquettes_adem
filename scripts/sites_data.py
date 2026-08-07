@@ -886,4 +886,448 @@ SITES = [
  "footer_name": "Hélène Nassibian-Giovannucci", "footer_sub": "Avocate au Barreau d'Ajaccio",
  "sources": "Justifit, annuaire du Barreau d'Ajaccio", "me": "Me Nassibian-Giovannucci",
 },
+
+# ═══════════════════════════ FOURNÉE 3 ═══════════════════════════
+
+# ─────────────────────────── 11. AMINE MOUHEB — STRASBOURG ──
+{
+ "slug": "amine-mouheb", "mono": "M", "watermark": "M",
+ "brand": "Amine Mouheb", "brand_sub": "Avocat — Barreau de Strasbourg",
+ "title": "Maître Amine Mouheb — Avocat au Barreau de Strasbourg | Famille, pénal &amp; étrangers",
+ "desc": "Maître Amine Mouheb, Avocat au Barreau de Strasbourg. Droit de la famille, droit pénal, droit des étrangers et de la nationalité.",
+ "ink": "#1A120E", "ink2": "#251A14", "ink3": "#33241C", "radial": "rgba(160,80,50,.18)",
+ "kicker": "Avocat au Barreau de Strasbourg",
+ "h1a": "Maître", "h1b": "Amine <em>Mouheb</em>",
+ "hero_sub": "Avocat depuis 2008, inscrit au Barreau de Strasbourg depuis 2013, je "
+             "privilégie toujours la solution amiable — et plaide avec détermination "
+             "lorsqu'elle est la meilleure voie pour obtenir le résultat recherché.",
+ "meta": [("Famille", "Divorce &amp; enfants"),
+          ("Pénal", "Défense &amp; victimes"),
+          ("Étrangers", "Séjour &amp; nationalité")],
+ "marquee": ["Barreau de Strasbourg — Serment prêté en 2013",
+             "Avocat depuis 2008",
+             "Inscrit aux barreaux de deux pays",
+             "Diplômé de l'École de Formation du Barreau de Paris",
+             "L'amiable d'abord, le contentieux quand il le faut"],
+ "stats": [{"n": "18", "label": "Années de pratique"},
+           {"n": "2013", "counter": False, "label": "Inscription à Strasbourg"},
+           {"n": "2", "label": "Pays d'inscription"},
+           {"n": "3", "label": "Domaines principaux"}],
+ "img": IMG_COL, "img_alt": ALT_COL,
+ "credit_b": "Le cabinet", "credit_s": "14 quai Kléber, Strasbourg",
+ "about_title": "L'amiable d'abord,<br>le combat s'il le <em>faut</em>",
+ "lead": "Rechercher toujours la solution amiable — et n'engager le contentieux que lorsqu'il est le meilleur moyen d'obtenir le résultat.",
+ "p1": "Avocat depuis 2008 et inscrit au Barreau de Strasbourg depuis sa prestation de "
+       "serment du 3 juin 2013, Maître Amine Mouheb exerce au 14 quai Kléber, au cœur "
+       "de Strasbourg. Diplômé de l'École de Formation du Barreau de Paris, il est "
+       "inscrit aux barreaux de deux pays — un atout rare pour les dossiers "
+       "transfrontaliers.",
+ "p2": "Sa pratique couvre le droit de la famille, le droit pénal et le droit des "
+       "étrangers et de la nationalité, ainsi que la procédure d'appel, la procédure "
+       "civile et le droit du sport. Sa méthode&nbsp;: chercher d'abord la solution "
+       "amiable, et ne saisir le juge que lorsque c'est la meilleure voie.",
+ "sig": "Amine Mouheb", "sig_sub": "Avocat au Barreau de Strasbourg<br>Depuis 2008",
+ "exp_title": "Du conseil<br>à la <em>plaidoirie</em>",
+ "exp_intro": "Trois domaines principaux et une solide pratique de la procédure, "
+              "au service des particuliers.",
+ "exps": [
+   ("Divorce &amp; famille", "Divorce pour faute ou amiable, séparation, autorité parentale, pension alimentaire."),
+   ("Défense pénale", "Assistance en garde à vue, défense devant les juridictions pénales."),
+   ("Séjour &amp; régularisation", "Titres de séjour, régularisation, recours contre les mesures d'éloignement."),
+   ("Nationalité", "Naturalisations, déclarations et contentieux de la nationalité."),
+   ("Procédure d'appel &amp; civile", "Une maîtrise fine de la procédure, en appel comme en première instance."),
+   ("Droit du sport", "Conseil et contentieux pour les sportifs et les structures sportives."),
+ ],
+ "parc_title": "Deux pays,<br>une même <em>exigence</em>",
+ "tl": [
+   ("Depuis 2013", "Avocat — Barreau de Strasbourg", "14 quai Kléber",
+    "Une pratique strasbourgeoise du droit de la famille, du pénal et du droit des "
+    "étrangers, nourrie par une expérience de deux systèmes juridiques."),
+   ("3 juin 2013", "Prestation de serment", "Barreau de Strasbourg",
+    "Inscription au Barreau de Strasbourg après un début de carrière entamé en 2008."),
+   ("2008", "Entrée dans la profession", "École de Formation du Barreau de Paris",
+    "Diplômé de l'EFB Paris, avocat inscrit aux barreaux de deux pays."),
+ ],
+ "form_title": "Une formation<br><em>parisienne</em>",
+ "dips": [
+   ("EFB", "École de Formation du Barreau de Paris",
+    "La formation professionnelle des avocats du ressort de la cour d'appel de Paris.", "EFB Paris"),
+   ("2013", "Inscription au Barreau de Strasbourg",
+    "Prestation de serment le 3 juin 2013.", "Barreau de Strasbourg"),
+   ("×2", "Deux barreaux, deux pays",
+    "Une double inscription précieuse pour les dossiers transfrontaliers.", "France · International"),
+ ],
+ "infos_title": "Une méthode&nbsp;:<br>l'<em>apaisement</em>",
+ "infos": [
+   ("La recherche d'une solution amiable est toujours privilégiée — plus rapide, moins coûteuse, souvent plus durable.",
+    "Méthode", "L'amiable d'abord"),
+   ("Lorsque le contentieux est la meilleure voie, le cabinet le mène avec détermination, jusqu'en appel.",
+    "Contentieux", "Y compris en appel"),
+   ("Le cabinet est situé au 14 quai Kléber, au centre de Strasbourg, à quelques minutes de la gare.",
+    "Accès", "Quai Kléber — Strasbourg"),
+ ],
+ "contact_blocks": [
+   ("Cabinet", "<p>14 quai Kléber<br>67000 Strasbourg</p>", "Centre-ville — sur rendez-vous"),
+   ("Méthode", "<p>Amiable d'abord,<br>contentieux s'il le faut</p>", "Conseil &amp; plaidoirie"),
+   ("Écrire", "<p>Via le formulaire ci-contre</p>", "Échanges couverts par le secret professionnel"),
+ ],
+ "opts": ["Divorce &amp; famille", "Défense pénale", "Titre de séjour &amp; régularisation",
+          "Nationalité", "Procédure d'appel", "Droit du sport", "Autre"],
+ "footer_name": "Amine Mouheb", "footer_sub": "Avocat au Barreau de Strasbourg",
+ "sources": "Justifit, Alexia, Conseil-Juridique.net", "me": "Me Mouheb",
+},
+
+# ─────────────────────────── 12. ABDELLATIF KARZAZI — NICE ──
+{
+ "slug": "abdellatif-karzazi", "mono": "K", "watermark": "K",
+ "brand": "Abdellatif Karzazi", "brand_sub": "Avocat — Barreau de Nice",
+ "title": "Maître Abdellatif Karzazi — Avocat au Barreau de Nice | Étrangers, famille &amp; pénal",
+ "desc": "Maître Abdellatif Karzazi, Avocat au Barreau de Nice. Droit des étrangers, droit de la famille, droit pénal, droit immobilier, droit du travail.",
+ "ink": "#0B1B2B", "ink2": "#112741", "ink3": "#183659", "radial": "rgba(35,110,175,.2)",
+ "kicker": "Avocat au Barreau de Nice",
+ "h1a": "Maître", "h1b": "Abdellatif <em>Karzazi</em>",
+ "hero_sub": "Avocat au Barreau de Nice et chargé d'enseignement à la faculté de droit, "
+             "je défends les particuliers — étrangers, familles, salariés — avec la "
+             "rigueur de l'universitaire et l'engagement du praticien.",
+ "meta": [("Étrangers", "Visas, OQTF &amp; naturalisation"),
+          ("Famille &amp; pénal", "Défense &amp; contentieux"),
+          ("Immobilier &amp; travail", "Conseil &amp; litiges")],
+ "marquee": ["Barreau de Nice — Serment prêté en 2019",
+             "Chargé d'enseignement à la faculté de droit de Nice",
+             "Doctorat en préparation",
+             "Deux Masters 2 — affaires et contentieux",
+             "Cabinet au 5 rue Barla, Nice"],
+ "stats": [{"n": "7", "label": "Années d'exercice"},
+           {"n": "2019", "counter": False, "label": "Prestation de serment"},
+           {"n": "5", "label": "Domaines d'intervention"},
+           {"n": "2", "label": "Masters 2 en droit"}],
+ "img": IMG_STA, "img_alt": ALT_STA,
+ "credit_b": "Le cabinet", "credit_s": "5 rue Barla, Nice",
+ "about_title": "Enseigner le droit,<br>le faire <em>vivre</em>",
+ "lead": "La rigueur de l'universitaire, l'engagement du praticien — au service des particuliers.",
+ "p1": "Avocat au Barreau de Nice depuis sa prestation de serment le 15 janvier 2019, "
+       "Maître Abdellatif Karzazi exerce au 5 rue Barla, immeuble Le Véronèse, dans le "
+       "quartier du port. Chargé d'enseignement à la faculté de droit de Nice, il "
+       "prépare en parallèle une thèse de doctorat.",
+ "p2": "Titulaire de deux Masters 2 — droit économique et des affaires, et gestion du "
+       "contentieux privé —, il intervient en droit des étrangers (visas, OQTF, "
+       "naturalisations), droit de la famille, droit pénal, droit immobilier et droit "
+       "du travail.",
+ "sig": "Abdellatif Karzazi", "sig_sub": "Avocat au Barreau de Nice<br>Chargé d'enseignement",
+ "exp_title": "Cinq domaines,<br>une même <em>méthode</em>",
+ "exp_intro": "Du contentieux administratif du séjour aux litiges du travail, une "
+              "pratique complète au service des particuliers.",
+ "exps": [
+   ("Visas &amp; titres de séjour", "Demandes de visas, titres de séjour, renouvellements et régularisations."),
+   ("Recours OQTF", "Recours contre les obligations de quitter le territoire et mesures d'éloignement."),
+   ("Naturalisation", "Demandes de naturalisation et contentieux de la nationalité."),
+   ("Famille", "Divorce, séparation, autorité parentale, pension alimentaire."),
+   ("Défense pénale", "Assistance en garde à vue et défense devant les juridictions pénales."),
+   ("Immobilier &amp; travail", "Baux, litiges immobiliers, contrats de travail et contentieux prud'homal."),
+ ],
+ "parc_title": "Le barreau<br>et l'<em>amphithéâtre</em>",
+ "tl": [
+   ("Depuis 2019", "Avocat — Barreau de Nice", "5 rue Barla — Le Véronèse",
+    "Une pratique niçoise tournée vers les particuliers, du contentieux administratif "
+    "du séjour aux litiges familiaux et pénaux."),
+   ("Enseignement", "Chargé d'enseignement", "Faculté de droit de Nice",
+    "Enseignement du droit à l'université, en parallèle d'une thèse de doctorat en "
+    "préparation — garantie d'une veille juridique permanente."),
+   ("15 janvier 2019", "Prestation de serment", "Barreau de Nice",
+    "Entrée dans la profession après deux Masters 2 et l'obtention du CAPA."),
+ ],
+ "form_title": "Deux Masters,<br>une thèse en <em>préparation</em>",
+ "dips": [
+   ("M2", "Master 2 — Droit économique et des affaires",
+    "Le socle du conseil aux particuliers et aux entrepreneurs.", "Droit des affaires"),
+   ("M2", "Master 2 — Gestion du contentieux privé",
+    "Une spécialisation dédiée à la stratégie contentieuse.", "Contentieux privé"),
+   ("Dr", "Doctorat en préparation",
+    "Une thèse de doctorat en droit menée en parallèle de l'exercice et de l'enseignement.", "Faculté de droit de Nice"),
+ ],
+ "infos_title": "Disponible,<br>y compris le <em>samedi</em>",
+ "infos": [
+   ("Un premier entretien de 60 minutes, sans engagement, pour comprendre votre situation et vos droits.",
+    "Premier entretien", "60 minutes — sans engagement"),
+   ("Le cabinet vous reçoit du lundi au samedi, de 9&nbsp;heures à 20&nbsp;heures — une amplitude rare, adaptée aux actifs.",
+    "Horaires", "Lun — sam, 9h à 20h"),
+   ("Le cabinet est joignable directement au 07 58 17 98 43, dans le quartier du port de Nice.",
+    "Réactivité", "Contact direct"),
+ ],
+ "contact_blocks": [
+   ("Cabinet", "<p>5 rue Barla — Le Véronèse<br>06300 Nice</p>", "Quartier du port — sur rendez-vous"),
+   ("Téléphone", '<a href="tel:+33758179843">07 58 17 98 43</a>', "Du lundi au samedi, 9h — 20h"),
+   ("Écrire", '<a href="mailto:karzazi.avocat@gmail.com">karzazi.avocat@gmail.com</a>', "Échanges couverts par le secret professionnel"),
+ ],
+ "opts": ["Visa &amp; titre de séjour", "Recours OQTF", "Naturalisation",
+          "Famille", "Défense pénale", "Immobilier ou travail", "Autre"],
+ "footer_name": "Abdellatif Karzazi", "footer_sub": "Avocat au Barreau de Nice",
+ "sources": "annuaire du Barreau de Nice, Justifit", "me": "Me Karzazi",
+},
+
+# ─────────────────────────── 13. MARINE VIDAL — MONTPELLIER ──
+{
+ "slug": "marine-vidal", "mono": "V", "watermark": "V",
+ "brand": "Marine Vidal", "brand_sub": "Avocate — Barreau de Montpellier",
+ "title": "Maître Marine Vidal — Avocate au Barreau de Montpellier | Affaires, immobilier &amp; contrats",
+ "desc": "Maître Marine Vidal, Avocate au Barreau de Montpellier. Droit des affaires, droit immobilier, recouvrement de créances, droit des contrats.",
+ "ink": "#180F1A", "ink2": "#231627", "ink3": "#302036", "radial": "rgba(140,70,150,.16)",
+ "kicker": "Avocate au Barreau de Montpellier",
+ "h1a": "Maître", "h1b": "Marine <em>Vidal</em>",
+ "hero_sub": "Avocate au Barreau de Montpellier, j'accompagne les entreprises et les "
+             "particuliers — affaires, immobilier, recouvrement, contrats — avec "
+             "rigueur, réactivité et un premier échange téléphonique offert.",
+ "meta": [("Affaires", "Contrats &amp; litiges"),
+          ("Immobilier", "Baux &amp; contentieux"),
+          ("Recouvrement", "Créances &amp; exécution")],
+ "marquee": ["Barreau de Montpellier — Promotion 2024",
+             "Master 2 — Université de Montpellier",
+             "Première consultation téléphonique offerte",
+             "Aide juridictionnelle acceptée",
+             "Postulation — tribunal de commerce et cour d'appel"],
+ "stats": [{"n": "4", "label": "Domaines d'intervention"},
+           {"n": "2024", "counter": False, "label": "Prestation de serment"},
+           {"n": "2", "label": "Juridictions de postulation"},
+           {"n": "100", "sup": "%", "label": "Cabinet indépendant"}],
+ "img": IMG_LIB, "img_alt": ALT_LIB,
+ "credit_b": "Le cabinet", "credit_s": "9 boulevard Sarrail, Montpellier",
+ "about_title": "Une nouvelle voix<br>du barreau de <em>Montpellier</em>",
+ "lead": "Rigueur et professionnalisme, de la consultation au prétoire — avec un premier échange offert.",
+ "p1": "Avocate au Barreau de Montpellier, Maître Marine Vidal a obtenu son Master 2 à "
+       "l'Université de Montpellier en 2023, puis son titre d'avocat en 2024 après sa "
+       "formation à l'École des avocats Centre-Sud (E.C.O.A.). Son cabinet est installé "
+       "au 9 boulevard Sarrail, face aux jardins de l'Esplanade.",
+ "p2": "Elle intervient en droit des affaires, droit immobilier, recouvrement de "
+       "créances et droit des contrats, et plaide régulièrement devant le juge des "
+       "contentieux de la protection et le tribunal judiciaire de Montpellier. Elle "
+       "assure également la postulation devant le tribunal de commerce et la cour "
+       "d'appel de Montpellier.",
+ "sig": "Marine Vidal", "sig_sub": "Avocate au Barreau de Montpellier<br>Cabinet indépendant",
+ "exp_title": "Le droit des affaires,<br>côté <em>terrain</em>",
+ "exp_intro": "Entreprises, bailleurs, créanciers et particuliers&nbsp;: une pratique "
+              "tournée vers l'efficacité.",
+ "exps": [
+   ("Contentieux des affaires", "Litiges commerciaux et civils, représentation devant le tribunal judiciaire et le tribunal de commerce."),
+   ("Droit des contrats", "Rédaction, analyse et contentieux des contrats civils et commerciaux."),
+   ("Droit immobilier", "Baux, litiges locatifs, contentieux immobiliers."),
+   ("Recouvrement de créances", "Mise en demeure, injonction de payer, procédures d'exécution."),
+   ("Contentieux de la protection", "Interventions régulières devant le juge des contentieux de la protection (baux, crédits, surendettement)."),
+   ("Postulation", "Postulation devant le tribunal de commerce et la cour d'appel de Montpellier pour les confrères."),
+ ],
+ "parc_title": "Une installation<br><em>rapide</em>",
+ "tl": [
+   ("Depuis 2024", "Avocate — cabinet indépendant", "9 boulevard Sarrail, Montpellier",
+    "Installation en cabinet indépendant au cœur de Montpellier, au service des "
+    "entreprises et des particuliers de l'Hérault."),
+   ("2024", "Titre d'avocat", "École des avocats Centre-Sud (E.C.O.A.)",
+    "Obtention du CAPA après la formation à l'école des avocats de Montpellier."),
+   ("2023", "Master 2", "Université de Montpellier",
+    "Diplômée de la faculté de droit de Montpellier, l'une des plus anciennes "
+    "d'Europe."),
+ ],
+ "form_title": "Formée à<br><em>Montpellier</em>",
+ "dips": [
+   ("2023", "Master 2 en droit",
+    "Diplômée de l'Université de Montpellier.", "Université de Montpellier"),
+   ("2024", "CAPA — École des avocats Centre-Sud",
+    "Formation professionnelle à l'E.C.O.A. de Montpellier.", "Barreau de Montpellier"),
+   ("TC", "Postulation",
+    "Postulation devant le tribunal de commerce et la cour d'appel de Montpellier.", "TC &amp; CA Montpellier"),
+ ],
+ "infos_title": "Un premier échange<br><em>offert</em>",
+ "infos": [
+   ("La première consultation téléphonique est offerte — un premier avis rapide pour orienter votre dossier.",
+    "Premier échange", "Consultation téléphonique offerte"),
+   ("Le cabinet accepte l'aide juridictionnelle, totale ou partielle, selon vos ressources.",
+    "Aide juridictionnelle", "Acceptée"),
+   ("Le cabinet est joignable directement au 06 30 96 27 95 et répond rapidement.",
+    "Réactivité", "Contact direct"),
+ ],
+ "contact_blocks": [
+   ("Cabinet", "<p>9 boulevard Sarrail<br>34000 Montpellier</p>", "Face à l'Esplanade — sur rendez-vous"),
+   ("Téléphone", '<a href="tel:+33630962795">06 30 96 27 95</a>', "Première consultation téléphonique offerte"),
+   ("Écrire", '<a href="mailto:me.vidal.avocat@gmail.com">me.vidal.avocat@gmail.com</a>', "Échanges couverts par le secret professionnel"),
+ ],
+ "opts": ["Litige commercial", "Contrat", "Immobilier &amp; baux",
+          "Recouvrement de créances", "Postulation", "Autre"],
+ "footer_name": "Marine Vidal", "footer_sub": "Avocate au Barreau de Montpellier",
+ "sources": "annuaire du Barreau de Montpellier, Justifit", "me": "Me Vidal",
+},
+
+# ─────────────────────────── 14. CONSTANCE MAULÉON — TOURS ──
+{
+ "slug": "constance-mauleon", "mono": "M", "watermark": "M",
+ "brand": "Constance Mauléon", "brand_sub": "Avocate — Barreau de Tours",
+ "title": "Maître Constance Mauléon — Avocate au Barreau de Tours | Dommage corporel, santé &amp; pénal",
+ "desc": "Maître Constance Mauléon, Avocate au Barreau de Tours. Dommage corporel et indemnisation des victimes, droit de la santé, assurances, droit pénal.",
+ "ink": "#0E1519", "ink2": "#141F26", "ink3": "#1C2B35", "radial": "rgba(60,110,130,.18)",
+ "kicker": "Avocate au Barreau de Tours",
+ "h1a": "Maître", "h1b": "Constance <em>Mauléon</em>",
+ "hero_sub": "Avocate au Barreau de Tours, je défends les victimes — accidents, erreurs "
+             "médicales, infractions — face aux assureurs et devant les juridictions, "
+             "avec réactivité et pugnacité.",
+ "meta": [("Victimes", "Dommage corporel"),
+          ("Santé", "Responsabilité médicale"),
+          ("Pénal &amp; assurances", "Défense &amp; litiges")],
+ "marquee": ["Barreau de Tours — Avocate indépendante",
+             "Master 2 — Droit du dommage corporel",
+             "Aide juridictionnelle acceptée",
+             "Premier entretien offert si le dossier est confié",
+             "Réactive et pugnace"],
+ "stats": [{"n": "M2", "counter": False, "label": "Droit du dommage corporel"},
+           {"n": "4", "label": "Domaines d'intervention"},
+           {"n": "60", "label": "Minutes de premier entretien"},
+           {"n": "100", "sup": "%", "label": "Cabinet indépendant"}],
+ "img": IMG_STA, "img_alt": ALT_STA,
+ "credit_b": "Le cabinet", "credit_s": "6 rue Dora Maar, Tours",
+ "about_title": "Du côté<br>des <em>victimes</em>",
+ "lead": "Réactive et pugnace — pour que chaque victime obtienne la juste réparation de son préjudice.",
+ "p1": "Avocate au Barreau de Tours, Maître Constance Mauléon est titulaire d'un "
+       "Master 2 en droit du dommage corporel — une spécialisation rare, entièrement "
+       "dédiée à l'indemnisation des victimes. Son cabinet indépendant est installé "
+       "au 6 rue Dora Maar, à Tours.",
+ "p2": "Elle intervient en dommage corporel et indemnisation des victimes, droit de la "
+       "santé et responsabilité médicale, droit des assurances et droit pénal — pour "
+       "les victimes comme pour les personnes poursuivies. Attachée à l'accès au droit, "
+       "elle accepte l'aide juridictionnelle.",
+ "sig": "Constance Mauléon", "sig_sub": "Avocate au Barreau de Tours<br>Cabinet indépendant",
+ "exp_title": "Obtenir la juste<br><em>réparation</em>",
+ "exp_intro": "Accidents, erreurs médicales, infractions&nbsp;: une pratique dédiée "
+              "à la défense des victimes et des assurés.",
+ "exps": [
+   ("Accidents de la route", "Indemnisation des victimes d'accidents de la circulation, loi Badinter, expertises."),
+   ("Responsabilité médicale", "Erreurs et accidents médicaux, infections nosocomiales, CCI et contentieux."),
+   ("Victimes d'infractions", "Constitution de partie civile, CIVI, réparation intégrale du préjudice."),
+   ("Expertises médicales", "Assistance aux expertises amiables et judiciaires, contestation des offres d'assureurs."),
+   ("Droit des assurances", "Litiges avec les assureurs, garanties, refus de prise en charge."),
+   ("Défense pénale", "Défense des personnes poursuivies devant les juridictions pénales."),
+ ],
+ "parc_title": "Une spécialiste<br>de la <em>réparation</em>",
+ "tl": [
+   ("Aujourd'hui", "Avocate — cabinet indépendant", "6 rue Dora Maar, Tours",
+    "Une pratique indépendante entièrement tournée vers l'indemnisation des victimes "
+    "et le contentieux de la santé, à Tours et dans tout le ressort."),
+   ("Formation", "Master 2 — Droit du dommage corporel", "Spécialisation victimes",
+    "Une spécialisation universitaire rare, dédiée à l'évaluation et à la réparation "
+    "des préjudices corporels."),
+   ("Engagement", "Accès au droit", "Aide juridictionnelle acceptée",
+    "Le premier entretien (80&nbsp;€ HT) est offert lorsque le dossier est confié au "
+    "cabinet, et l'aide juridictionnelle est acceptée."),
+ ],
+ "form_title": "Une spécialisation<br><em>rare</em>",
+ "dips": [
+   ("M2", "Master 2 — Droit du dommage corporel",
+    "L'évaluation et la réparation des préjudices corporels, au cœur de la formation.", "Dommage corporel"),
+   ("CAPA", "Certificat d'aptitude à la profession d'avocat",
+    "Inscription au Barreau de Tours.", "Barreau de Tours"),
+   ("AJ", "Aide juridictionnelle",
+    "Le cabinet accepte l'aide juridictionnelle, totale ou partielle.", "Accès au droit"),
+ ],
+ "infos_title": "Réactive<br>et <em>pugnace</em>",
+ "infos": [
+   ("Un premier entretien de 60 minutes (80&nbsp;€ HT), offert si le dossier est confié au cabinet.",
+    "Premier entretien", "Offert si dossier confié"),
+   ("Le cabinet accepte l'aide juridictionnelle et propose des facilités de paiement.",
+    "Aide juridictionnelle", "Acceptée"),
+   ("Le cabinet vous reçoit du lundi au vendredi, de 8&nbsp;heures à 18&nbsp;heures&nbsp;30.",
+    "Horaires", "Lun — ven, 8h à 18h30"),
+ ],
+ "contact_blocks": [
+   ("Cabinet", "<p>6 rue Dora Maar<br>37100 Tours</p>", "Sur rendez-vous"),
+   ("Horaires", "<p>Lundi — vendredi<br>8h à 18h30</p>", "Réponse rapide"),
+   ("Écrire", "<p>Via le formulaire ci-contre</p>", "Échanges couverts par le secret professionnel"),
+ ],
+ "opts": ["Accident de la route", "Erreur médicale", "Victime d'infraction",
+          "Litige d'assurance", "Défense pénale", "Autre"],
+ "footer_name": "Constance Mauléon", "footer_sub": "Avocate au Barreau de Tours",
+ "sources": "Justifit, consultation.avocat.fr", "me": "Me Mauléon",
+},
+
+# ─────────────────────────── 15. TAMARA LEJUSTE — VALENCIENNES ──
+{
+ "slug": "tamara-lejuste", "mono": "L", "watermark": "L",
+ "brand": "Tamara Lejuste", "brand_sub": "Avocate — Barreau de Valenciennes",
+ "title": "Maître Tamara Lejuste — Avocate au Barreau de Valenciennes | Famille &amp; pénal",
+ "desc": "Maître Tamara Lejuste, Avocate au Barreau de Valenciennes. Droit de la famille, des personnes et de leur patrimoine, droit pénal.",
+ "ink": "#141216", "ink2": "#1D1A20", "ink3": "#28242C", "radial": "rgba(120,100,140,.14)",
+ "kicker": "Avocate au Barreau de Valenciennes",
+ "h1a": "Maître", "h1b": "Tamara <em>Lejuste</em>",
+ "hero_sub": "Avocate au Barreau de Valenciennes depuis 2018, j'accompagne les familles "
+             "et défends les justiciables du Valenciennois — en conseil comme au "
+             "contentieux, avec un premier échange sans engagement.",
+ "meta": [("Famille", "Divorce &amp; enfants"),
+          ("Patrimoine", "Personnes &amp; biens"),
+          ("Pénal", "Défense &amp; victimes")],
+ "marquee": ["Barreau de Valenciennes — Serment prêté en 2018",
+             "Conseil et contentieux",
+             "Premier échange de 30 minutes sans engagement",
+             "Divorce, PACS, autorité parentale",
+             "Cabinet au 17 avenue de Saint-Amand"],
+ "stats": [{"n": "7", "label": "Années d'exercice"},
+           {"n": "2018", "counter": False, "label": "Prestation de serment"},
+           {"n": "2", "label": "Domaines principaux"},
+           {"n": "30", "label": "Minutes de premier échange"}],
+ "img": IMG_LIB, "img_alt": ALT_LIB,
+ "credit_b": "Le cabinet", "credit_s": "17 avenue de Saint-Amand, Valenciennes",
+ "about_title": "Le droit de la famille,<br>au cœur du <em>Valenciennois</em>",
+ "lead": "Accompagner les familles et défendre les justiciables, avec écoute et détermination.",
+ "p1": "Avocate au Barreau de Valenciennes depuis sa prestation de serment le "
+       "27 novembre 2018, Maître Tamara Lejuste exerce au 17 avenue de Saint-Amand, "
+       "à quelques minutes du palais de justice de Valenciennes.",
+ "p2": "Sa pratique couvre le droit de la famille, des personnes et de leur "
+       "patrimoine — divorce, PACS, séparation, adoption, autorité parentale, pension "
+       "alimentaire, résidence des enfants — ainsi que le droit pénal, des "
+       "contraventions aux crimes. Chaque dossier commence par un premier échange de "
+       "trente minutes, sans engagement.",
+ "sig": "Tamara Lejuste", "sig_sub": "Avocate au Barreau de Valenciennes<br>Depuis 2018",
+ "exp_title": "Protéger la famille,<br>défendre la <em>personne</em>",
+ "exp_intro": "Deux domaines complémentaires, en conseil comme devant les juridictions "
+              "du Valenciennois.",
+ "exps": [
+   ("Divorce &amp; séparation", "Divorce amiable ou contentieux, séparation, PACS, liquidation du régime matrimonial."),
+   ("Enfants &amp; autorité parentale", "Résidence des enfants, droits de visite et d'hébergement, pension alimentaire."),
+   ("Adoption &amp; filiation", "Procédures d'adoption, actions relatives à la filiation."),
+   ("Patrimoine des personnes", "Protection des personnes et de leur patrimoine, indivision."),
+   ("Défense pénale", "Contraventions, délits et crimes — assistance et défense devant les juridictions pénales."),
+   ("Victimes", "Constitution de partie civile et réparation du préjudice."),
+ ],
+ "parc_title": "Sept ans<br>de <em>terrain</em>",
+ "tl": [
+   ("Depuis 2018", "Avocate — Barreau de Valenciennes", "17 avenue de Saint-Amand",
+    "Une pratique de proximité au service des familles et des justiciables du "
+    "Valenciennois, en conseil comme au contentieux."),
+   ("27 novembre 2018", "Prestation de serment", "Barreau de Valenciennes",
+    "Entrée dans la profession d'avocat après l'obtention du CAPA."),
+   ("Méthode", "Un premier échange sans engagement", "30 minutes",
+    "Un premier rendez-vous de trente minutes pour faire connaissance, comprendre "
+    "votre situation et définir la marche à suivre."),
+ ],
+ "form_title": "Un parcours dédié<br>au <em>contentieux</em>",
+ "dips": [
+   ("2018", "CAPA — Certificat d'aptitude à la profession d'avocat",
+    "Prestation de serment le 27 novembre 2018.", "Barreau de Valenciennes"),
+   ("Droit", "Formation en droit privé",
+    "Un cursus orienté vers le droit des personnes, de la famille et le droit pénal.", "Droit privé"),
+   ("7 ans", "D'expérience continue",
+    "Une pratique quotidienne des juridictions du Valenciennois depuis 2018.", "Valenciennes"),
+ ],
+ "infos_title": "Un premier échange<br>sans <em>engagement</em>",
+ "infos": [
+   ("Un premier rendez-vous de trente minutes, sans engagement, pour faire connaissance et évaluer votre situation.",
+    "Premier échange", "30 minutes — sans engagement"),
+   ("Chaque dossier est suivi personnellement par Maître Lejuste, du premier rendez-vous à l'audience.",
+    "Suivi personnel", "Interlocutrice unique"),
+   ("Le cabinet est situé au 17 avenue de Saint-Amand, à quelques minutes du palais de justice de Valenciennes.",
+    "Accès", "Avenue de Saint-Amand"),
+ ],
+ "contact_blocks": [
+   ("Cabinet", "<p>17 avenue de Saint-Amand<br>59300 Valenciennes</p>", "Sur rendez-vous"),
+   ("Premier échange", "<p>30 minutes<br>sans engagement</p>", "Pour évaluer votre situation"),
+   ("Écrire", "<p>Via le formulaire ci-contre</p>", "Échanges couverts par le secret professionnel"),
+ ],
+ "opts": ["Divorce &amp; séparation", "Enfants &amp; autorité parentale", "Adoption &amp; filiation",
+          "Patrimoine", "Défense pénale", "Victime d'infraction", "Autre"],
+ "footer_name": "Tamara Lejuste", "footer_sub": "Avocate au Barreau de Valenciennes",
+ "sources": "Justifit, consultation.avocat.fr", "me": "Me Lejuste",
+},
 ]
