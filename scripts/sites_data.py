@@ -1330,4 +1330,893 @@ SITES = [
  "footer_name": "Tamara Lejuste", "footer_sub": "Avocate au Barreau de Valenciennes",
  "sources": "Justifit, consultation.avocat.fr", "me": "Me Lejuste",
 },
+
+# ═══════════════════════════ FOURNÉE 4 ═══════════════════════════
+
+# ─────────────────────────── 16. RATIBA RAHACHE — GRENOBLE ──
+{
+ "slug": "ratiba-rahache", "mono": "R", "watermark": "R",
+ "brand": "Ratiba Rahache", "brand_sub": "Avocate — Barreau de Grenoble",
+ "title": "Maître Ratiba Rahache — Avocate au Barreau de Grenoble | Famille, international &amp; dommage corporel",
+ "desc": "Maître Ratiba Rahache, Avocate au Barreau de Grenoble depuis 2001. Droit de la famille, droit international privé, dommage corporel.",
+ "ink": "#0C1620", "ink2": "#121F2C", "ink3": "#1A2B3C", "radial": "rgba(60,120,170,.2)",
+ "kicker": "Avocate au Barreau de Grenoble",
+ "h1a": "Maître", "h1b": "Ratiba <em>Rahache</em>",
+ "hero_sub": "Avocate au Barreau de Grenoble depuis 2001, j'accompagne les familles — y "
+             "compris par-delà les frontières&nbsp;: mariages mixtes, divorces "
+             "internationaux, successions et déplacements d'enfants.",
+ "meta": [("Famille", "Divorce &amp; successions"),
+          ("International privé", "Mariages &amp; divorces mixtes"),
+          ("Dommage corporel", "Indemnisation des victimes")],
+ "marquee": ["Barreau de Grenoble — Serment prêté en 2001",
+             "Vingt-cinq années d'expérience",
+             "Droit international privé de la famille",
+             "Aide juridictionnelle acceptée",
+             "Première consultation offerte si le dossier est confié"],
+ "stats": [{"n": "25", "label": "Années d'exercice"},
+           {"n": "2001", "counter": False, "label": "Prestation de serment"},
+           {"n": "3", "label": "Domaines d'intervention"},
+           {"n": "1", "label": "Interlocutrice unique"}],
+ "img": IMG_COL, "img_alt": ALT_COL,
+ "credit_b": "Le cabinet", "credit_s": "23 avenue Alsace-Lorraine, Grenoble",
+ "about_title": "Le droit de la famille,<br>sans <em>frontières</em>",
+ "lead": "Vingt-cinq ans d'expérience du contentieux familial, en France comme à l'international.",
+ "p1": "Avocate au Barreau de Grenoble depuis sa prestation de serment le 29 janvier "
+       "2001, Maître Ratiba Rahache exerce au 23 avenue Alsace-Lorraine, au cœur de "
+       "Grenoble, à deux pas de la gare.",
+ "p2": "Sa pratique couvre le droit de la famille — divorces, séparations, PACS, "
+       "successions, autorité parentale —, le droit international privé de la famille "
+       "— mariages et divorces mixtes, déplacements illicites d'enfants, transcription "
+       "des décisions étrangères, successions internationales — et le droit du dommage "
+       "corporel. Le cabinet accepte l'aide juridictionnelle et propose des facilités "
+       "de paiement.",
+ "sig": "Ratiba Rahache", "sig_sub": "Avocate au Barreau de Grenoble<br>Depuis 2001",
+ "exp_title": "De Grenoble<br>à l'<em>international</em>",
+ "exp_intro": "Une expertise rare du droit international privé, adossée à vingt-cinq "
+              "ans de contentieux familial.",
+ "exps": [
+   ("Divorce &amp; séparation", "Divorce amiable ou contentieux, séparation, PACS, liquidation du régime matrimonial."),
+   ("Enfants &amp; autorité parentale", "Autorité parentale, résidence des enfants, pension alimentaire."),
+   ("Successions", "Règlement des successions, partages, indivisions et contentieux successoraux."),
+   ("Mariages &amp; divorces mixtes", "Couples franco-étrangers, loi applicable, reconnaissance et transcription des décisions étrangères."),
+   ("Déplacements illicites d'enfants", "Enlèvements internationaux d'enfants, Convention de La Haye, retour et droit de visite."),
+   ("Dommage corporel", "Accidents de la route, violences, accidents médicaux et du travail — indemnisation des victimes."),
+ ],
+ "parc_title": "Un quart de siècle<br>au <em>barreau</em>",
+ "tl": [
+   ("Depuis 2001", "Avocate — Barreau de Grenoble", "23 avenue Alsace-Lorraine",
+    "Vingt-cinq années de pratique du droit de la famille et du droit international "
+    "privé, au service des familles de l'Isère."),
+   ("29 janvier 2001", "Prestation de serment", "Barreau de Grenoble",
+    "Entrée dans la profession d'avocat après l'obtention du CAPA."),
+   ("Spécificité", "Droit international privé", "Familles franco-étrangères",
+    "Une expertise développée au fil des dossiers de couples mixtes, de successions "
+    "internationales et de déplacements d'enfants."),
+ ],
+ "form_title": "Une expertise bâtie<br>sur la <em>durée</em>",
+ "dips": [
+   ("2001", "CAPA — Certificat d'aptitude à la profession d'avocat",
+    "Prestation de serment le 29 janvier 2001.", "Barreau de Grenoble"),
+   ("DIP", "Droit international privé",
+    "Une pratique spécialisée du droit de la famille à dimension internationale.", "Familles mixtes"),
+   ("25 ans", "D'expérience continue",
+    "Une pratique quotidienne des juridictions grenobloises depuis 2001.", "Grenoble"),
+ ],
+ "infos_title": "Un accès au droit<br><em>facilité</em>",
+ "infos": [
+   ("La première consultation est offerte lorsque le dossier est confié au cabinet.",
+    "Première consultation", "Offerte si dossier confié"),
+   ("Le cabinet accepte l'aide juridictionnelle et permet le règlement des honoraires en plusieurs fois.",
+    "Aide juridictionnelle", "Acceptée · Paiement échelonné"),
+   ("Le cabinet est situé au 23 avenue Alsace-Lorraine, à proximité immédiate de la gare de Grenoble.",
+    "Accès", "Avenue Alsace-Lorraine"),
+ ],
+ "contact_blocks": [
+   ("Cabinet", "<p>23 avenue Alsace-Lorraine<br>38000 Grenoble</p>", "Près de la gare — sur rendez-vous"),
+   ("Téléphone", '<a href="tel:+33476461245">04 76 46 12 45</a>', "Du lundi au vendredi"),
+   ("Écrire", '<a href="mailto:r.rahache@orange.fr">r.rahache@orange.fr</a>', "Échanges couverts par le secret professionnel"),
+ ],
+ "opts": ["Divorce &amp; séparation", "Enfants &amp; autorité parentale", "Succession",
+          "Dossier international", "Déplacement d'enfant", "Dommage corporel", "Autre"],
+ "footer_name": "Ratiba Rahache", "footer_sub": "Avocate au Barreau de Grenoble",
+ "sources": "annuaire de l'Ordre des avocats de Grenoble, Justifit", "me": "Me Rahache",
+},
+
+# ─────────────────────────── 17. AMINATA SOMDA — ROUEN ──
+{
+ "slug": "aminata-somda", "mono": "S", "watermark": "S",
+ "brand": "Aminata Somda", "brand_sub": "Avocate — Barreau de Rouen",
+ "title": "Maître Aminata Somda — Avocate au Barreau de Rouen | Famille, travail, étrangers &amp; numérique",
+ "desc": "Maître Aminata Somda, Avocate au Barreau de Rouen. Droit de la famille, droit du travail, droit des étrangers, recouvrement, droit du numérique.",
+ "ink": "#0D1712", "ink2": "#14211B", "ink3": "#1C2E25", "radial": "rgba(45,120,85,.2)",
+ "kicker": "Avocate au Barreau de Rouen",
+ "h1a": "Maître", "h1b": "Aminata <em>Somda</em>",
+ "hero_sub": "Avocate au Barreau de Rouen, j'accompagne les particuliers et les "
+             "employeurs sur cinq terrains&nbsp;: la famille, le travail, le séjour, "
+             "le recouvrement et le numérique.",
+ "meta": [("Famille &amp; travail", "Divorce &amp; licenciement"),
+          ("Étrangers", "Séjour &amp; nationalité"),
+          ("Numérique", "Données &amp; internet")],
+ "marquee": ["Barreau de Rouen — Diplômée de l'EFB Paris",
+             "Aide juridictionnelle acceptée",
+             "Honoraire horaire de 150&nbsp;€ TTC",
+             "Droit du numérique et des nouvelles technologies",
+             "Cabinet avenue de Bretagne, Rouen"],
+ "stats": [{"n": "5", "label": "Domaines d'intervention"},
+           {"n": "2021", "counter": False, "label": "Obtention du CAPA"},
+           {"n": "150", "sup": "€", "label": "Honoraire horaire TTC"},
+           {"n": "8", "counter": False, "label": "8ᵉ étage — Montmorency 2"}],
+ "img": IMG_LIB, "img_alt": ALT_LIB,
+ "credit_b": "Le cabinet", "credit_s": "65 avenue de Bretagne, Rouen",
+ "about_title": "Cinq domaines,<br>une même <em>disponibilité</em>",
+ "lead": "Du contentieux familial au droit du numérique — un accompagnement complet, à tarif transparent.",
+ "p1": "Avocate au Barreau de Rouen, Maître Aminata Somda a obtenu son CAPA en 2021 "
+       "après sa formation à l'École de Formation du Barreau de Paris. Son cabinet est "
+       "installé au 65 avenue de Bretagne, immeuble Montmorency 2, 8ᵉ étage, à Rouen.",
+ "p2": "Elle intervient en droit de la famille (divorce, pensions, garde d'enfants), "
+       "droit du travail (côté salariés comme employeurs), droit des étrangers et de "
+       "la nationalité, recouvrement de créances et voies d'exécution, ainsi qu'en "
+       "droit du numérique. Le cabinet pratique un honoraire horaire transparent de "
+       "150&nbsp;€ TTC et accepte l'aide juridictionnelle.",
+ "sig": "Aminata Somda", "sig_sub": "Avocate au Barreau de Rouen<br>Diplômée de l'EFB Paris",
+ "exp_title": "De la famille<br>au <em>numérique</em>",
+ "exp_intro": "Une pratique généraliste moderne, au service des particuliers "
+              "et des entreprises normandes.",
+ "exps": [
+   ("Divorce &amp; famille", "Divorce, séparation, pension alimentaire, prestation compensatoire, droit de visite et garde des enfants."),
+   ("Droit du travail — salariés", "Licenciement, rupture conventionnelle, prise d'acte de la rupture du contrat."),
+   ("Droit du travail — employeurs", "Sécurisation des procédures, ruptures et contentieux prud'homal."),
+   ("Séjour &amp; nationalité", "Régularisation, titres de séjour, visas, naturalisation, recours contre les mesures d'éloignement."),
+   ("Recouvrement &amp; exécution", "Recouvrement de créances, saisies et procédures d'exécution."),
+   ("Droit du numérique", "Données personnelles, litiges liés à internet et aux nouvelles technologies."),
+ ],
+ "parc_title": "De Paris<br>à <em>Rouen</em>",
+ "tl": [
+   ("Aujourd'hui", "Avocate — Barreau de Rouen", "65 avenue de Bretagne — Montmorency 2",
+    "Une pratique généraliste au service des particuliers et des entreprises de "
+    "Seine-Maritime, en conseil comme au contentieux."),
+   ("2021", "Obtention du CAPA", "École de Formation du Barreau de Paris",
+    "Formation professionnelle à l'EFB, l'une des plus grandes écoles d'avocats de "
+    "France, avant l'inscription au Barreau de Rouen."),
+   ("Engagement", "Accès au droit", "Aide juridictionnelle acceptée",
+    "Un honoraire horaire transparent de 150&nbsp;€ TTC et l'acceptation de l'aide "
+    "juridictionnelle, pour un droit réellement accessible."),
+ ],
+ "form_title": "Formée à<br>l'<em>EFB Paris</em>",
+ "dips": [
+   ("2021", "CAPA — École de Formation du Barreau de Paris",
+    "La formation professionnelle des avocats du ressort de la cour d'appel de Paris.", "EFB Paris"),
+   ("Droit", "Formation en droit privé",
+    "Un cursus généraliste couvrant le droit social, le droit des personnes et le numérique.", "Droit privé"),
+   ("NTIC", "Droit du numérique",
+    "Une compétence encore rare au barreau, au service des litiges liés à internet.", "Numérique &amp; données"),
+ ],
+ "infos_title": "Des honoraires<br><em>transparents</em>",
+ "infos": [
+   ("Un honoraire horaire clair de 150&nbsp;€ TTC, annoncé dès le premier rendez-vous et formalisé par convention.",
+    "Honoraires", "150&nbsp;€ TTC / heure"),
+   ("Le cabinet accepte l'aide juridictionnelle, totale ou partielle, selon vos ressources.",
+    "Aide juridictionnelle", "Acceptée"),
+   ("Le cabinet vous reçoit au 65 avenue de Bretagne, immeuble Montmorency 2, au 8ᵉ étage.",
+    "Accès", "Avenue de Bretagne — Rouen"),
+ ],
+ "contact_blocks": [
+   ("Cabinet", "<p>65 avenue de Bretagne<br>Immeuble Montmorency 2 — 8ᵉ étage<br>76100 Rouen</p>", "Sur rendez-vous"),
+   ("Honoraires", "<p>150&nbsp;€ TTC / heure</p>", "Aide juridictionnelle acceptée"),
+   ("Écrire", "<p>Via le formulaire ci-contre</p>", "Échanges couverts par le secret professionnel"),
+ ],
+ "opts": ["Divorce &amp; famille", "Droit du travail — salarié", "Droit du travail — employeur",
+          "Titre de séjour &amp; nationalité", "Recouvrement de créances", "Droit du numérique", "Autre"],
+ "footer_name": "Aminata Somda", "footer_sub": "Avocate au Barreau de Rouen",
+ "sources": "annuaire du Barreau de Rouen, Justifit, Alexia", "me": "Me Somda",
+},
+
+# ─────────────────────────── 18. NOÉMIE ERNOULT — ANGERS ──
+{
+ "slug": "noemie-ernoult", "mono": "E", "watermark": "E",
+ "brand": "Noémie Ernoult", "brand_sub": "Avocate — Barreau d'Angers",
+ "title": "Maître Noémie Ernoult — Avocate au Barreau d'Angers | Droit pénal &amp; droit de la famille",
+ "desc": "Maître Noémie Ernoult, Avocate au Barreau d'Angers. Droit pénal, droit de la famille, des personnes et de leur patrimoine.",
+ "ink": "#121418", "ink2": "#1A1D23", "ink3": "#24282F", "radial": "rgba(90,105,140,.18)",
+ "kicker": "Avocate au Barreau d'Angers",
+ "h1a": "Maître", "h1b": "Noémie <em>Ernoult</em>",
+ "hero_sub": "Avocate au Barreau d'Angers depuis 2013, j'assiste victimes, prévenus et "
+             "accusés devant les juridictions pénales, et accompagne les familles à "
+             "chaque étape — avec rigueur et écoute.",
+ "meta": [("Pénal", "Victimes, prévenus &amp; accusés"),
+          ("Famille", "Divorce &amp; enfants"),
+          ("Patrimoine", "Personnes &amp; biens")],
+ "marquee": ["Barreau d'Angers — Serment prêté en 2013",
+             "Treize années d'expérience",
+             "Défense des victimes comme des prévenus",
+             "Première consultation offerte si une procédure suit",
+             "Cabinet rue Paul Bert, Angers"],
+ "stats": [{"n": "13", "label": "Années d'exercice"},
+           {"n": "2013", "counter": False, "label": "Prestation de serment"},
+           {"n": "2", "label": "Domaines principaux"},
+           {"n": "1", "label": "Interlocutrice unique"}],
+ "img": IMG_STA, "img_alt": ALT_STA,
+ "credit_b": "Le cabinet", "credit_s": "17 rue Paul Bert, Angers",
+ "about_title": "Rigoureuse<br>et à l'<em>écoute</em>",
+ "lead": "Assister chacun — victime, prévenu ou accusé — avec la même rigueur et la même écoute.",
+ "p1": "Avocate au Barreau d'Angers depuis sa prestation de serment le 6 décembre 2013, "
+       "Maître Noémie Ernoult exerce au 17 rue Paul Bert, à Angers. Treize années de "
+       "pratique lui ont donné une connaissance fine des juridictions du Maine-et-Loire.",
+ "p2": "Sa pratique s'organise autour de deux pôles&nbsp;: le droit pénal, où elle "
+       "accompagne ses clients devant l'ensemble des juridictions répressives, qu'ils "
+       "soient victimes, prévenus ou accusés&nbsp;; et le droit de la famille, des "
+       "personnes et de leur patrimoine. La première consultation est offerte lorsqu'une "
+       "procédure est ensuite engagée.",
+ "sig": "Noémie Ernoult", "sig_sub": "Avocate au Barreau d'Angers<br>Depuis 2013",
+ "exp_title": "Deux pôles,<br>une même <em>exigence</em>",
+ "exp_intro": "Du tribunal correctionnel au juge aux affaires familiales, "
+              "un accompagnement complet des personnes.",
+ "exps": [
+   ("Défense pénale", "Assistance en garde à vue, défense devant le tribunal correctionnel et la cour d'assises."),
+   ("Victimes d'infractions", "Constitution de partie civile, réparation du préjudice, accompagnement tout au long de la procédure."),
+   ("Divorce &amp; séparation", "Divorce amiable ou contentieux, séparation, PACS, liquidation du régime matrimonial."),
+   ("Enfants &amp; autorité parentale", "Autorité parentale, droits de visite et d'hébergement, pension alimentaire."),
+   ("Filiation &amp; nom", "Actions relatives à la filiation, changements de nom."),
+   ("Patrimoine des personnes", "Protection des personnes et de leur patrimoine, indivision, successions."),
+ ],
+ "parc_title": "Treize ans<br>de <em>prétoire</em>",
+ "tl": [
+   ("Depuis 2013", "Avocate — Barreau d'Angers", "17 rue Paul Bert",
+    "Treize années de pratique du contentieux pénal et familial devant les "
+    "juridictions du Maine-et-Loire."),
+   ("6 décembre 2013", "Prestation de serment", "Barreau d'Angers",
+    "Entrée dans la profession d'avocat après l'obtention du CAPA."),
+   ("Méthode", "Rigueur et écoute", "Première consultation offerte",
+    "La première consultation est offerte lorsqu'une procédure est ensuite engagée "
+    "avec le cabinet."),
+ ],
+ "form_title": "Un parcours<br>de <em>pénaliste</em>",
+ "dips": [
+   ("2013", "CAPA — Certificat d'aptitude à la profession d'avocat",
+    "Prestation de serment le 6 décembre 2013.", "Barreau d'Angers"),
+   ("Droit", "Formation en droit privé et sciences criminelles",
+    "Un cursus orienté vers le droit pénal et le droit des personnes.", "Droit pénal"),
+   ("13 ans", "D'expérience continue",
+    "Une pratique quotidienne des juridictions angevines depuis 2013.", "Angers"),
+ ],
+ "infos_title": "Un premier échange<br>sans <em>frais</em>",
+ "infos": [
+   ("La première consultation est offerte lorsqu'une procédure est ensuite engagée avec le cabinet.",
+    "Première consultation", "Offerte si procédure"),
+   ("Chaque dossier est suivi personnellement, du premier rendez-vous jusqu'à l'audience.",
+    "Suivi personnel", "Interlocutrice unique"),
+   ("Le cabinet est joignable directement au 02 41 87 01 87, rue Paul Bert à Angers.",
+    "Réactivité", "Contact direct"),
+ ],
+ "contact_blocks": [
+   ("Cabinet", "<p>17 rue Paul Bert<br>49000 Angers</p>", "Sur rendez-vous"),
+   ("Téléphone", '<a href="tel:+33241870187">02 41 87 01 87</a>', "Du lundi au vendredi"),
+   ("Écrire", '<a href="mailto:noemie.ernoult@avocat.fr">noemie.ernoult@avocat.fr</a>', "Échanges couverts par le secret professionnel"),
+ ],
+ "opts": ["Défense pénale", "Victime d'infraction", "Divorce &amp; séparation",
+          "Enfants &amp; autorité parentale", "Succession &amp; patrimoine", "Autre"],
+ "footer_name": "Noémie Ernoult", "footer_sub": "Avocate au Barreau d'Angers",
+ "sources": "annuaire du Barreau d'Angers, Justifit", "me": "Me Ernoult",
+},
+
+# ─────────────────────────── 19. MARINE BASSET — REIMS ──
+{
+ "slug": "marine-basset", "mono": "B", "watermark": "B",
+ "brand": "Marine Basset", "brand_sub": "Avocate — Barreau de Reims",
+ "title": "Maître Marine Basset — Avocate au Barreau de Reims | Famille, mineurs, pénal &amp; contrats",
+ "desc": "Maître Marine Basset, Avocate au Barreau de Reims, membre du conseil de l'Ordre. Droit de la famille, droit des mineurs, droit pénal, droit des contrats.",
+ "ink": "#17101A", "ink2": "#211826", "ink3": "#2D2133", "radial": "rgba(120,60,140,.18)",
+ "kicker": "Avocate au Barreau de Reims",
+ "h1a": "Maître", "h1b": "Marine <em>Basset</em>",
+ "hero_sub": "Avocate au Barreau de Reims depuis 2015 et membre du conseil de l'Ordre, "
+             "je défends les familles et les enfants — du juge aux affaires familiales "
+             "au tribunal pour enfants.",
+ "meta": [("Famille", "Divorce &amp; patrimoine"),
+          ("Mineurs", "Assistance éducative"),
+          ("Pénal &amp; contrats", "Défense &amp; litiges")],
+ "marquee": ["Barreau de Reims — Serment prêté en 2015",
+             "Membre du conseil de l'Ordre",
+             "Droit des mineurs et assistance éducative",
+             "Tribunal pour enfants et juge des enfants",
+             "Cabinet rue des Marmouzets, Reims"],
+ "stats": [{"n": "11", "label": "Années d'exercice"},
+           {"n": "2015", "counter": False, "label": "Prestation de serment"},
+           {"n": "4", "label": "Domaines d'intervention"},
+           {"n": "1", "counter": False, "label": "Membre du conseil de l'Ordre"}],
+ "img": IMG_LIB, "img_alt": ALT_LIB,
+ "credit_b": "Le cabinet", "credit_s": "9 rue des Marmouzets, Reims",
+ "about_title": "La famille et l'enfant,<br>au cœur de la <em>pratique</em>",
+ "lead": "Défendre les familles et protéger les enfants — devant le juge aux affaires familiales comme devant le juge des enfants.",
+ "p1": "Avocate au Barreau de Reims depuis sa prestation de serment le 7 janvier 2015, "
+       "Maître Marine Basset exerce au 9 rue des Marmouzets, en plein centre de Reims. "
+       "Membre du conseil de l'Ordre, elle participe à la vie et à la gouvernance de "
+       "son barreau.",
+ "p2": "Sa pratique couvre le droit de la famille — divorce par consentement mutuel ou "
+       "contentieux, séparation, garde d'enfants, droits de visite, pension alimentaire, "
+       "partage des biens —, le droit des mineurs, en assistance éducative comme au "
+       "pénal devant le tribunal pour enfants, ainsi que le droit pénal et le droit "
+       "des contrats.",
+ "sig": "Marine Basset", "sig_sub": "Avocate au Barreau de Reims<br>Membre du conseil de l'Ordre",
+ "exp_title": "Protéger la famille,<br>défendre l'<em>enfant</em>",
+ "exp_intro": "Quatre domaines articulés autour d'un même axe&nbsp;: la protection "
+              "des personnes les plus exposées.",
+ "exps": [
+   ("Divorce &amp; séparation", "Divorce par consentement mutuel ou contentieux, séparation, partage des biens."),
+   ("Enfants &amp; autorité parentale", "Garde d'enfants, droits de visite et d'hébergement, pension alimentaire."),
+   ("Assistance éducative", "Représentation devant le juge des enfants, mesures de protection de l'enfance."),
+   ("Mineurs au pénal", "Défense des mineurs devant le tribunal pour enfants et le juge des enfants."),
+   ("Défense pénale", "Assistance en garde à vue et défense devant les juridictions pénales."),
+   ("Droit des contrats", "Rédaction, analyse et contentieux des contrats civils."),
+ ],
+ "parc_title": "Du barreau<br>au conseil de l'<em>Ordre</em>",
+ "tl": [
+   ("Depuis 2015", "Avocate — Barreau de Reims", "9 rue des Marmouzets",
+    "Onze années de pratique du contentieux familial et de la protection de "
+    "l'enfance, au service des familles rémoises."),
+   ("Aujourd'hui", "Membre du conseil de l'Ordre", "Barreau de Reims",
+    "Un engagement dans la gouvernance du barreau, au service de la profession et "
+    "des justiciables."),
+   ("7 janvier 2015", "Prestation de serment", "Barreau de Reims",
+    "Entrée dans la profession d'avocat après l'obtention du CAPA."),
+ ],
+ "form_title": "Un engagement<br>au-delà du <em>dossier</em>",
+ "dips": [
+   ("2015", "CAPA — Certificat d'aptitude à la profession d'avocat",
+    "Prestation de serment le 7 janvier 2015.", "Barreau de Reims"),
+   ("Ordre", "Membre du conseil de l'Ordre",
+    "Un engagement institutionnel au service de la profession et du justiciable.", "Barreau de Reims"),
+   ("Droit", "Formation en droit privé",
+    "Un cursus orienté vers le droit des personnes, de la famille et des mineurs.", "Droit privé"),
+ ],
+ "infos_title": "Une avocate<br><em>engagée</em>",
+ "infos": [
+   ("Membre du conseil de l'Ordre du Barreau de Reims — un engagement au service de la profession et des justiciables.",
+    "Engagement", "Conseil de l'Ordre"),
+   ("Chaque dossier est suivi personnellement, du premier rendez-vous jusqu'à l'audience.",
+    "Suivi personnel", "Interlocutrice unique"),
+   ("Le cabinet est situé au 9 rue des Marmouzets, à quelques pas de la cathédrale de Reims.",
+    "Accès", "Centre de Reims"),
+ ],
+ "contact_blocks": [
+   ("Cabinet", "<p>9 rue des Marmouzets<br>51100 Reims</p>", "Centre-ville — sur rendez-vous"),
+   ("Téléphone", '<a href="tel:+33633462536">06 33 46 25 36</a>', "Du lundi au vendredi"),
+   ("Écrire", '<a href="mailto:marinebasset.avocat@gmail.com">marinebasset.avocat@gmail.com</a>', "Échanges couverts par le secret professionnel"),
+ ],
+ "opts": ["Divorce &amp; séparation", "Enfants &amp; autorité parentale", "Assistance éducative",
+          "Mineur au pénal", "Défense pénale", "Contrat", "Autre"],
+ "footer_name": "Marine Basset", "footer_sub": "Avocate au Barreau de Reims",
+ "sources": "annuaire du Barreau de Reims, Justifit", "me": "Me Basset",
+},
+
+# ─────────────────────────── 20. NATHALIE BERNARD — CLERMONT-FERRAND ──
+{
+ "slug": "nathalie-bernard", "mono": "B", "watermark": "B",
+ "brand": "Nathalie Bernard", "brand_sub": "Avocate — Barreau de Clermont-Ferrand",
+ "title": "Maître Nathalie Bernard — Avocate au Barreau de Clermont-Ferrand | Pénal, famille &amp; civil",
+ "desc": "Maître Nathalie Bernard, Avocate au Barreau de Clermont-Ferrand. Droit pénal, droit de la famille, droit civil.",
+ "ink": "#131211", "ink2": "#1C1A19", "ink3": "#272423", "radial": "rgba(150,90,60,.16)",
+ "kicker": "Avocate au Barreau de Clermont-Ferrand",
+ "h1a": "Maître", "h1b": "Nathalie <em>Bernard</em>",
+ "hero_sub": "Avocate au Barreau de Clermont-Ferrand depuis 2009, je défends victimes, "
+             "prévenus et accusés — du tribunal de police à la cour d'assises — et "
+             "accompagne les familles dans leurs séparations.",
+ "meta": [("Pénal", "Police, correctionnelle &amp; assises"),
+          ("Famille", "Divorce &amp; successions"),
+          ("Civil", "Personnes &amp; biens")],
+ "marquee": ["Barreau de Clermont-Ferrand — Serment prêté en 2009",
+             "Dix-sept années d'expérience",
+             "Défense devant la cour d'assises",
+             "Juge de l'application des peines",
+             "Cabinet rue Lamartine, Clermont-Ferrand"],
+ "stats": [{"n": "17", "label": "Années d'exercice"},
+           {"n": "2009", "counter": False, "label": "Prestation de serment"},
+           {"n": "3", "label": "Domaines d'intervention"},
+           {"n": "4", "label": "Juridictions pénales"}],
+ "img": IMG_STA, "img_alt": ALT_STA,
+ "credit_b": "Le cabinet", "credit_s": "78 rue Lamartine, Clermont-Ferrand",
+ "about_title": "Défendre,<br>à tous les <em>degrés</em>",
+ "lead": "Du tribunal de police à la cour d'assises — une défense pénale complète, doublée d'une pratique familiale.",
+ "p1": "Avocate au Barreau de Clermont-Ferrand depuis sa prestation de serment le "
+       "16 décembre 2009, Maître Nathalie Bernard exerce au 78 rue Lamartine, à "
+       "Clermont-Ferrand. Dix-sept années de pratique lui ont donné une connaissance "
+       "approfondie des juridictions auvergnates.",
+ "p2": "Elle assure la défense pénale devant le tribunal de police, le tribunal "
+       "correctionnel, la cour d'assises et le juge de l'application des peines — pour "
+       "les victimes comme pour les personnes poursuivies. Elle intervient également en "
+       "droit de la famille (divorces amiables ou contentieux, partages successoraux, "
+       "PACS, indivision, autorité parentale) et en droit civil.",
+ "sig": "Nathalie Bernard", "sig_sub": "Avocate au Barreau de Clermont-Ferrand<br>Depuis 2009",
+ "exp_title": "Trois domaines,<br>une même <em>combativité</em>",
+ "exp_intro": "Une pratique du contentieux au sens plein — pénal, familial et civil.",
+ "exps": [
+   ("Défense correctionnelle", "Assistance en garde à vue et défense devant le tribunal correctionnel et le tribunal de police."),
+   ("Cour d'assises", "Défense des accusés et représentation des parties civiles devant la cour d'assises."),
+   ("Application des peines", "Aménagements de peine, représentation devant le juge de l'application des peines."),
+   ("Divorce &amp; séparation", "Divorce amiable ou contentieux, PACS, séparation, liquidation de l'indivision."),
+   ("Successions &amp; partages", "Partages successoraux, indivisions, contentieux entre héritiers."),
+   ("Droit civil", "Défense des intérêts relatifs aux personnes, aux biens et aux relations contractuelles."),
+ ],
+ "parc_title": "Dix-sept ans<br>de <em>défense</em>",
+ "tl": [
+   ("Depuis 2009", "Avocate — Barreau de Clermont-Ferrand", "78 rue Lamartine",
+    "Dix-sept années de pratique du contentieux pénal, familial et civil devant les "
+    "juridictions du Puy-de-Dôme."),
+   ("16 décembre 2009", "Prestation de serment", "Barreau de Clermont-Ferrand",
+    "Entrée dans la profession d'avocat après l'obtention du CAPA."),
+   ("Pratique", "Toutes les juridictions pénales", "Police, correctionnelle, assises, JAP",
+    "Une défense assurée à tous les degrés de la répression, de la contravention "
+    "au crime, et jusqu'à l'exécution de la peine."),
+ ],
+ "form_title": "Une praticienne<br>du <em>contentieux</em>",
+ "dips": [
+   ("2009", "CAPA — Certificat d'aptitude à la profession d'avocat",
+    "Prestation de serment le 16 décembre 2009.", "Barreau de Clermont-Ferrand"),
+   ("Droit", "Formation en droit privé et sciences criminelles",
+    "Un cursus orienté vers le droit pénal et la procédure pénale.", "Droit pénal"),
+   ("17 ans", "D'expérience continue",
+    "Une pratique quotidienne des juridictions clermontoises depuis 2009.", "Clermont-Ferrand"),
+ ],
+ "infos_title": "Une défense<br>à chaque <em>étape</em>",
+ "infos": [
+   ("Le cabinet intervient dès la garde à vue et jusqu'à l'exécution de la peine, devant toutes les juridictions pénales.",
+    "Défense pénale", "De la garde à vue au JAP"),
+   ("Chaque dossier est suivi personnellement, du premier rendez-vous jusqu'à l'audience.",
+    "Suivi personnel", "Interlocutrice unique"),
+   ("Le cabinet est joignable directement au 06 64 95 95 62, rue Lamartine à Clermont-Ferrand.",
+    "Réactivité", "Contact direct"),
+ ],
+ "contact_blocks": [
+   ("Cabinet", "<p>78 rue Lamartine<br>63000 Clermont-Ferrand</p>", "Sur rendez-vous"),
+   ("Téléphone", '<a href="tel:+33664959562">06 64 95 95 62</a>', "Du lundi au vendredi"),
+   ("Écrire", '<a href="mailto:maitrenathaliebernard@gmail.com">maitrenathaliebernard@gmail.com</a>', "Échanges couverts par le secret professionnel"),
+ ],
+ "opts": ["Défense pénale", "Cour d'assises", "Aménagement de peine",
+          "Victime d'infraction", "Divorce &amp; séparation", "Succession", "Autre"],
+ "footer_name": "Nathalie Bernard", "footer_sub": "Avocate au Barreau de Clermont-Ferrand",
+ "sources": "annuaire du Barreau de Clermont-Ferrand, Justifit", "me": "Me Bernard",
+},
+
+# ─────────────────────────── 21. ANNA RAINA — PAU ──
+{
+ "slug": "anna-raina", "mono": "R", "watermark": "R",
+ "brand": "Anna Raina", "brand_sub": "Avocate — Barreau de Pau",
+ "title": "Maître Anna Raina — Avocate au Barreau de Pau | Famille, mineurs &amp; pénal",
+ "desc": "Maître Anna Raina, Avocate au Barreau de Pau. Droit de la famille, droit des mineurs, droit pénal.",
+ "ink": "#0F1611", "ink2": "#16201A", "ink3": "#1F2C24", "radial": "rgba(60,130,90,.2)",
+ "kicker": "Avocate au Barreau de Pau",
+ "h1a": "Maître", "h1b": "Anna <em>Raina</em>",
+ "hero_sub": "Avocate au Barreau de Pau depuis 2013, j'accompagne les familles, les "
+             "enfants et les justiciables du Béarn — avec un secrétariat disponible "
+             "chaque jour pour organiser votre rendez-vous.",
+ "meta": [("Famille", "Divorce &amp; séparation"),
+          ("Mineurs", "Protection de l'enfance"),
+          ("Pénal", "Défense &amp; victimes")],
+ "marquee": ["Barreau de Pau — Serment prêté en 2013",
+             "Treize années d'expérience",
+             "Droit des mineurs et protection de l'enfance",
+             "Secrétariat ouvert du lundi au vendredi",
+             "Cabinet rue de Liège, Pau"],
+ "stats": [{"n": "13", "label": "Années d'exercice"},
+           {"n": "2013", "counter": False, "label": "Prestation de serment"},
+           {"n": "3", "label": "Domaines d'intervention"},
+           {"n": "5", "label": "Jours de secrétariat"}],
+ "img": IMG_COL, "img_alt": ALT_COL,
+ "credit_b": "Le cabinet", "credit_s": "38-40 rue de Liège, Pau",
+ "about_title": "Les familles du Béarn,<br>de la <em>séparation</em> à l'apaisement",
+ "lead": "Accompagner les familles, protéger les enfants, défendre les justiciables — avec disponibilité.",
+ "p1": "Avocate au Barreau de Pau depuis sa prestation de serment le 2 décembre 2013, "
+       "Maître Anna Raina exerce au 38-40 rue de Liège, à Pau. Son secrétariat est "
+       "ouvert du lundi au vendredi, de 9&nbsp;heures à 12&nbsp;heures et de "
+       "14&nbsp;heures à 18&nbsp;heures, pour organiser les rendez-vous.",
+ "p2": "Sa pratique s'articule autour du droit de la famille, du droit des mineurs et "
+       "du droit pénal — trois matières où l'écoute et la disponibilité comptent autant "
+       "que la technique juridique.",
+ "sig": "Anna Raina", "sig_sub": "Avocate au Barreau de Pau<br>Depuis 2013",
+ "exp_title": "Trois domaines,<br>une même <em>attention</em>",
+ "exp_intro": "Familles, enfants et justiciables du Béarn&nbsp;: une pratique "
+              "de proximité, en conseil comme au contentieux.",
+ "exps": [
+   ("Divorce &amp; séparation", "Divorce amiable ou contentieux, séparation, PACS, liquidation du régime matrimonial."),
+   ("Enfants &amp; autorité parentale", "Résidence des enfants, droits de visite et d'hébergement, pension alimentaire."),
+   ("Droit des mineurs", "Assistance éducative, protection de l'enfance, représentation devant le juge des enfants."),
+   ("Mineurs au pénal", "Défense des mineurs devant les juridictions spécialisées."),
+   ("Défense pénale", "Assistance en garde à vue et défense devant les juridictions pénales."),
+   ("Victimes", "Constitution de partie civile et réparation du préjudice."),
+ ],
+ "parc_title": "Treize ans<br>au service du <em>Béarn</em>",
+ "tl": [
+   ("Depuis 2013", "Avocate — Barreau de Pau", "38-40 rue de Liège",
+    "Treize années de pratique du droit de la famille, des mineurs et du droit pénal "
+    "au service des justiciables des Pyrénées-Atlantiques."),
+   ("2 décembre 2013", "Prestation de serment", "Barreau de Pau",
+    "Entrée dans la profession d'avocat après l'obtention du CAPA."),
+   ("Organisation", "Un secrétariat disponible", "Lundi — vendredi",
+    "Un secrétariat ouvert cinq jours sur sept pour organiser rapidement les "
+    "rendez-vous et assurer le suivi des dossiers."),
+ ],
+ "form_title": "Une formation<br>tournée vers la <em>famille</em>",
+ "dips": [
+   ("2013", "CAPA — Certificat d'aptitude à la profession d'avocat",
+    "Prestation de serment le 2 décembre 2013.", "Barreau de Pau"),
+   ("Droit", "Formation en droit privé",
+    "Un cursus orienté vers le droit des personnes, de la famille et des mineurs.", "Droit privé"),
+   ("13 ans", "D'expérience continue",
+    "Une pratique quotidienne des juridictions palloises depuis 2013.", "Pau"),
+ ],
+ "infos_title": "Un secrétariat<br><em>disponible</em>",
+ "infos": [
+   ("Le secrétariat vous accueille du lundi au vendredi, de 9&nbsp;heures à 12&nbsp;heures et de 14&nbsp;heures à 18&nbsp;heures.",
+    "Secrétariat", "Lun — ven, 9h-12h / 14h-18h"),
+   ("Les rendez-vous sont organisés rapidement, en fonction de l'urgence de votre situation.",
+    "Rendez-vous", "Organisés rapidement"),
+   ("Le cabinet est situé au 38-40 rue de Liège, à Pau.",
+    "Accès", "Rue de Liège — Pau"),
+ ],
+ "contact_blocks": [
+   ("Cabinet", "<p>38-40 rue de Liège<br>64000 Pau</p>", "Sur rendez-vous"),
+   ("Téléphone", '<a href="tel:+33559279942">05 59 27 99 42</a>', "Lun — ven, 9h-12h / 14h-18h"),
+   ("Écrire", '<a href="mailto:raina.avocat@gmail.com">raina.avocat@gmail.com</a>', "Échanges couverts par le secret professionnel"),
+ ],
+ "opts": ["Divorce &amp; séparation", "Enfants &amp; autorité parentale", "Droit des mineurs",
+          "Défense pénale", "Victime d'infraction", "Autre"],
+ "footer_name": "Anna Raina", "footer_sub": "Avocate au Barreau de Pau",
+ "sources": "annuaire du Barreau de Pau, Justifit", "me": "Me Raina",
+},
+
+# ─────────────────────────── 22. JEAN-RENÉ MAVOUNGOU — PERPIGNAN ──
+{
+ "slug": "jean-rene-mavoungou", "mono": "M", "watermark": "M",
+ "brand": "Jean-René Mavoungou", "brand_sub": "Avocat — Barreau des Pyrénées-Orientales",
+ "title": "Maître Jean-René Mavoungou — Avocat au Barreau des Pyrénées-Orientales | Pénal, famille, étrangers &amp; travail",
+ "desc": "Maître Jean-René Mavoungou, Avocat au Barreau des Pyrénées-Orientales (Perpignan). Droit pénal, droit de la famille, droit des étrangers, droit du travail.",
+ "ink": "#1A0F0D", "ink2": "#251714", "ink3": "#32211C", "radial": "rgba(165,60,45,.18)",
+ "kicker": "Avocat au Barreau des Pyrénées-Orientales",
+ "h1a": "Maître", "h1b": "Jean-René <em>Mavoungou</em>",
+ "hero_sub": "Avocat à Perpignan depuis 2011, je défends les justiciables sur quatre "
+             "terrains — la défense pénale, la famille, le séjour et le travail — avec "
+             "quinze années de maîtrise de la procédure.",
+ "meta": [("Pénal", "Défense &amp; procédure"),
+          ("Famille", "Divorce &amp; enfants"),
+          ("Étrangers &amp; travail", "Séjour &amp; prud'hommes")],
+ "marquee": ["Barreau des Pyrénées-Orientales — Serment prêté en 2011",
+             "Quinze années d'expérience",
+             "Maîtrise du droit processuel",
+             "Droit de la protection sociale",
+             "Cabinet rue Jeanne d'Arc, Perpignan"],
+ "stats": [{"n": "15", "label": "Années d'exercice"},
+           {"n": "2011", "counter": False, "label": "Prestation de serment"},
+           {"n": "4", "label": "Domaines d'intervention"},
+           {"n": "1", "label": "Interlocuteur unique"}],
+ "img": IMG_STA, "img_alt": ALT_STA,
+ "credit_b": "Le cabinet", "credit_s": "3 rue Jeanne d'Arc, Perpignan",
+ "about_title": "La procédure,<br>arme de la <em>défense</em>",
+ "lead": "Quinze ans de pratique, une même conviction : la maîtrise de la procédure fait la force de la défense.",
+ "p1": "Avocat au Barreau des Pyrénées-Orientales depuis sa prestation de serment le "
+       "17 décembre 2011, Maître Jean-René Mavoungou exerce au 3 rue Jeanne d'Arc, à "
+       "Perpignan. Quinze années de pratique lui ont donné une connaissance fine du "
+       "droit processuel — cette technique de la procédure qui décide souvent de "
+       "l'issue d'un dossier.",
+ "p2": "Sa pratique couvre le droit pénal, le droit de la famille, le droit des "
+       "étrangers et de la nationalité, ainsi que le droit du travail et de la "
+       "protection sociale — quatre matières au service des particuliers du "
+       "département.",
+ "sig": "Jean-René Mavoungou", "sig_sub": "Avocat au Barreau des Pyrénées-Orientales<br>Depuis 2011",
+ "exp_title": "Quatre domaines,<br>une même <em>rigueur</em>",
+ "exp_intro": "Du prétoire pénal au conseil de prud'hommes, une pratique complète "
+              "du contentieux des personnes.",
+ "exps": [
+   ("Défense pénale", "Assistance en garde à vue et défense devant les juridictions pénales."),
+   ("Procédure &amp; recours", "Maîtrise du droit processuel, exceptions de procédure, voies de recours."),
+   ("Divorce &amp; famille", "Divorce, séparation, autorité parentale, pension alimentaire."),
+   ("Séjour &amp; nationalité", "Titres de séjour, régularisation, recours contre les mesures d'éloignement, naturalisation."),
+   ("Droit du travail", "Licenciement, rupture du contrat, contentieux devant le conseil de prud'hommes."),
+   ("Protection sociale", "Contentieux de la sécurité sociale et des prestations sociales."),
+ ],
+ "parc_title": "Quinze ans<br>de <em>procédure</em>",
+ "tl": [
+   ("Depuis 2011", "Avocat — Barreau des Pyrénées-Orientales", "3 rue Jeanne d'Arc",
+    "Quinze années de pratique du contentieux pénal, familial, social et du droit "
+    "des étrangers à Perpignan."),
+   ("17 décembre 2011", "Prestation de serment", "Barreau des Pyrénées-Orientales",
+    "Entrée dans la profession d'avocat après l'obtention du CAPA."),
+   ("Spécificité", "Droit processuel", "La technique au service du fond",
+    "Une maîtrise de la procédure — délais, formes, recours — qui fait souvent la "
+    "différence dans l'issue d'un dossier."),
+ ],
+ "form_title": "Une culture<br>de la <em>procédure</em>",
+ "dips": [
+   ("2011", "CAPA — Certificat d'aptitude à la profession d'avocat",
+    "Prestation de serment le 17 décembre 2011.", "Barreau des Pyrénées-Orientales"),
+   ("Proc.", "Droit processuel",
+    "Une expertise de la procédure civile, pénale et administrative.", "Procédure"),
+   ("15 ans", "D'expérience continue",
+    "Une pratique quotidienne des juridictions catalanes depuis 2011.", "Perpignan"),
+ ],
+ "infos_title": "Un cabinet<br>de <em>proximité</em>",
+ "infos": [
+   ("Chaque dossier est suivi personnellement par Maître Mavoungou, du premier rendez-vous à l'audience.",
+    "Suivi personnel", "Interlocuteur unique"),
+   ("Le cabinet est joignable directement au 04 68 67 18 98, rue Jeanne d'Arc à Perpignan.",
+    "Réactivité", "Contact direct"),
+   ("Le cabinet intervient devant l'ensemble des juridictions des Pyrénées-Orientales.",
+    "Ressort", "Pyrénées-Orientales"),
+ ],
+ "contact_blocks": [
+   ("Cabinet", "<p>3 rue Jeanne d'Arc<br>66000 Perpignan</p>", "Sur rendez-vous"),
+   ("Téléphone", '<a href="tel:+33468671898">04 68 67 18 98</a>', "Du lundi au vendredi"),
+   ("Écrire", "<p>Via le formulaire ci-contre</p>", "Échanges couverts par le secret professionnel"),
+ ],
+ "opts": ["Défense pénale", "Divorce &amp; famille", "Titre de séjour &amp; nationalité",
+          "Droit du travail", "Protection sociale", "Autre"],
+ "footer_name": "Jean-René Mavoungou", "footer_sub": "Avocat au Barreau des Pyrénées-Orientales",
+ "sources": "Justifit, annuaire du barreau", "me": "Me Mavoungou",
+},
+
+# ─────────────────────────── 23. CÉCILE LAGIER — TOULON ──
+{
+ "slug": "cecile-lagier", "mono": "L", "watermark": "L",
+ "brand": "Cécile Lagier", "brand_sub": "Avocate — Barreau de Toulon",
+ "title": "Maître Cécile Lagier — Avocate au Barreau de Toulon | Famille, pénal &amp; civil",
+ "desc": "Maître Cécile Lagier, Avocate au Barreau de Toulon. Droit de la famille, droit pénal, droit civil, droit des personnes.",
+ "ink": "#08181C", "ink2": "#0E2429", "ink3": "#143138", "radial": "rgba(20,120,135,.2)",
+ "kicker": "Avocate au Barreau de Toulon",
+ "h1a": "Maître", "h1b": "Cécile <em>Lagier</em>",
+ "hero_sub": "Avocate au Barreau de Toulon depuis 2010, je défends les personnes — "
+             "dans leurs séparations, devant le juge pénal, et dans les litiges du "
+             "quotidien qui pèsent le plus lourd.",
+ "meta": [("Famille", "Divorce &amp; successions"),
+          ("Pénal", "Défense &amp; victimes"),
+          ("Civil", "Baux &amp; voisinage")],
+ "marquee": ["Barreau de Toulon — Serment prêté en 2010",
+             "Seize années d'expérience",
+             "Divorce amiable et contentieux",
+             "Litiges locatifs et troubles de voisinage",
+             "Cabinet boulevard de Strasbourg, Toulon"],
+ "stats": [{"n": "16", "label": "Années d'exercice"},
+           {"n": "2010", "counter": False, "label": "Prestation de serment"},
+           {"n": "3", "label": "Domaines d'intervention"},
+           {"n": "1", "label": "Interlocutrice unique"}],
+ "img": IMG_COL, "img_alt": ALT_COL,
+ "credit_b": "Le cabinet", "credit_s": "13 boulevard de Strasbourg, Toulon",
+ "about_title": "Le droit des personnes,<br>au cœur de <em>Toulon</em>",
+ "lead": "Défendre les personnes dans ce qui les touche de plus près : leur famille, leur liberté, leur toit.",
+ "p1": "Avocate au Barreau de Toulon depuis sa prestation de serment le 6 janvier 2010, "
+       "Maître Cécile Lagier exerce au 13 boulevard de Strasbourg, en plein centre de "
+       "Toulon. Seize années de pratique lui ont donné une connaissance fine des "
+       "juridictions varoises.",
+ "p2": "Sa pratique est entièrement tournée vers le droit des personnes&nbsp;: le droit "
+       "de la famille (divorces amiables et contentieux, PACS, partages successoraux), "
+       "le droit pénal (défense et représentation devant les juridictions répressives) "
+       "et le droit civil (recouvrement de créances, troubles de voisinage, baux "
+       "d'habitation).",
+ "sig": "Cécile Lagier", "sig_sub": "Avocate au Barreau de Toulon<br>Depuis 2010",
+ "exp_title": "Trois domaines,<br>une même <em>proximité</em>",
+ "exp_intro": "Le droit des personnes dans toutes ses dimensions — familiale, "
+              "pénale et civile.",
+ "exps": [
+   ("Divorce amiable", "Divorce par consentement mutuel, conventions, liquidation du régime matrimonial."),
+   ("Divorce contentieux", "Représentation devant le juge aux affaires familiales, mesures provisoires."),
+   ("PACS &amp; successions", "Conclusion et dissolution du PACS, partages successoraux, indivisions."),
+   ("Défense pénale", "Assistance et défense devant les juridictions répressives, pour les prévenus comme pour les victimes."),
+   ("Baux d'habitation", "Litiges locatifs, loyers impayés, congés, procédures de résiliation."),
+   ("Voisinage &amp; recouvrement", "Troubles anormaux de voisinage, recouvrement de créances civiles."),
+ ],
+ "parc_title": "Seize ans<br>au barreau de <em>Toulon</em>",
+ "tl": [
+   ("Depuis 2010", "Avocate — Barreau de Toulon", "13 boulevard de Strasbourg",
+    "Seize années de pratique du droit des personnes — famille, pénal, civil — "
+    "devant les juridictions du Var."),
+   ("6 janvier 2010", "Prestation de serment", "Barreau de Toulon",
+    "Entrée dans la profession d'avocat après l'obtention du CAPA."),
+   ("Pratique", "Le droit des personnes", "Famille · Pénal · Civil",
+    "Une pratique volontairement centrée sur les litiges qui touchent directement "
+    "la vie des personnes."),
+ ],
+ "form_title": "Une praticienne<br>du <em>quotidien</em>",
+ "dips": [
+   ("2010", "CAPA — Certificat d'aptitude à la profession d'avocat",
+    "Prestation de serment le 6 janvier 2010.", "Barreau de Toulon"),
+   ("Droit", "Formation en droit privé",
+    "Un cursus orienté vers le droit des personnes, de la famille et le droit pénal.", "Droit privé"),
+   ("16 ans", "D'expérience continue",
+    "Une pratique quotidienne des juridictions varoises depuis 2010.", "Toulon"),
+ ],
+ "infos_title": "Un cabinet<br>en plein <em>centre</em>",
+ "infos": [
+   ("Chaque dossier est suivi personnellement, du premier rendez-vous jusqu'à l'audience.",
+    "Suivi personnel", "Interlocutrice unique"),
+   ("Le cabinet est joignable directement au 04 94 02 90 85, boulevard de Strasbourg.",
+    "Réactivité", "Contact direct"),
+   ("Le cabinet est situé au 13 boulevard de Strasbourg, artère principale du centre de Toulon.",
+    "Accès", "Centre de Toulon"),
+ ],
+ "contact_blocks": [
+   ("Cabinet", "<p>13 boulevard de Strasbourg<br>83000 Toulon</p>", "Centre-ville — sur rendez-vous"),
+   ("Téléphone", '<a href="tel:+33494029085">04 94 02 90 85</a>', "Du lundi au vendredi"),
+   ("Écrire", "<p>Via le formulaire ci-contre</p>", "Échanges couverts par le secret professionnel"),
+ ],
+ "opts": ["Divorce amiable", "Divorce contentieux", "PACS &amp; succession",
+          "Défense pénale", "Bail d'habitation", "Voisinage &amp; recouvrement", "Autre"],
+ "footer_name": "Cécile Lagier", "footer_sub": "Avocate au Barreau de Toulon",
+ "sources": "annuaire du Barreau de Toulon, Justifit", "me": "Me Lagier",
+},
+
+# ─────────────────────────── 24. ÉMILIE VOGT — BREST ──
+{
+ "slug": "emilie-vogt", "mono": "V", "watermark": "V",
+ "brand": "Émilie Vogt", "brand_sub": "Avocate — Barreau de Brest",
+ "title": "Maître Émilie Vogt — Avocate au Barreau de Brest | Famille, pénal, dommage corporel &amp; santé",
+ "desc": "Maître Émilie Vogt, Avocate au Barreau de Brest. Droit de la famille, droit pénal, dommage corporel, successions, droit civil et de la santé.",
+ "ink": "#0D1418", "ink2": "#131D22", "ink3": "#1B282F", "radial": "rgba(50,100,125,.2)",
+ "kicker": "Avocate au Barreau de Brest",
+ "h1a": "Maître", "h1b": "Émilie <em>Vogt</em>",
+ "hero_sub": "Avocate au Barreau de Brest depuis 2018, j'accompagne les particuliers du "
+             "Finistère sur six terrains — famille, pénal, dommage corporel, "
+             "successions, contrats et santé — avec un premier rendez-vous d'une heure "
+             "sans engagement.",
+ "meta": [("Famille &amp; successions", "Divorce &amp; héritages"),
+          ("Dommage corporel", "Indemnisation des victimes"),
+          ("Pénal &amp; santé", "Défense &amp; responsabilité")],
+ "marquee": ["Barreau de Brest — Serment prêté en 2018",
+             "Premier rendez-vous d'une heure sans engagement",
+             "Dommage corporel et droit de la santé",
+             "Conseil en amont, défense au contentieux",
+             "Cabinet rue Jean-Marie Le Bris, Brest"],
+ "stats": [{"n": "8", "label": "Années d'exercice"},
+           {"n": "2018", "counter": False, "label": "Prestation de serment"},
+           {"n": "6", "label": "Domaines d'intervention"},
+           {"n": "60", "label": "Minutes de premier rendez-vous"}],
+ "img": IMG_LIB, "img_alt": ALT_LIB,
+ "credit_b": "Le cabinet", "credit_s": "27 rue Jean-Marie Le Bris, Brest",
+ "about_title": "Prévenir le conflit,<br>défendre vos <em>intérêts</em>",
+ "lead": "Conseiller en amont pour éviter le litige, défendre avec détermination lorsqu'il survient.",
+ "p1": "Avocate au Barreau de Brest depuis sa prestation de serment le 14 décembre 2018, "
+       "Maître Émilie Vogt exerce au 27 rue Jean-Marie Le Bris, à Brest. Elle travaille "
+       "aussi bien en amont des conflits, comme conseil, qu'au contentieux, pour "
+       "défendre les intérêts de ses clients devant les tribunaux.",
+ "p2": "Sa pratique couvre le droit de la famille, le droit pénal, le droit du dommage "
+       "corporel, le droit des successions, le droit civil et des contrats, ainsi que "
+       "le droit de la santé. Chaque nouveau dossier commence par un rendez-vous d'une "
+       "heure, sans engagement, pour connaître vos droits et la marche à suivre.",
+ "sig": "Émilie Vogt", "sig_sub": "Avocate au Barreau de Brest<br>Depuis 2018",
+ "exp_title": "Six domaines,<br>un même <em>accompagnement</em>",
+ "exp_intro": "Une pratique généraliste tournée vers les particuliers, du conseil "
+              "préventif à la défense au contentieux.",
+ "exps": [
+   ("Divorce &amp; famille", "Divorce amiable ou contentieux, séparation, autorité parentale, pension alimentaire."),
+   ("Successions", "Règlement des successions, partages, indivisions et contentieux entre héritiers."),
+   ("Dommage corporel", "Indemnisation des victimes d'accidents et d'agressions, expertises médicales."),
+   ("Droit de la santé", "Responsabilité médicale, accidents médicaux, droits des patients."),
+   ("Défense pénale", "Assistance en garde à vue, défense devant les juridictions pénales, victimes d'infractions."),
+   ("Civil &amp; contrats", "Droit des contrats, responsabilité civile, litiges du quotidien."),
+ ],
+ "parc_title": "Huit ans<br>au bout du <em>Finistère</em>",
+ "tl": [
+   ("Depuis 2018", "Avocate — Barreau de Brest", "27 rue Jean-Marie Le Bris",
+    "Huit années de pratique généraliste au service des particuliers du Finistère, "
+    "en conseil comme au contentieux."),
+   ("14 décembre 2018", "Prestation de serment", "Barreau de Brest — CAPA 2018",
+    "Entrée dans la profession d'avocat après l'obtention du CAPA en 2018."),
+   ("Méthode", "Un premier rendez-vous d'une heure", "Sans engagement",
+    "Une heure pour comprendre votre situation, connaître vos droits et définir "
+    "ensemble la marche à suivre."),
+ ],
+ "form_title": "Une formation<br><em>généraliste</em>",
+ "dips": [
+   ("2018", "CAPA — Certificat d'aptitude à la profession d'avocat",
+    "Prestation de serment le 14 décembre 2018.", "Barreau de Brest"),
+   ("Droit", "Formation en droit privé",
+    "Un cursus généraliste couvrant le droit des personnes, la santé et la réparation du préjudice.", "Droit privé"),
+   ("8 ans", "D'expérience continue",
+    "Une pratique quotidienne des juridictions brestoises depuis 2018.", "Brest"),
+ ],
+ "infos_title": "Une heure<br>pour tout <em>comprendre</em>",
+ "infos": [
+   ("Le premier rendez-vous dure une heure, sans engagement — le temps de connaître vos droits et la façon d'aborder votre problème.",
+    "Premier rendez-vous", "60 minutes — sans engagement"),
+   ("Le cabinet intervient aussi bien en conseil, avant que le conflit ne naisse, qu'au contentieux devant les tribunaux.",
+    "Approche", "Conseil &amp; contentieux"),
+   ("Le cabinet est situé au 27 rue Jean-Marie Le Bris, à Brest.",
+    "Accès", "Rue Jean-Marie Le Bris"),
+ ],
+ "contact_blocks": [
+   ("Cabinet", "<p>27 rue Jean-Marie Le Bris<br>29200 Brest</p>", "Sur rendez-vous"),
+   ("Premier rendez-vous", "<p>60 minutes<br>sans engagement</p>", "Pour connaître vos droits"),
+   ("Écrire", "<p>Via le formulaire ci-contre</p>", "Échanges couverts par le secret professionnel"),
+ ],
+ "opts": ["Divorce &amp; famille", "Succession", "Dommage corporel — victime",
+          "Droit de la santé", "Défense pénale", "Contrat &amp; litige civil", "Autre"],
+ "footer_name": "Émilie Vogt", "footer_sub": "Avocate au Barreau de Brest",
+ "sources": "annuaire du Barreau de Brest, Justifit", "me": "Me Vogt",
+},
+
+# ─────────────────────────── 25. CAMILLE FALKOWSKI — DIJON ──
+{
+ "slug": "camille-falkowski", "mono": "F", "watermark": "F",
+ "brand": "Camille Falkowski", "brand_sub": "Avocate — Barreau de Dijon",
+ "title": "Maître Camille Falkowski — Avocate au Barreau de Dijon | Civil, famille, travail &amp; pénal",
+ "desc": "Maître Camille Falkowski, Avocate au Barreau de Dijon. Droit civil, droit de la famille, droit du travail, droit pénal, droit des mineurs.",
+ "ink": "#16120B", "ink2": "#201B11", "ink3": "#2C2518", "radial": "rgba(150,115,45,.18)",
+ "kicker": "Avocate au Barreau de Dijon",
+ "h1a": "Maître", "h1b": "Camille <em>Falkowski</em>",
+ "hero_sub": "Avocate au Barreau de Dijon depuis 2018, je cherche d'abord la solution "
+             "amiable — sans jamais oublier que le procès est parfois nécessaire, et "
+             "qu'il se prépare dès la première heure.",
+ "meta": [("Civil &amp; famille", "Litiges &amp; séparations"),
+          ("Travail", "Contrats &amp; prud'hommes"),
+          ("Pénal", "Majeurs &amp; mineurs")],
+ "marquee": ["Barreau de Dijon — Serment prêté en 2018",
+             "Permanences pénales du Barreau de Dijon",
+             "Interventions dans toute la Côte-d'Or",
+             "Défense des majeurs comme des mineurs",
+             "L'amiable d'abord, le procès s'il le faut"],
+ "stats": [{"n": "8", "label": "Années d'exercice"},
+           {"n": "2018", "counter": False, "label": "Prestation de serment"},
+           {"n": "4", "label": "Domaines d'intervention"},
+           {"n": "21", "counter": False, "label": "Côte-d'Or — tout le département"}],
+ "img": IMG_STA, "img_alt": ALT_STA,
+ "credit_b": "Le cabinet", "credit_s": "Barreau de Dijon — Côte-d'Or",
+ "about_title": "L'amiable d'abord,<br>le procès <em>ensuite</em>",
+ "lead": "Rechercher la résolution amiable, sans jamais perdre de vue que le procès se prépare dès la première heure.",
+ "p1": "Avocate au Barreau de Dijon depuis sa prestation de serment le 10 janvier 2018, "
+       "Maître Camille Falkowski intervient dans toute la Côte-d'Or, à Dijon comme à "
+       "Montbard. Elle accorde une réelle importance à la tentative de résolution "
+       "amiable des litiges — tout en restant consciente que la voie judiciaire est "
+       "parfois nécessaire.",
+ "p2": "Sa pratique couvre le droit civil, le droit de la famille, le droit du travail "
+       "et le droit pénal. En matière pénale, elle intervient régulièrement dès le "
+       "stade de l'enquête et représente aussi bien des majeurs que des mineurs, en "
+       "participant aux permanences organisées par le Barreau de Dijon dans tout le "
+       "département.",
+ "sig": "Camille Falkowski", "sig_sub": "Avocate au Barreau de Dijon<br>Depuis 2018",
+ "exp_title": "Quatre domaines,<br>deux <em>approches</em>",
+ "exp_intro": "La négociation d'abord, le contentieux ensuite — sur les quatre "
+              "terrains du droit des personnes.",
+ "exps": [
+   ("Droit civil", "Litiges civils, responsabilité, contrats et conflits du quotidien."),
+   ("Divorce &amp; famille", "Divorce amiable ou contentieux, séparation, autorité parentale, pension alimentaire."),
+   ("Droit du travail", "Contrats de travail, licenciement, rupture conventionnelle, contentieux prud'homal."),
+   ("Défense pénale", "Intervention dès le stade de l'enquête, garde à vue, défense devant les juridictions pénales."),
+   ("Droit des mineurs", "Défense des mineurs, assistance éducative, juge des enfants."),
+   ("Permanences pénales", "Participation aux permanences du Barreau de Dijon dans toute la Côte-d'Or."),
+ ],
+ "parc_title": "De Dijon<br>à <em>Montbard</em>",
+ "tl": [
+   ("Depuis 2018", "Avocate — Barreau de Dijon", "Dijon &amp; Montbard",
+    "Huit années de pratique au service des justiciables de la Côte-d'Or, avec des "
+    "interventions à Dijon comme à Montbard."),
+   ("10 janvier 2018", "Prestation de serment", "Barreau de Dijon",
+    "Entrée dans la profession d'avocat après l'obtention du CAPA."),
+   ("Engagement", "Permanences pénales", "Barreau de Dijon — Côte-d'Or",
+    "Participation régulière aux permanences pénales organisées par le barreau, "
+    "pour assurer la défense dès les premières heures de la procédure."),
+ ],
+ "form_title": "Une pratique<br>de <em>terrain</em>",
+ "dips": [
+   ("2018", "CAPA — Certificat d'aptitude à la profession d'avocat",
+    "Prestation de serment le 10 janvier 2018.", "Barreau de Dijon"),
+   ("Droit", "Formation en droit privé",
+    "Un cursus généraliste couvrant le droit civil, social et pénal.", "Droit privé"),
+   ("21", "Toute la Côte-d'Or",
+    "Interventions à Dijon, Montbard et dans l'ensemble du département.", "Côte-d'Or"),
+ ],
+ "infos_title": "Deux voies,<br>une même <em>préparation</em>",
+ "infos": [
+   ("La résolution amiable est systématiquement recherchée — plus rapide, moins coûteuse, souvent plus durable.",
+    "Méthode", "L'amiable d'abord"),
+   ("Lorsque la voie judiciaire s'impose, le dossier est préparé avec rigueur dès la première heure de la procédure.",
+    "Contentieux", "Préparé dès la première heure"),
+   ("Le cabinet intervient à Dijon, à Montbard et dans l'ensemble de la Côte-d'Or.",
+    "Ressort", "Toute la Côte-d'Or"),
+ ],
+ "contact_blocks": [
+   ("Cabinet", "<p>Barreau de Dijon<br>Dijon &amp; Montbard</p>", "Sur rendez-vous"),
+   ("Téléphone", '<a href="tel:+33762209667">07 62 20 96 67</a>', "Du lundi au vendredi"),
+   ("Écrire", "<p>Via le formulaire ci-contre</p>", "Échanges couverts par le secret professionnel"),
+ ],
+ "opts": ["Litige civil", "Divorce &amp; famille", "Droit du travail",
+          "Défense pénale", "Mineur — assistance éducative", "Autre"],
+ "footer_name": "Camille Falkowski", "footer_sub": "Avocate au Barreau de Dijon",
+ "sources": "annuaire du Barreau de Dijon, Justifit", "me": "Me Falkowski",
+},
 ]
