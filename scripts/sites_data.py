@@ -2219,4 +2219,891 @@ SITES = [
  "footer_name": "Camille Falkowski", "footer_sub": "Avocate au Barreau de Dijon",
  "sources": "annuaire du Barreau de Dijon, Justifit", "me": "Me Falkowski",
 },
+
+# ═══════════════════════════ FOURNÉE 5 ═══════════════════════════
+
+# ─────────────────────────── 26. SARAH UTARD — METZ ──
+{
+ "slug": "sarah-utard", "mono": "U", "watermark": "U",
+ "brand": "Sarah Utard", "brand_sub": "Avocate — Barreau de Metz",
+ "title": "Maître Sarah Utard — Avocate au Barreau de Metz | Famille, violences intrafamiliales &amp; mineurs",
+ "desc": "Maître Sarah Utard, Avocate au Barreau de Metz, membre du conseil de l'Ordre. Droit de la famille, violences intrafamiliales, droit des mineurs, dommage corporel, droit pénal.",
+ "ink": "#16131C", "ink2": "#1F1C27", "ink3": "#2A2634", "radial": "rgba(110,90,160,.16)",
+ "kicker": "Avocate au Barreau de Metz",
+ "h1a": "Maître", "h1b": "Sarah <em>Utard</em>",
+ "hero_sub": "Avocate au Barreau de Metz depuis 2015 et membre du conseil de l'Ordre, "
+             "j'accompagne les familles et protège les victimes de violences "
+             "intrafamiliales — de l'ordonnance de protection à l'indemnisation.",
+ "meta": [("Famille", "Divorce &amp; patrimoine"),
+          ("Violences intrafamiliales", "Ordonnances de protection"),
+          ("Mineurs &amp; dommage corporel", "Enfants &amp; victimes")],
+ "marquee": ["Barreau de Metz — Serment prêté en 2015",
+             "Membre du conseil de l'Ordre",
+             "Master en droit privé général",
+             "Master en droit pénal et sciences criminelles — Nancy",
+             "Consultations au cabinet, par visioconférence ou par écrit"],
+ "stats": [{"n": "11", "label": "Années d'exercice"},
+           {"n": "2015", "counter": False, "label": "Prestation de serment"},
+           {"n": "2", "label": "Masters en droit"},
+           {"n": "4", "label": "Modes de consultation"}],
+ "img": IMG_LIB, "img_alt": ALT_LIB,
+ "credit_b": "Le cabinet", "credit_s": "4 Rempart Saint-Thiébault, Metz",
+ "about_title": "Protéger d'abord,<br>défendre <em>toujours</em>",
+ "lead": "Accompagner les familles et protéger les victimes de violences — avec la double formation du droit privé et des sciences criminelles.",
+ "p1": "Avocate au Barreau de Metz depuis sa prestation de serment le 8 janvier 2015, "
+       "Maître Sarah Utard exerce au 4 Rempart Saint-Thiébault, au cœur de Metz. Membre "
+       "du conseil de l'Ordre, elle participe à la gouvernance de son barreau.",
+ "p2": "Titulaire d'un master en droit privé général complété par un master en droit "
+       "pénal et sciences criminelles de la faculté de Nancy, elle intervient en droit "
+       "de la famille, en matière de violences intrafamiliales — ordonnances de "
+       "protection, volet pénal, indemnisation —, en droit des mineurs, en droit du "
+       "dommage corporel et en droit pénal.",
+ "sig": "Sarah Utard", "sig_sub": "Avocate au Barreau de Metz<br>Membre du conseil de l'Ordre",
+ "exp_title": "De la protection<br>à la <em>réparation</em>",
+ "exp_intro": "Une pratique construite autour de la protection des personnes "
+              "vulnérables et de la réparation des préjudices.",
+ "exps": [
+   ("Divorce &amp; séparation", "Divorce amiable ou contentieux, séparation, liquidation du régime matrimonial."),
+   ("Violences intrafamiliales", "Ordonnances de protection, mesures d'éloignement, accompagnement pénal et civil des victimes."),
+   ("Enfants &amp; autorité parentale", "Résidence des enfants, droits de visite et d'hébergement, pension alimentaire."),
+   ("Droit des mineurs", "Protection de l'enfance, assistance éducative, représentation devant le juge des enfants."),
+   ("Dommage corporel", "Évaluation et indemnisation des préjudices corporels, expertises médicales."),
+   ("Défense pénale", "Assistance en garde à vue et défense devant les juridictions pénales."),
+ ],
+ "parc_title": "Du droit pénal<br>à la protection des <em>familles</em>",
+ "tl": [
+   ("Depuis 2015", "Avocate — Barreau de Metz", "4 Rempart Saint-Thiébault",
+    "Onze années de pratique du droit de la famille et de la protection des victimes "
+    "devant les juridictions mosellanes."),
+   ("Aujourd'hui", "Membre du conseil de l'Ordre", "Barreau de Metz",
+    "Un engagement institutionnel au service de la profession et des justiciables."),
+   ("8 janvier 2015", "Prestation de serment", "Barreau de Metz",
+    "Entrée dans la profession après un double cursus en droit privé général et en "
+    "droit pénal et sciences criminelles."),
+ ],
+ "form_title": "Deux masters,<br>une double <em>culture</em>",
+ "dips": [
+   ("M", "Master — Droit privé général",
+    "Le socle du droit des personnes, de la famille et de la responsabilité.", "Droit privé"),
+   ("M", "Master — Droit pénal et sciences criminelles",
+    "Une spécialisation obtenue à la faculté de droit de Nancy.", "Faculté de Nancy"),
+   ("2015", "CAPA — Certificat d'aptitude à la profession d'avocat",
+    "Prestation de serment le 8 janvier 2015.", "Barreau de Metz"),
+ ],
+ "infos_title": "Quatre façons<br>de me <em>consulter</em>",
+ "infos": [
+   ("Le cabinet propose des rendez-vous physiques, des consultations en visioconférence, par téléphone ou des consultations juridiques écrites.",
+    "Consultations", "Cabinet · Visio · Tél · Écrit"),
+   ("Les victimes de violences intrafamiliales sont reçues en urgence pour engager sans délai une ordonnance de protection.",
+    "Urgences", "Violences intrafamiliales"),
+   ("Le cabinet est situé au 4 Rempart Saint-Thiébault, au centre de Metz.",
+    "Accès", "Rempart Saint-Thiébault"),
+ ],
+ "contact_blocks": [
+   ("Cabinet", "<p>4 Rempart Saint-Thiébault<br>57000 Metz</p>", "Centre-ville — sur rendez-vous"),
+   ("Consultations", "<p>Cabinet, visioconférence,<br>téléphone ou écrit</p>", "Selon votre préférence"),
+   ("Écrire", "<p>Via le formulaire ci-contre</p>", "Échanges couverts par le secret professionnel"),
+ ],
+ "opts": ["Divorce &amp; séparation", "Violences intrafamiliales", "Enfants &amp; autorité parentale",
+          "Droit des mineurs", "Dommage corporel", "Défense pénale", "Autre"],
+ "footer_name": "Sarah Utard", "footer_sub": "Avocate au Barreau de Metz",
+ "sources": "Justifit, consultation.avocat.fr", "me": "Me Utard",
+},
+
+# ─────────────────────────── 27. OCÉANE TRÉHONDAT-LE HECH — LIMOGES ──
+{
+ "slug": "oceane-trehondat", "mono": "T", "watermark": "T",
+ "brand": "Océane Tréhondat-Le Hech", "brand_sub": "Avocate — Barreau de Limoges",
+ "title": "Maître Océane Tréhondat-Le Hech — Avocate au Barreau de Limoges | Rural, immobilier, successions &amp; famille",
+ "desc": "Maître Océane Tréhondat-Le Hech, Avocate au Barreau de Limoges. Droit rural, droit immobilier, successions, expropriation, copropriété, droit de la famille.",
+ "ink": "#0A1815", "ink2": "#10221E", "ink3": "#172F2A", "radial": "rgba(30,125,105,.2)",
+ "kicker": "Avocate au Barreau de Limoges",
+ "h1a": "Maître", "h1b": "Océane <em>Tréhondat-Le Hech</em>",
+ "hero_sub": "Avocate indépendante au Barreau de Limoges, je privilégie toujours la "
+             "résolution amiable — une approche humaine et professionnelle, forgée "
+             "entre le barreau de Lyon, les États-Unis et le Limousin.",
+ "meta": [("Rural &amp; immobilier", "Terres, baux &amp; ventes"),
+          ("Successions", "Partages &amp; indivisions"),
+          ("Famille", "Personnes &amp; patrimoine")],
+ "marquee": ["Barreau de Limoges — Serment prêté en 2019",
+             "Avocate depuis 2012 — barreau de Lyon puis États-Unis",
+             "Droit rural et agricole",
+             "Expropriation et droit de préemption",
+             "L'amiable avant le contentieux"],
+ "stats": [{"n": "14", "label": "Années dans la profession"},
+           {"n": "2019", "counter": False, "label": "Inscription à Limoges"},
+           {"n": "3", "label": "Barreaux &amp; pays traversés"},
+           {"n": "8", "label": "Domaines de compétence"}],
+ "img": IMG_COL, "img_alt": ALT_COL,
+ "credit_b": "Le cabinet", "credit_s": "75 boulevard Gambetta, Limoges",
+ "about_title": "L'amiable d'abord,<br>en toute <em>humanité</em>",
+ "lead": "Résoudre les conflits à l'amiable avant d'engager le contentieux — une approche humaine et professionnelle.",
+ "p1": "Avocate indépendante au Barreau de Limoges depuis sa prestation de serment le "
+       "12 décembre 2019, Maître Océane Tréhondat-Le Hech exerce au 75 boulevard "
+       "Gambetta, à Limoges. Avocate depuis 2012, elle a d'abord exercé au barreau de "
+       "Lyon avant de vivre aux États-Unis, puis de s'installer en Limousin.",
+ "p2": "Sa pratique couvre le droit rural et agricole, le droit immobilier, les "
+       "successions, l'expropriation et le droit de préemption, la copropriété et les "
+       "conflits de voisinage, le droit des assurances et le recouvrement de créances, "
+       "ainsi que le droit de la famille, des personnes et de leur patrimoine.",
+ "sig": "Océane Tréhondat-Le Hech", "sig_sub": "Avocate au Barreau de Limoges<br>Exercice indépendant",
+ "exp_title": "La terre, la maison,<br>l'<em>héritage</em>",
+ "exp_intro": "Une pratique tournée vers le patrimoine — rural, immobilier "
+              "et successoral — sans négliger les personnes.",
+ "exps": [
+   ("Droit rural &amp; agricole", "Baux ruraux, exploitations agricoles, statut du fermage, contentieux entre exploitants."),
+   ("Immobilier &amp; copropriété", "Ventes, baux, copropriété, charges et contentieux immobiliers."),
+   ("Successions &amp; indivisions", "Partages successoraux, indivisions, contentieux entre héritiers."),
+   ("Expropriation &amp; préemption", "Procédures d'expropriation, droit de préemption, indemnisation des propriétaires."),
+   ("Conflits de voisinage", "Troubles anormaux de voisinage, bornage, servitudes."),
+   ("Famille &amp; patrimoine", "Droit de la famille, des personnes et protection de leur patrimoine."),
+ ],
+ "parc_title": "De Lyon aux États-Unis,<br>puis au <em>Limousin</em>",
+ "tl": [
+   ("Depuis 2019", "Avocate indépendante", "Barreau de Limoges",
+    "Installation en cabinet indépendant au 75 boulevard Gambetta, au service des "
+    "propriétaires, exploitants et familles de la Haute-Vienne."),
+   ("International", "Une parenthèse américaine", "États-Unis",
+    "Après ses premières années d'exercice, une expérience de vie aux États-Unis "
+    "qui a nourri son ouverture et sa pratique."),
+   ("2012", "Entrée dans la profession", "Barreau de Lyon",
+    "Premières années de pratique au barreau de Lyon avant l'installation limougeaude."),
+ ],
+ "form_title": "Un parcours<br><em>atypique</em>",
+ "dips": [
+   ("2012", "Entrée dans la profession d'avocat",
+    "Premières années d'exercice au barreau de Lyon.", "Barreau de Lyon"),
+   ("USA", "Une expérience internationale",
+    "Une période de vie aux États-Unis, entre deux temps d'exercice.", "États-Unis"),
+   ("2019", "Inscription au Barreau de Limoges",
+    "Prestation de serment le 12 décembre 2019 et installation en indépendante.", "Barreau de Limoges"),
+ ],
+ "infos_title": "Une méthode&nbsp;:<br>chercher l'<em>accord</em>",
+ "infos": [
+   ("La résolution amiable des conflits est systématiquement privilégiée avant d'engager une procédure contentieuse.",
+    "Méthode", "L'amiable d'abord"),
+   ("Une approche humaine et professionnelle&nbsp;: comprendre la situation avant de proposer une stratégie.",
+    "Approche", "Humaine &amp; professionnelle"),
+   ("Le cabinet est situé au 75 boulevard Gambetta, artère centrale de Limoges.",
+    "Accès", "Boulevard Gambetta"),
+ ],
+ "contact_blocks": [
+   ("Cabinet", "<p>75 boulevard Gambetta<br>87000 Limoges</p>", "Sur rendez-vous"),
+   ("Méthode", "<p>Résolution amiable<br>puis contentieux</p>", "Approche humaine"),
+   ("Écrire", "<p>Via le formulaire ci-contre</p>", "Échanges couverts par le secret professionnel"),
+ ],
+ "opts": ["Droit rural &amp; agricole", "Immobilier &amp; copropriété", "Succession &amp; indivision",
+          "Expropriation &amp; préemption", "Conflit de voisinage", "Famille &amp; patrimoine", "Autre"],
+ "footer_name": "Océane Tréhondat-Le Hech", "footer_sub": "Avocate au Barreau de Limoges",
+ "sources": "annuaire du Barreau de Limoges, Justifit", "me": "Me Tréhondat-Le Hech",
+},
+
+# ─────────────────────────── 28. ANNE-CHARLOTTE IFFENECKER — POITIERS ──
+{
+ "slug": "anne-charlotte-iffenecker", "mono": "I", "watermark": "I",
+ "brand": "Anne-Charlotte Iffenecker", "brand_sub": "Avocate — Barreau de Poitiers",
+ "title": "Maître Anne-Charlotte Iffenecker — Avocate au Barreau de Poitiers | Famille, baux, travail &amp; commercial",
+ "desc": "Maître Anne-Charlotte Iffenecker, Avocate au Barreau de Poitiers (Châtellerault). Droit de la famille, baux, droit du travail, droit commercial, sécurité sociale.",
+ "ink": "#131711", "ink2": "#1B2018", "ink3": "#262C21", "radial": "rgba(105,130,60,.18)",
+ "kicker": "Avocate au Barreau de Poitiers",
+ "h1a": "Maître", "h1b": "Anne-Charlotte <em>Iffenecker</em>",
+ "hero_sub": "Avocate au Barreau de Poitiers depuis 1994, je mets trente-deux années "
+             "d'expérience au service des familles, des bailleurs, des salariés et des "
+             "entreprises du Châtelleraudais.",
+ "meta": [("Famille", "Divorce &amp; successions"),
+          ("Baux", "Bailleurs &amp; locataires"),
+          ("Travail &amp; commercial", "Entreprises &amp; salariés")],
+ "marquee": ["Barreau de Poitiers — Serment prêté en 1994",
+             "Trente-deux années d'expérience",
+             "Divorces amiables et contentieux",
+             "Baux d'habitation et contentieux locatif",
+             "Cabinet avenue Georges Clemenceau, Châtellerault"],
+ "stats": [{"n": "32", "label": "Années d'expérience"},
+           {"n": "1994", "counter": False, "label": "Prestation de serment"},
+           {"n": "5", "label": "Domaines d'intervention"},
+           {"n": "1", "label": "Interlocutrice unique"}],
+ "img": IMG_LIB, "img_alt": ALT_LIB,
+ "credit_b": "Le cabinet", "credit_s": "25 avenue Georges Clemenceau, Châtellerault",
+ "about_title": "Trente-deux ans<br>d'<em>expérience</em>",
+ "lead": "Une expérience rare, au service des familles comme des entreprises du Châtelleraudais.",
+ "p1": "Avocate au Barreau de Poitiers depuis sa prestation de serment le 19 décembre "
+       "1994, Maître Anne-Charlotte Iffenecker exerce au 25 avenue Georges Clemenceau, "
+       "à Châtellerault. Trente-deux années de pratique lui confèrent une connaissance "
+       "approfondie des juridictions de la Vienne.",
+ "p2": "Sa pratique couvre le droit de la famille — divorces amiables et contentieux et "
+       "leurs suites, liquidation du régime matrimonial, PACS, partages successoraux, "
+       "recherche de paternité —, le droit des baux, le droit du travail, le droit "
+       "commercial et le droit de la sécurité sociale.",
+ "sig": "Anne-Charlotte Iffenecker", "sig_sub": "Avocate au Barreau de Poitiers<br>Depuis 1994",
+ "exp_title": "Cinq domaines,<br>trois décennies de <em>pratique</em>",
+ "exp_intro": "Familles, bailleurs, salariés et entreprises&nbsp;: une pratique "
+              "généraliste éprouvée par l'expérience.",
+ "exps": [
+   ("Divorce &amp; séparation", "Divorces amiables ou contentieux et leurs suites, liquidation du régime matrimonial, PACS."),
+   ("Successions &amp; filiation", "Partages successoraux, indivisions, actions en recherche de paternité."),
+   ("Baux d'habitation", "Rédaction des baux, non-renouvellement, congés, procédures d'expulsion, réclamations des locataires."),
+   ("Rapports bailleurs-locataires", "Loyers impayés, charges, état des lieux, contentieux locatif."),
+   ("Droit du travail", "Contrats de travail, ruptures et contentieux prud'homal."),
+   ("Commercial &amp; sécurité sociale", "Litiges commerciaux et contentieux de la sécurité sociale."),
+ ],
+ "parc_title": "Une praticienne<br>depuis <em>1994</em>",
+ "tl": [
+   ("Depuis 1994", "Avocate — Barreau de Poitiers", "25 avenue Georges Clemenceau, Châtellerault",
+    "Trente-deux années de pratique généraliste au service des habitants et des "
+    "entreprises du Châtelleraudais."),
+   ("19 décembre 1994", "Prestation de serment", "Barreau de Poitiers",
+    "Entrée dans la profession d'avocat après l'obtention du CAPA."),
+   ("Ancrage", "Châtellerault &amp; la Vienne", "Ressort du Barreau de Poitiers",
+    "Un cabinet de proximité, à Châtellerault, intervenant devant les juridictions "
+    "de la Vienne."),
+ ],
+ "form_title": "L'expérience<br>comme <em>école</em>",
+ "dips": [
+   ("1994", "CAPA — Certificat d'aptitude à la profession d'avocat",
+    "Prestation de serment le 19 décembre 1994.", "Barreau de Poitiers"),
+   ("32", "Trente-deux années d'exercice",
+    "Une pratique continue du contentieux familial, locatif et social depuis 1994.", "Châtellerault"),
+   ("Droit", "Formation en droit privé",
+    "Un cursus généraliste couvrant le droit civil, social et commercial.", "Droit privé"),
+ ],
+ "infos_title": "Un cabinet<br>de <em>proximité</em>",
+ "infos": [
+   ("Chaque dossier est suivi personnellement, du premier rendez-vous jusqu'à l'audience.",
+    "Suivi personnel", "Interlocutrice unique"),
+   ("Le cabinet est joignable directement au 05 49 85 00 55, à Châtellerault.",
+    "Réactivité", "Contact direct"),
+   ("Le cabinet est situé au 25 avenue Georges Clemenceau, à Châtellerault.",
+    "Accès", "Avenue Georges Clemenceau"),
+ ],
+ "contact_blocks": [
+   ("Cabinet", "<p>25 avenue Georges Clemenceau<br>86100 Châtellerault</p>", "Sur rendez-vous"),
+   ("Téléphone", '<a href="tel:+33549850055">05 49 85 00 55</a>', "Du lundi au vendredi"),
+   ("Écrire", "<p>Via le formulaire ci-contre</p>", "Échanges couverts par le secret professionnel"),
+ ],
+ "opts": ["Divorce &amp; séparation", "Succession &amp; filiation", "Bail d'habitation",
+          "Litige locatif", "Droit du travail", "Commercial ou sécurité sociale", "Autre"],
+ "footer_name": "Anne-Charlotte Iffenecker", "footer_sub": "Avocate au Barreau de Poitiers",
+ "sources": "Justifit, annuaire du Barreau de Poitiers", "me": "Me Iffenecker",
+},
+
+# ─────────────────────────── 29. JOHANNE FAGUIER — BAYONNE ──
+{
+ "slug": "johanne-faguier", "mono": "F", "watermark": "F",
+ "brand": "Johanne Faguier", "brand_sub": "Avocate — Barreau de Bayonne",
+ "title": "Maître Johanne Faguier — Avocate au Barreau de Bayonne | Dommage corporel, pénal &amp; famille",
+ "desc": "Maître Johanne Faguier, Avocate au Barreau de Bayonne. Droit du dommage corporel, droit pénal, droit routier, droit de la famille.",
+ "ink": "#1A0E10", "ink2": "#251518", "ink3": "#321E22", "radial": "rgba(175,45,55,.18)",
+ "kicker": "Avocate au Barreau de Bayonne",
+ "h1a": "Maître", "h1b": "Johanne <em>Faguier</em>",
+ "hero_sub": "Avocate au Barreau de Bayonne depuis 2011, je défends les victimes — "
+             "accidents de la route, agressions, accidents médicaux — et titulaire d'un "
+             "diplôme de droit routier, je maîtrise le contentieux de la circulation.",
+ "meta": [("Dommage corporel", "Victimes &amp; indemnisation"),
+          ("Pénal &amp; routier", "Défense &amp; circulation"),
+          ("Famille", "Divorce &amp; enfants")],
+ "marquee": ["Barreau de Bayonne — Serment prêté en 2011",
+             "Quinze années d'expérience",
+             "Diplôme universitaire de droit routier",
+             "Indemnisation des victimes d'accidents et d'agressions",
+             "Cabinet avenue Foch, Bayonne"],
+ "stats": [{"n": "15", "label": "Années d'exercice"},
+           {"n": "2011", "counter": False, "label": "Prestation de serment"},
+           {"n": "3", "label": "Domaines d'intervention"},
+           {"n": "1", "counter": False, "label": "Diplôme de droit routier"}],
+ "img": IMG_STA, "img_alt": ALT_STA,
+ "credit_b": "Le cabinet", "credit_s": "5 avenue Foch, Bayonne",
+ "about_title": "Du côté des victimes,<br>sur la <em>route</em> comme ailleurs",
+ "lead": "Obtenir la juste réparation des préjudices corporels — accidents, agressions, accidents médicaux.",
+ "p1": "Avocate au Barreau de Bayonne depuis sa prestation de serment le 29 novembre "
+       "2011, Maître Johanne Faguier exerce au 5 avenue Foch, à Bayonne, avec un second "
+       "point d'accueil à Bassussarry.",
+ "p2": "Sa pratique est principalement tournée vers le droit du dommage corporel — "
+       "conseil et assistance aux victimes d'accidents de la circulation, d'agressions, "
+       "de viols et d'accidents médicaux —, le droit pénal — violences, vols, "
+       "dégradations — et le droit de la famille. Titulaire d'un diplôme universitaire "
+       "de droit routier, elle maîtrise le contentieux de la circulation dans toutes "
+       "ses dimensions.",
+ "sig": "Johanne Faguier", "sig_sub": "Avocate au Barreau de Bayonne<br>Depuis 2011",
+ "exp_title": "Réparer<br>et <em>défendre</em>",
+ "exp_intro": "Une pratique dédiée aux victimes de préjudices corporels et à la "
+              "défense pénale, avec une expertise du droit routier.",
+ "exps": [
+   ("Accidents de la circulation", "Indemnisation des victimes d'accidents de la route, loi Badinter, négociation avec les assureurs."),
+   ("Victimes d'agressions", "Violences, viols et agressions&nbsp;: constitution de partie civile et réparation intégrale."),
+   ("Accidents médicaux", "Erreurs et accidents médicaux, expertises, indemnisation des préjudices."),
+   ("Droit routier", "Infractions au code de la route, permis à points, suspensions et annulations — diplôme universitaire de droit routier."),
+   ("Défense pénale", "Violences, vols, dégradations&nbsp;: assistance et défense devant les juridictions pénales."),
+   ("Famille", "Divorce, séparation, autorité parentale et pension alimentaire."),
+ ],
+ "parc_title": "Quinze ans<br>au <em>Pays basque</em>",
+ "tl": [
+   ("Depuis 2011", "Avocate — Barreau de Bayonne", "5 avenue Foch",
+    "Quinze années de pratique du dommage corporel et du droit pénal au service des "
+    "victimes et justiciables du Pays basque."),
+   ("29 novembre 2011", "Prestation de serment", "Barreau de Bayonne",
+    "Entrée dans la profession d'avocat après l'obtention du CAPA."),
+   ("Spécialisation", "Diplôme de droit routier", "Contentieux de la circulation",
+    "Un diplôme universitaire qui fonde une expertise reconnue du contentieux "
+    "routier, pénal comme indemnitaire."),
+ ],
+ "form_title": "Une spécialisation<br><em>routière</em>",
+ "dips": [
+   ("2011", "CAPA — Certificat d'aptitude à la profession d'avocat",
+    "Prestation de serment le 29 novembre 2011.", "Barreau de Bayonne"),
+   ("DU", "Diplôme universitaire de droit routier",
+    "Une expertise du contentieux de la circulation, pénal et indemnitaire.", "Droit routier"),
+   ("15 ans", "D'expérience continue",
+    "Une pratique quotidienne du dommage corporel depuis 2011.", "Bayonne"),
+ ],
+ "infos_title": "Deux points<br>d'<em>accueil</em>",
+ "infos": [
+   ("Le cabinet reçoit au 5 avenue Foch à Bayonne, avec un second point d'accueil à Bassussarry.",
+    "Accueil", "Bayonne &amp; Bassussarry"),
+   ("Les victimes sont accompagnées à chaque étape&nbsp;: expertise médicale, négociation avec l'assureur, procédure judiciaire.",
+    "Accompagnement", "De l'expertise à l'indemnisation"),
+   ("Chaque dossier est suivi personnellement, du premier rendez-vous jusqu'à l'audience.",
+    "Suivi personnel", "Interlocutrice unique"),
+ ],
+ "contact_blocks": [
+   ("Cabinet", "<p>5 avenue Foch<br>64100 Bayonne</p>", "Second point d'accueil à Bassussarry"),
+   ("Accompagnement", "<p>Expertise médicale,<br>négociation, procédure</p>", "À chaque étape"),
+   ("Écrire", "<p>Via le formulaire ci-contre</p>", "Échanges couverts par le secret professionnel"),
+ ],
+ "opts": ["Accident de la circulation", "Victime d'agression", "Accident médical",
+          "Droit routier — permis", "Défense pénale", "Famille", "Autre"],
+ "footer_name": "Johanne Faguier", "footer_sub": "Avocate au Barreau de Bayonne",
+ "sources": "annuaire du Barreau de Bayonne, Justifit", "me": "Me Faguier",
+},
+
+# ─────────────────────────── 30. MARIE MANZANARES — LE HAVRE ──
+{
+ "slug": "marie-manzanares", "mono": "M", "watermark": "M",
+ "brand": "Marie Manzanares", "brand_sub": "Avocate — Barreau du Havre",
+ "title": "Maître Marie Manzanares — Avocate au Barreau du Havre | Famille, mineurs, pénal &amp; victimes",
+ "desc": "Maître Marie Manzanares, Avocate au Barreau du Havre depuis 1993. Droit de la famille, droit des mineurs, droit pénal, droit des victimes.",
+ "ink": "#0B1219", "ink2": "#111A24", "ink3": "#182532", "radial": "rgba(45,90,140,.22)",
+ "kicker": "Avocate au Barreau du Havre",
+ "h1a": "Maître", "h1b": "Marie <em>Manzanares</em>",
+ "hero_sub": "Avocate au Barreau du Havre depuis 1993, je mets trente-trois années "
+             "d'expérience au service des familles et des enfants — avec un premier "
+             "rendez-vous offert si vous me confiez votre dossier.",
+ "meta": [("Famille", "Divorce &amp; patrimoine"),
+          ("Mineurs", "Assistance éducative"),
+          ("Pénal &amp; victimes", "Défense &amp; réparation")],
+ "marquee": ["Barreau du Havre — Serment prêté en 1993",
+             "Trente-trois années d'expérience",
+             "Deux cabinets : Le Havre et Notre-Dame-de-Gravenchon",
+             "Premier rendez-vous offert si le dossier est confié",
+             "Tutelle, curatelle et protection des personnes"],
+ "stats": [{"n": "33", "label": "Années d'exercice"},
+           {"n": "1993", "counter": False, "label": "Prestation de serment"},
+           {"n": "2", "label": "Cabinets en Seine-Maritime"},
+           {"n": "4", "label": "Domaines d'intervention"}],
+ "img": IMG_COL, "img_alt": ALT_COL,
+ "credit_b": "Le cabinet", "credit_s": "109 boulevard de Strasbourg, Le Havre",
+ "about_title": "Trente-trois ans<br>auprès des <em>familles</em>",
+ "lead": "Une expérience rare du contentieux familial, au Havre comme dans la vallée de la Seine.",
+ "p1": "Avocate au Barreau du Havre depuis sa prestation de serment le 8 septembre "
+       "1993, Maître Marie Manzanares exerce au 109 boulevard de Strasbourg, au Havre, "
+       "et dispose d'un second cabinet au 19 rue Henri Messager, à "
+       "Notre-Dame-de-Gravenchon.",
+ "p2": "Sa pratique couvre le droit de la famille — divorce, pension alimentaire, "
+       "séparation, garde d'enfants, adoption, régimes matrimoniaux —, la protection "
+       "des personnes — tutelle, curatelle —, le droit des mineurs et l'assistance "
+       "éducative, ainsi que le droit pénal et la défense des victimes.",
+ "sig": "Marie Manzanares", "sig_sub": "Avocate au Barreau du Havre<br>Depuis 1993",
+ "exp_title": "La famille,<br>de A à <em>Z</em>",
+ "exp_intro": "Trois décennies de pratique au service des familles, des enfants "
+              "et des personnes protégées.",
+ "exps": [
+   ("Divorce &amp; séparation", "Divorce amiable ou contentieux, séparation, pension alimentaire, régimes matrimoniaux."),
+   ("Enfants &amp; autorité parentale", "Garde d'enfants, résidence, droits de visite et d'hébergement."),
+   ("Adoption &amp; filiation", "Procédures d'adoption et actions relatives à la filiation."),
+   ("Tutelle &amp; curatelle", "Mesures de protection des majeurs vulnérables, tutelle, curatelle, habilitation familiale."),
+   ("Assistance éducative", "Représentation devant le juge des enfants, protection de l'enfance."),
+   ("Pénal &amp; victimes", "Défense devant les juridictions pénales et représentation des victimes."),
+ ],
+ "parc_title": "Depuis 1993,<br>au <em>Havre</em>",
+ "tl": [
+   ("Depuis 1993", "Avocate — Barreau du Havre", "109 boulevard de Strasbourg",
+    "Trente-trois années de pratique du contentieux familial et de la protection des "
+    "personnes, au Havre et en Seine-Maritime."),
+   ("Second cabinet", "Notre-Dame-de-Gravenchon", "19 rue Henri Messager",
+    "Un second point d'accueil dans la vallée de la Seine, au plus près des clients "
+    "de l'est du département."),
+   ("8 septembre 1993", "Prestation de serment", "Barreau du Havre",
+    "Entrée dans la profession d'avocat après l'obtention du CAPA."),
+ ],
+ "form_title": "L'expérience<br>d'une <em>génération</em>",
+ "dips": [
+   ("1993", "CAPA — Certificat d'aptitude à la profession d'avocat",
+    "Prestation de serment le 8 septembre 1993.", "Barreau du Havre"),
+   ("33", "Trente-trois années d'exercice",
+    "Une pratique continue du droit de la famille et de la protection des personnes.", "Le Havre"),
+   ("×2", "Deux cabinets",
+    "Le Havre et Notre-Dame-de-Gravenchon, pour être au plus près des clients.", "Seine-Maritime"),
+ ],
+ "infos_title": "Un premier rendez-vous<br><em>offert</em>",
+ "infos": [
+   ("Le premier rendez-vous est offert si vous décidez de confier votre dossier au cabinet.",
+    "Premier rendez-vous", "Offert si dossier confié"),
+   ("Le cabinet vous accueille au Havre et à Notre-Dame-de-Gravenchon, selon votre lieu de résidence.",
+    "Deux cabinets", "Le Havre · Gravenchon"),
+   ("Chaque dossier est suivi personnellement, du conseil initial jusqu'à l'audience.",
+    "Suivi personnel", "Interlocutrice unique"),
+ ],
+ "contact_blocks": [
+   ("Cabinet principal", "<p>109 boulevard de Strasbourg<br>76600 Le Havre</p>", "Sur rendez-vous"),
+   ("Second cabinet", "<p>19 rue Henri Messager<br>Notre-Dame-de-Gravenchon</p>", "Sur rendez-vous"),
+   ("Écrire", "<p>Via le formulaire ci-contre</p>", "Échanges couverts par le secret professionnel"),
+ ],
+ "opts": ["Divorce &amp; séparation", "Enfants &amp; autorité parentale", "Adoption &amp; filiation",
+          "Tutelle &amp; curatelle", "Assistance éducative", "Pénal ou victime", "Autre"],
+ "footer_name": "Marie Manzanares", "footer_sub": "Avocate au Barreau du Havre",
+ "sources": "Justifit, consultation.avocat.fr", "me": "Me Manzanares",
+},
+
+# ─────────────────────────── 31. SABA BENZEGHIBA — SAINT-ÉTIENNE ──
+{
+ "slug": "saba-benzeghiba", "mono": "B", "watermark": "B",
+ "brand": "Saba Benzeghiba", "brand_sub": "Avocate — Barreau de Saint-Étienne",
+ "title": "Maître Saba Benzeghiba — Avocate au Barreau de Saint-Étienne | Civil, travail, pénal &amp; commercial",
+ "desc": "Maître Saba Benzeghiba, Avocate au Barreau de Saint-Étienne. Droit civil (famille, biens, contrats), droit du travail, droit pénal, droit commercial.",
+ "ink": "#0E1414", "ink2": "#151D1D", "ink3": "#1E2929", "radial": "rgba(70,120,115,.18)",
+ "kicker": "Avocate au Barreau de Saint-Étienne",
+ "h1a": "Maître", "h1b": "Saba <em>Benzeghiba</em>",
+ "hero_sub": "Avocate au Barreau de Saint-Étienne depuis 2008, j'accompagne "
+             "particuliers et entreprises — du contrat à l'audience, du conseil de "
+             "prud'hommes au tribunal correctionnel.",
+ "meta": [("Civil", "Famille, biens &amp; contrats"),
+          ("Travail", "Salariés &amp; employeurs"),
+          ("Pénal &amp; commercial", "Défense &amp; affaires")],
+ "marquee": ["Barreau de Saint-Étienne — Serment prêté en 2008",
+             "Dix-huit années d'expérience",
+             "Conseil de prud'hommes — salariés et employeurs",
+             "Rédaction et négociation de contrats",
+             "Cabinet rue de la Résistance, Saint-Étienne"],
+ "stats": [{"n": "18", "label": "Années d'exercice"},
+           {"n": "2008", "counter": False, "label": "Prestation de serment"},
+           {"n": "4", "label": "Domaines d'intervention"},
+           {"n": "1", "label": "Interlocutrice unique"}],
+ "img": IMG_LIB, "img_alt": ALT_LIB,
+ "credit_b": "Le cabinet", "credit_s": "4 rue de la Résistance, Saint-Étienne",
+ "about_title": "Du contrat<br>à l'<em>audience</em>",
+ "lead": "Conseiller les entreprises, défendre les personnes — avec dix-huit ans de pratique stéphanoise.",
+ "p1": "Avocate au Barreau de Saint-Étienne depuis sa prestation de serment le "
+       "10 septembre 2008, Maître Saba Benzeghiba exerce au 4 rue de la Résistance, en "
+       "plein centre de Saint-Étienne. Dix-huit années de pratique lui ont donné une "
+       "connaissance fine des juridictions de la Loire.",
+ "p2": "Sa pratique couvre le droit civil — famille, biens, contrats —, le droit du "
+       "travail, où elle assiste employeurs comme salariés devant le conseil de "
+       "prud'hommes, le droit pénal, où elle représente ses clients devant l'ensemble "
+       "des juridictions répressives, et le droit commercial, notamment pour la "
+       "rédaction et la négociation des contrats.",
+ "sig": "Saba Benzeghiba", "sig_sub": "Avocate au Barreau de Saint-Étienne<br>Depuis 2008",
+ "exp_title": "Quatre domaines,<br>une même <em>rigueur</em>",
+ "exp_intro": "Particuliers et entreprises&nbsp;: une pratique complète, en conseil "
+              "comme au contentieux.",
+ "exps": [
+   ("Famille &amp; personnes", "Divorce, séparation, autorité parentale et protection des personnes."),
+   ("Biens &amp; contrats", "Droit des biens, rédaction et contentieux des contrats civils."),
+   ("Travail — salariés", "Licenciement, rupture conventionnelle, harcèlement, faute de l'employeur."),
+   ("Travail — employeurs", "Sécurisation des procédures, ruptures et défense devant le conseil de prud'hommes."),
+   ("Défense pénale", "Contraventions, délits et crimes&nbsp;: représentation devant toutes les juridictions."),
+   ("Commercial &amp; affaires", "Droit commercial, droit des affaires, concurrence, rédaction et négociation de contrats."),
+ ],
+ "parc_title": "Dix-huit ans<br>à <em>Saint-Étienne</em>",
+ "tl": [
+   ("Depuis 2008", "Avocate — Barreau de Saint-Étienne", "4 rue de la Résistance",
+    "Dix-huit années de pratique civile, sociale, pénale et commerciale au service "
+    "des particuliers et des entreprises de la Loire."),
+   ("10 septembre 2008", "Prestation de serment", "Barreau de Saint-Étienne",
+    "Entrée dans la profession d'avocat après l'obtention du CAPA."),
+   ("Pratique", "Conseil et contentieux", "Particuliers &amp; entreprises",
+    "Une double activité&nbsp;: sécuriser en amont par le conseil et la rédaction, "
+    "défendre en aval devant les juridictions."),
+ ],
+ "form_title": "Une praticienne<br><em>généraliste</em>",
+ "dips": [
+   ("2008", "CAPA — Certificat d'aptitude à la profession d'avocat",
+    "Prestation de serment le 10 septembre 2008.", "Barreau de Saint-Étienne"),
+   ("Droit", "Formation en droit privé et des affaires",
+    "Un cursus couvrant le droit civil, social, pénal et commercial.", "Droit privé"),
+   ("18 ans", "D'expérience continue",
+    "Une pratique quotidienne des juridictions stéphanoises depuis 2008.", "Saint-Étienne"),
+ ],
+ "infos_title": "Un cabinet<br>au <em>centre</em>",
+ "infos": [
+   ("Chaque dossier est suivi personnellement, du premier rendez-vous jusqu'à l'audience.",
+    "Suivi personnel", "Interlocutrice unique"),
+   ("Le cabinet est joignable directement au 04 77 53 70 62, rue de la Résistance.",
+    "Réactivité", "Contact direct"),
+   ("Le cabinet est situé au 4 rue de la Résistance, en plein centre de Saint-Étienne.",
+    "Accès", "Centre de Saint-Étienne"),
+ ],
+ "contact_blocks": [
+   ("Cabinet", "<p>4 rue de la Résistance<br>42000 Saint-Étienne</p>", "Centre-ville — sur rendez-vous"),
+   ("Téléphone", '<a href="tel:+33477537062">04 77 53 70 62</a>', "Du lundi au vendredi"),
+   ("Écrire", "<p>Via le formulaire ci-contre</p>", "Échanges couverts par le secret professionnel"),
+ ],
+ "opts": ["Famille &amp; personnes", "Biens &amp; contrats", "Droit du travail — salarié",
+          "Droit du travail — employeur", "Défense pénale", "Commercial &amp; affaires", "Autre"],
+ "footer_name": "Saba Benzeghiba", "footer_sub": "Avocate au Barreau de Saint-Étienne",
+ "sources": "annuaire du Barreau de Saint-Étienne, Justifit", "me": "Me Benzeghiba",
+},
+
+# ─────────────────────────── 32. AUDREY JOET — CHAMBÉRY ──
+{
+ "slug": "audrey-joet", "mono": "J", "watermark": "J",
+ "brand": "Audrey Joet", "brand_sub": "Avocate — Barreau de Chambéry",
+ "title": "Maître Audrey Joet — Avocate au Barreau de Chambéry | Consommation, surendettement, famille &amp; pénal",
+ "desc": "Maître Audrey Joet, Avocate au Barreau de Chambéry. Droit de la consommation et du crédit, surendettement, droit de la famille, droit pénal, droit civil.",
+ "ink": "#12131F", "ink2": "#1A1B2B", "ink3": "#24263A", "radial": "rgba(85,90,170,.18)",
+ "kicker": "Avocate au Barreau de Chambéry",
+ "h1a": "Maître", "h1b": "Audrey <em>Joet</em>",
+ "hero_sub": "Avocate au Barreau de Chambéry, pragmatique, à l'écoute et tenace, "
+             "j'accompagne ceux que le crédit, le surendettement ou un conflit familial "
+             "ont mis en difficulté.",
+ "meta": [("Consommation &amp; crédit", "Surendettement &amp; clauses abusives"),
+          ("Famille", "Divorce &amp; séparation"),
+          ("Pénal &amp; civil", "Défense &amp; litiges")],
+ "marquee": ["Barreau de Chambéry",
+             "Droit du surendettement et des clauses abusives",
+             "Contrats de vente, de crédit et service après-vente",
+             "Baux d'habitation et conflits de voisinage",
+             "Pragmatique, à l'écoute et tenace"],
+ "stats": [{"n": "4", "label": "Domaines d'intervention"},
+           {"n": "3", "label": "Formes de divorce accompagnées"},
+           {"n": "1", "label": "Interlocutrice unique"},
+           {"n": "73", "counter": False, "label": "Savoie — Barreau de Chambéry"}],
+ "img": IMG_STA, "img_alt": ALT_STA,
+ "credit_b": "Le cabinet", "credit_s": "Barreau de Chambéry — Savoie",
+ "about_title": "Pragmatique,<br>à l'écoute et <em>tenace</em>",
+ "lead": "Apporter toutes les solutions utiles à votre dossier — avec pragmatisme et ténacité.",
+ "p1": "Avocate au Barreau de Chambéry, Maître Audrey Joet a construit une pratique "
+       "singulière autour du droit de la consommation et du crédit — une matière "
+       "technique, souvent négligée, qui touche pourtant au quotidien de chacun&nbsp;: "
+       "contrats de vente, crédits, service après-vente, clauses abusives et "
+       "surendettement.",
+ "p2": "Elle intervient également en droit de la famille — divorce amiable, divorce "
+       "accepté, divorce pour faute ou pour altération définitive du lien conjugal —, "
+       "en droit pénal et en droit civil, notamment pour les conflits de voisinage, les "
+       "baux d'habitation et le recouvrement de créances civiles.",
+ "sig": "Audrey Joet", "sig_sub": "Avocate au Barreau de Chambéry<br>Savoie",
+ "exp_title": "Le crédit, la famille,<br>le <em>quotidien</em>",
+ "exp_intro": "Une pratique tournée vers les difficultés concrètes&nbsp;: dettes, "
+              "contrats, séparations et litiges du quotidien.",
+ "exps": [
+   ("Surendettement", "Procédures de surendettement, plans de redressement, effacement des dettes."),
+   ("Crédit &amp; consommation", "Contrats de crédit, clauses abusives, contrats de vente et service après-vente."),
+   ("Divorce", "Divorce amiable, par acceptation du principe de la rupture, pour faute ou pour altération définitive du lien conjugal."),
+   ("Famille &amp; enfants", "Séparation, autorité parentale, pension alimentaire, résidence des enfants."),
+   ("Défense pénale", "Assistance et défense devant les juridictions pénales."),
+   ("Voisinage &amp; baux", "Conflits de voisinage, baux d'habitation, recouvrement de créances civiles."),
+ ],
+ "parc_title": "Une pratique<br><em>singulière</em>",
+ "tl": [
+   ("Aujourd'hui", "Avocate — Barreau de Chambéry", "Savoie",
+    "Une pratique au service des particuliers savoyards, du contentieux du crédit "
+    "aux séparations familiales."),
+   ("Spécificité", "Droit de la consommation et du crédit", "Surendettement &amp; clauses abusives",
+    "Une matière technique et exigeante, rarement pratiquée en profondeur, au cœur "
+    "de l'activité du cabinet."),
+   ("Méthode", "Pragmatique, à l'écoute, tenace", "Toutes les solutions utiles",
+    "Comprendre la situation réelle, identifier toutes les solutions possibles, "
+    "puis les défendre avec ténacité."),
+ ],
+ "form_title": "Une expertise<br>du <em>crédit</em>",
+ "dips": [
+   ("Conso", "Droit de la consommation et du crédit",
+    "Surendettement, clauses abusives, contrats de crédit et de vente.", "Consommation"),
+   ("Fam", "Droit de la famille",
+    "Toutes les formes de divorce et le contentieux familial.", "Famille"),
+   ("CAPA", "Certificat d'aptitude à la profession d'avocat",
+    "Inscription au Barreau de Chambéry.", "Barreau de Chambéry"),
+ ],
+ "infos_title": "Toutes les solutions<br><em>utiles</em>",
+ "infos": [
+   ("L'objectif du cabinet&nbsp;: apporter toutes les solutions utiles à votre dossier, y compris celles auxquelles vous n'aviez pas pensé.",
+    "Méthode", "Toutes les solutions utiles"),
+   ("Une écoute réelle de votre situation avant toute stratégie&nbsp;: le droit du crédit et de la famille se juge sur les faits.",
+    "Approche", "Pragmatique &amp; à l'écoute"),
+   ("Chaque dossier est suivi personnellement, du premier rendez-vous jusqu'à l'audience.",
+    "Suivi personnel", "Interlocutrice unique"),
+ ],
+ "contact_blocks": [
+   ("Cabinet", "<p>Barreau de Chambéry<br>Savoie</p>", "Sur rendez-vous"),
+   ("Méthode", "<p>Pragmatique, à l'écoute<br>et tenace</p>", "Toutes les solutions utiles"),
+   ("Écrire", "<p>Via le formulaire ci-contre</p>", "Échanges couverts par le secret professionnel"),
+ ],
+ "opts": ["Surendettement", "Crédit &amp; consommation", "Divorce",
+          "Famille &amp; enfants", "Défense pénale", "Voisinage ou bail", "Autre"],
+ "footer_name": "Audrey Joet", "footer_sub": "Avocate au Barreau de Chambéry",
+ "sources": "Justifit", "me": "Me Joet",
+},
+
+# ─────────────────────────── 33. MARC LE ROUX — LORIENT ──
+{
+ "slug": "marc-le-roux", "mono": "R", "watermark": "R",
+ "brand": "Marc Le Roux", "brand_sub": "Avocat — Barreau de Lorient",
+ "title": "Maître Marc Le Roux — Avocat au Barreau de Lorient | Civil, famille, commercial &amp; pénal",
+ "desc": "Maître Marc Le Roux, Avocat au Barreau de Lorient. Droit civil et de la famille, droit commercial, droit pénal, recouvrement, droit bancaire, assurances.",
+ "ink": "#08131D", "ink2": "#0E1C29", "ink3": "#142838", "radial": "rgba(25,95,150,.22)",
+ "kicker": "Avocat au Barreau de Lorient",
+ "h1a": "Maître", "h1b": "Marc <em>Le Roux</em>",
+ "hero_sub": "Avocat au Barreau de Lorient depuis 2015, je reçois du lundi au samedi "
+             "matin — parce qu'un problème juridique ne s'arrête pas le vendredi soir.",
+ "meta": [("Civil &amp; famille", "Séparations &amp; litiges"),
+          ("Commercial &amp; bancaire", "Entreprises &amp; créances"),
+          ("Pénal", "Défense &amp; victimes")],
+ "marquee": ["Barreau de Lorient — Serment prêté en 2015",
+             "Deux masters en droit privé — Rennes et Nantes",
+             "École des avocats du Grand Ouest",
+             "Ouvert du lundi au samedi matin",
+             "Cabinet rue Lazare Carnot, Lorient"],
+ "stats": [{"n": "11", "label": "Années d'exercice"},
+           {"n": "2015", "counter": False, "label": "Prestation de serment"},
+           {"n": "2", "label": "Masters en droit privé"},
+           {"n": "6", "label": "Jours d'ouverture par semaine"}],
+ "img": IMG_COL, "img_alt": ALT_COL,
+ "credit_b": "Le cabinet", "credit_s": "64 rue Lazare Carnot, Lorient",
+ "about_title": "Disponible,<br>même le <em>samedi</em>",
+ "lead": "Un cabinet généraliste ouvert six jours sur sept — parce qu'un litige n'attend pas.",
+ "p1": "Avocat au Barreau de Lorient depuis sa prestation de serment le 4 décembre "
+       "2015, Maître Marc Le Roux exerce au 64 rue Lazare Carnot, à Lorient. Titulaire "
+       "de deux masters en droit privé — recherche et professionnel — obtenus aux "
+       "universités de Rennes et de Nantes, il s'est formé à l'École des avocats du "
+       "Grand Ouest.",
+ "p2": "Sa pratique couvre le droit civil et le droit de la famille, le droit "
+       "commercial et de la concurrence, le droit pénal, le recouvrement de créances et "
+       "les voies d'exécution, le droit bancaire et boursier et le droit des assurances. "
+       "Le cabinet est ouvert du lundi au vendredi de 9&nbsp;heures à 19&nbsp;heures, "
+       "et le samedi matin.",
+ "sig": "Marc Le Roux", "sig_sub": "Avocat au Barreau de Lorient<br>Depuis 2015",
+ "exp_title": "Un généraliste<br>au sens <em>plein</em>",
+ "exp_intro": "Du divorce au contentieux bancaire, une pratique large au service "
+              "des particuliers et des entreprises du Morbihan.",
+ "exps": [
+   ("Divorce &amp; famille", "Divorce, séparation, autorité parentale, pension alimentaire."),
+   ("Droit civil", "Contrats, responsabilité civile, litiges du quotidien."),
+   ("Commercial &amp; concurrence", "Litiges commerciaux, droit de la concurrence, relations entre professionnels."),
+   ("Recouvrement &amp; exécution", "Recouvrement de créances, saisies et voies d'exécution."),
+   ("Bancaire &amp; assurances", "Contentieux bancaire et boursier, litiges avec les assureurs."),
+   ("Défense pénale", "Assistance en garde à vue et défense devant les juridictions pénales."),
+ ],
+ "parc_title": "De Rennes<br>à <em>Lorient</em>",
+ "tl": [
+   ("Depuis 2015", "Avocat — Barreau de Lorient", "64 rue Lazare Carnot",
+    "Onze années de pratique généraliste au service des particuliers et des "
+    "entreprises du Morbihan, six jours sur sept."),
+   ("4 décembre 2015", "Prestation de serment", "Barreau de Lorient",
+    "Entrée dans la profession après la formation à l'École des avocats du Grand Ouest."),
+   ("2014", "École des avocats du Grand Ouest", "Après deux masters en droit privé",
+    "Une formation professionnelle précédée d'un double cursus universitaire à "
+    "Rennes et à Nantes."),
+ ],
+ "form_title": "Deux masters,<br>deux <em>universités</em>",
+ "dips": [
+   ("M", "Master — Droit privé (recherche)",
+    "Un cursus universitaire orienté vers la théorie et la recherche juridique.", "Université de Rennes"),
+   ("M", "Master — Droit privé (professionnel)",
+    "Une seconde spécialisation, tournée vers la pratique.", "Université de Nantes"),
+   ("2015", "CAPA — École des avocats du Grand Ouest",
+    "Prestation de serment le 4 décembre 2015.", "Barreau de Lorient"),
+ ],
+ "infos_title": "Ouvert<br>le <em>samedi matin</em>",
+ "infos": [
+   ("Le cabinet vous reçoit du lundi au vendredi de 9&nbsp;heures à 19&nbsp;heures, et le samedi de 9&nbsp;heures à 12&nbsp;heures.",
+    "Horaires", "Lun — ven 9h-19h · Sam 9h-12h"),
+   ("Une amplitude horaire pensée pour les actifs, qui ne peuvent pas toujours se libérer en semaine.",
+    "Disponibilité", "Six jours sur sept"),
+   ("Le cabinet est joignable directement au 06 71 71 83 34, rue Lazare Carnot.",
+    "Réactivité", "Contact direct"),
+ ],
+ "contact_blocks": [
+   ("Cabinet", "<p>64 rue Lazare Carnot<br>56100 Lorient</p>", "Sur rendez-vous"),
+   ("Téléphone", '<a href="tel:+33671718334">06 71 71 83 34</a>', "Lun — ven 9h-19h · Sam 9h-12h"),
+   ("Écrire", "<p>Via le formulaire ci-contre</p>", "Échanges couverts par le secret professionnel"),
+ ],
+ "opts": ["Divorce &amp; famille", "Litige civil", "Commercial &amp; concurrence",
+          "Recouvrement de créances", "Bancaire ou assurance", "Défense pénale", "Autre"],
+ "footer_name": "Marc Le Roux", "footer_sub": "Avocat au Barreau de Lorient",
+ "sources": "annuaire du Barreau de Lorient, Justifit", "me": "Me Le Roux",
+},
+
+# ─────────────────────────── 34. LUCIE DAVID — CHARTRES ──
+{
+ "slug": "lucie-david", "mono": "D", "watermark": "D",
+ "brand": "Lucie David", "brand_sub": "Avocate — Barreau de Chartres",
+ "title": "Maître Lucie David — Avocate au Barreau de Chartres | Famille, pénal, mineurs &amp; dommage corporel",
+ "desc": "Maître Lucie David, Avocate au Barreau de Chartres (Nogent-le-Rotrou). Droit de la famille, droit pénal, droit des mineurs, dommage corporel, droit routier.",
+ "ink": "#0A0F1F", "ink2": "#10162C", "ink3": "#171E3D", "radial": "rgba(45,60,175,.2)",
+ "kicker": "Avocate au Barreau de Chartres",
+ "h1a": "Maître", "h1b": "Lucie <em>David</em>",
+ "hero_sub": "Avocate au Barreau de Chartres depuis 2013, j'accompagne les familles, "
+             "les enfants et les victimes du Perche — y compris le samedi matin, sur "
+             "rendez-vous.",
+ "meta": [("Famille &amp; mineurs", "Divorce &amp; enfants"),
+          ("Pénal &amp; routier", "Défense &amp; circulation"),
+          ("Dommage corporel", "Indemnisation des victimes")],
+ "marquee": ["Barreau de Chartres — Serment prêté en 2013",
+             "Treize années d'expérience",
+             "Rendez-vous possibles le samedi matin",
+             "Première consultation offerte si le dossier est confié",
+             "Cabinet à Nogent-le-Rotrou"],
+ "stats": [{"n": "13", "label": "Années d'exercice"},
+           {"n": "2013", "counter": False, "label": "Prestation de serment"},
+           {"n": "6", "label": "Domaines d'intervention"},
+           {"n": "6", "label": "Jours de rendez-vous possibles"}],
+ "img": IMG_LIB, "img_alt": ALT_LIB,
+ "credit_b": "Le cabinet", "credit_s": "13 clos Couronnet, Nogent-le-Rotrou",
+ "about_title": "Une avocate<br>au cœur du <em>Perche</em>",
+ "lead": "Un cabinet de proximité, accessible — y compris le samedi matin.",
+ "p1": "Avocate au Barreau de Chartres depuis sa prestation de serment le 4 novembre "
+       "2013, Maître Lucie David exerce au 13 clos Couronnet, à Nogent-le-Rotrou, au "
+       "cœur du Perche eurélien.",
+ "p2": "Sa pratique couvre le droit de la famille, le droit pénal, le droit des "
+       "mineurs, le droit du dommage corporel, le droit routier et le droit civil. "
+       "Consciente que tous ses clients ne peuvent pas se libérer en semaine, elle "
+       "reçoit également le samedi matin, sur rendez-vous — et offre la première "
+       "consultation lorsque le dossier lui est confié.",
+ "sig": "Lucie David", "sig_sub": "Avocate au Barreau de Chartres<br>Depuis 2013",
+ "exp_title": "Six domaines,<br>une même <em>proximité</em>",
+ "exp_intro": "Familles, enfants, victimes et automobilistes&nbsp;: une pratique "
+              "de proximité au service des Percherons.",
+ "exps": [
+   ("Divorce &amp; séparation", "Divorce amiable ou contentieux, séparation, pension alimentaire."),
+   ("Enfants &amp; autorité parentale", "Résidence des enfants, droits de visite et d'hébergement."),
+   ("Droit des mineurs", "Assistance éducative, protection de l'enfance, représentation devant le juge des enfants."),
+   ("Défense pénale", "Assistance en garde à vue et défense devant les juridictions pénales."),
+   ("Droit routier", "Infractions au code de la route, permis à points, suspensions et annulations."),
+   ("Dommage corporel", "Indemnisation des victimes d'accidents et d'agressions."),
+ ],
+ "parc_title": "Treize ans<br>au service du <em>Perche</em>",
+ "tl": [
+   ("Depuis 2013", "Avocate — Barreau de Chartres", "13 clos Couronnet, Nogent-le-Rotrou",
+    "Treize années de pratique du droit de la famille, du pénal et du dommage "
+    "corporel au service des habitants du Perche et de l'Eure-et-Loir."),
+   ("4 novembre 2013", "Prestation de serment", "Barreau de Chartres",
+    "Entrée dans la profession d'avocat après l'obtention du CAPA."),
+   ("Accessibilité", "Rendez-vous le samedi matin", "Sur rendez-vous",
+    "Une disponibilité élargie pour les clients qui ne peuvent se libérer en semaine, "
+    "et une première consultation offerte si le dossier est confié."),
+ ],
+ "form_title": "Une praticienne<br>de <em>proximité</em>",
+ "dips": [
+   ("2013", "CAPA — Certificat d'aptitude à la profession d'avocat",
+    "Prestation de serment le 4 novembre 2013.", "Barreau de Chartres"),
+   ("Droit", "Formation en droit privé",
+    "Un cursus généraliste couvrant le droit des personnes, le pénal et la réparation du préjudice.", "Droit privé"),
+   ("13 ans", "D'expérience continue",
+    "Une pratique quotidienne des juridictions d'Eure-et-Loir depuis 2013.", "Nogent-le-Rotrou"),
+ ],
+ "infos_title": "Disponible<br>le <em>samedi matin</em>",
+ "infos": [
+   ("Des rendez-vous sont possibles le samedi matin, sur rendez-vous, pour les clients qui travaillent en semaine.",
+    "Samedi matin", "Sur rendez-vous"),
+   ("La première consultation est offerte lorsque le dossier est confié au cabinet.",
+    "Première consultation", "Offerte si dossier confié"),
+   ("Le cabinet est joignable directement au 02 37 37 17 81, à Nogent-le-Rotrou.",
+    "Réactivité", "Contact direct"),
+ ],
+ "contact_blocks": [
+   ("Cabinet", "<p>13 clos Couronnet<br>28400 Nogent-le-Rotrou</p>", "Sur rendez-vous, samedi matin inclus"),
+   ("Téléphone", '<a href="tel:+33237371781">02 37 37 17 81</a>', "Du lundi au samedi matin"),
+   ("Écrire", '<a href="mailto:lucie.david.avocat@orange.fr">lucie.david.avocat@orange.fr</a>', "Échanges couverts par le secret professionnel"),
+ ],
+ "opts": ["Divorce &amp; séparation", "Enfants &amp; autorité parentale", "Droit des mineurs",
+          "Défense pénale", "Droit routier — permis", "Dommage corporel", "Autre"],
+ "footer_name": "Lucie David", "footer_sub": "Avocate au Barreau de Chartres",
+ "sources": "Justifit, annuaire de l'Ordre des avocats de Chartres", "me": "Me David",
+},
+
+# ─────────────────────────── 35. SAMY BAALI — SAINT-BRIEUC ──
+{
+ "slug": "samy-baali", "mono": "B", "watermark": "B",
+ "brand": "Samy Baali", "brand_sub": "Avocat — Barreau de Saint-Brieuc",
+ "title": "Maître Samy Baali — Avocat au Barreau de Saint-Brieuc | Pénal, famille &amp; civil",
+ "desc": "Maître Samy Baali, Avocat au Barreau de Saint-Brieuc. Droit pénal (majeurs et mineurs), droit de la famille, droit civil, baux et responsabilité.",
+ "ink": "#0F1513", "ink2": "#161E1B", "ink3": "#1F2925", "radial": "rgba(60,115,95,.18)",
+ "kicker": "Avocat au Barreau de Saint-Brieuc",
+ "h1a": "Maître", "h1b": "Samy <em>Baali</em>",
+ "hero_sub": "Avocat au Barreau de Saint-Brieuc depuis 2018, j'interviens dès la garde "
+             "à vue et jusqu'à l'audience — pour les personnes poursuivies comme pour "
+             "les victimes, majeurs et mineurs.",
+ "meta": [("Pénal", "Majeurs &amp; mineurs"),
+          ("Famille", "Divorce &amp; enfants"),
+          ("Civil", "Contrats &amp; baux")],
+ "marquee": ["Barreau de Saint-Brieuc — Serment prêté en 2018",
+             "Intervention dès la garde à vue",
+             "Défense des majeurs et des mineurs",
+             "Auteurs comme victimes",
+             "Cabinet place du Guesclin, Saint-Brieuc"],
+ "stats": [{"n": "8", "label": "Années d'exercice"},
+           {"n": "2018", "counter": False, "label": "Prestation de serment"},
+           {"n": "3", "label": "Domaines d'intervention"},
+           {"n": "2", "label": "Majeurs &amp; mineurs"}],
+ "img": IMG_STA, "img_alt": ALT_STA,
+ "credit_b": "Le cabinet", "credit_s": "19 place du Guesclin, Saint-Brieuc",
+ "about_title": "Dès la garde à vue,<br>jusqu'à l'<em>audience</em>",
+ "lead": "Une défense présente à chaque étape de la procédure — pour les auteurs comme pour les victimes.",
+ "p1": "Avocat au Barreau de Saint-Brieuc depuis sa prestation de serment le "
+       "7 décembre 2018, Maître Samy Baali exerce au 19 place du Guesclin, en plein "
+       "centre de Saint-Brieuc.",
+ "p2": "Sa pratique s'articule autour du droit pénal — pour les majeurs comme pour les "
+       "mineurs, quelle que soit la nature de l'infraction, contravention, délit ou "
+       "crime, que l'on soit mis en cause ou victime —, du droit de la famille "
+       "— divorce, modalités de garde, placements — et du droit civil — contrats, "
+       "garantie des vices cachés, responsabilité, baux.",
+ "sig": "Samy Baali", "sig_sub": "Avocat au Barreau de Saint-Brieuc<br>Depuis 2018",
+ "exp_title": "Trois domaines,<br>une présence <em>constante</em>",
+ "exp_intro": "Du commissariat au tribunal, une défense assurée à tous les stades "
+              "de la procédure.",
+ "exps": [
+   ("Garde à vue", "Assistance dès les premières heures de la procédure, jour et nuit."),
+   ("Défense pénale", "Contraventions, délits et crimes&nbsp;: défense devant l'ensemble des juridictions pénales."),
+   ("Mineurs au pénal", "Défense des mineurs devant le juge des enfants et le tribunal pour enfants."),
+   ("Victimes", "Constitution de partie civile et réparation du préjudice."),
+   ("Divorce &amp; famille", "Divorce, modalités de garde des enfants, placements."),
+   ("Civil, contrats &amp; baux", "Droit des contrats, garantie des vices cachés, responsabilité civile, baux."),
+ ],
+ "parc_title": "Huit ans<br>en <em>Côtes-d'Armor</em>",
+ "tl": [
+   ("Depuis 2018", "Avocat — Barreau de Saint-Brieuc", "19 place du Guesclin",
+    "Huit années de pratique du droit pénal, familial et civil au service des "
+    "justiciables des Côtes-d'Armor."),
+   ("7 décembre 2018", "Prestation de serment", "Barreau de Saint-Brieuc",
+    "Entrée dans la profession d'avocat après l'obtention du CAPA."),
+   ("Pratique", "De la garde à vue à l'audience", "Auteurs &amp; victimes",
+    "Une défense présente à tous les stades de la procédure pénale, quelle que soit "
+    "la position du client."),
+ ],
+ "form_title": "Une pratique<br>du <em>terrain</em>",
+ "dips": [
+   ("2018", "CAPA — Certificat d'aptitude à la profession d'avocat",
+    "Prestation de serment le 7 décembre 2018.", "Barreau de Saint-Brieuc"),
+   ("Droit", "Formation en droit privé et sciences criminelles",
+    "Un cursus orienté vers le droit pénal et la procédure pénale.", "Droit pénal"),
+   ("8 ans", "D'expérience continue",
+    "Une pratique quotidienne des juridictions briochines depuis 2018.", "Saint-Brieuc"),
+ ],
+ "infos_title": "Une défense<br><em>immédiate</em>",
+ "infos": [
+   ("Le cabinet intervient dès la garde à vue, au commissariat ou en gendarmerie, pour assister le client dès les premières heures.",
+    "Garde à vue", "Intervention immédiate"),
+   ("La défense est assurée quelle que soit la position&nbsp;: mis en cause ou victime, majeur ou mineur.",
+    "Défense", "Auteurs &amp; victimes"),
+   ("Le cabinet est joignable directement au 02 96 60 89 12, place du Guesclin.",
+    "Réactivité", "Contact direct"),
+ ],
+ "contact_blocks": [
+   ("Cabinet", "<p>19 place du Guesclin<br>22000 Saint-Brieuc</p>", "Centre-ville — sur rendez-vous"),
+   ("Téléphone", '<a href="tel:+33296608912">02 96 60 89 12</a>', "Du lundi au vendredi"),
+   ("Écrire", '<a href="mailto:samybaali.avocat@gmail.com">samybaali.avocat@gmail.com</a>', "Échanges couverts par le secret professionnel"),
+ ],
+ "opts": ["Garde à vue — urgence", "Défense pénale", "Mineur au pénal",
+          "Victime d'infraction", "Divorce &amp; famille", "Contrat, bail ou responsabilité", "Autre"],
+ "footer_name": "Samy Baali", "footer_sub": "Avocat au Barreau de Saint-Brieuc",
+ "sources": "Justifit, annuaire du Barreau de Saint-Brieuc", "me": "Me Baali",
+},
 ]
