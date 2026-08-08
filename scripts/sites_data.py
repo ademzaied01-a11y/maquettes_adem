@@ -3106,4 +3106,1781 @@ SITES = [
  "footer_name": "Samy Baali", "footer_sub": "Avocat au Barreau de Saint-Brieuc",
  "sources": "Justifit, annuaire du Barreau de Saint-Brieuc", "me": "Me Baali",
 },
+
+# ═══════════════════════════ FOURNÉE 6 ═══════════════════════════
+
+# ─────────────────────────── 36. PIERRE ROTELLINI — ARRAS ──
+{
+ "slug": "pierre-rotellini", "mono": "R", "watermark": "R",
+ "brand": "Pierre Rotellini", "brand_sub": "Avocat — Barreau d'Arras",
+ "title": "Maître Pierre Rotellini — Avocat au Barreau d'Arras | Famille, commercial, dommage corporel &amp; travail",
+ "desc": "Maître Pierre Rotellini, Avocat au Barreau d'Arras depuis 1996. Droit de la famille, droit commercial, droit pénal, dommage corporel, droit du travail.",
+ "ink": "#14181C", "ink2": "#1D2228", "ink3": "#282F36", "radial": "rgba(80,110,140,.18)",
+ "kicker": "Avocat au Barreau d'Arras",
+ "h1a": "Maître", "h1b": "Pierre <em>Rotellini</em>",
+ "hero_sub": "Avocat au Barreau d'Arras depuis 1996, je mets trente années d'expérience "
+             "au service des particuliers et des entreprises de l'Artois — de la "
+             "séparation au litige commercial, de l'accident à l'audience prud'homale.",
+ "meta": [("Famille", "Divorce &amp; patrimoine"),
+          ("Dommage corporel", "Accidents &amp; indemnisation"),
+          ("Commercial &amp; travail", "Entreprises &amp; salariés")],
+ "marquee": ["Barreau d'Arras — Serment prêté en 1996",
+             "Trente années d'expérience",
+             "Accidents de la route, médicaux et du travail",
+             "Contentieux prud'homal et incapacité",
+             "Cabinet rue de Douai, Arras"],
+ "stats": [{"n": "30", "label": "Années d'exercice"},
+           {"n": "1996", "counter": False, "label": "Prestation de serment"},
+           {"n": "6", "label": "Domaines d'intervention"},
+           {"n": "1", "label": "Interlocuteur unique"}],
+ "img": IMG_COL, "img_alt": ALT_COL,
+ "credit_b": "Le cabinet", "credit_s": "25 rue de Douai, Arras",
+ "about_title": "Trente ans<br>au barreau d'<em>Arras</em>",
+ "lead": "Une expérience généraliste rare, au service des particuliers comme des entreprises de l'Artois.",
+ "p1": "Avocat au Barreau d'Arras depuis sa prestation de serment le 18 décembre 1996, "
+       "Maître Pierre Rotellini exerce au 25 rue de Douai, à Arras. Trente années de "
+       "pratique lui confèrent une connaissance approfondie des juridictions du "
+       "Pas-de-Calais.",
+ "p2": "Sa pratique couvre le droit de la famille — divorce, séparation, liquidation du "
+       "régime matrimonial —, le droit du dommage corporel — accidents de la "
+       "circulation, accidents médicaux, accidents du travail, infections "
+       "nosocomiales —, le droit du travail devant le conseil de prud'hommes et le pôle "
+       "social, ainsi que le droit commercial, des affaires et de la concurrence, et le "
+       "droit pénal.",
+ "sig": "Pierre Rotellini", "sig_sub": "Avocat au Barreau d'Arras<br>Depuis 1996",
+ "exp_title": "Six domaines,<br>trois décennies de <em>pratique</em>",
+ "exp_intro": "Une pratique généraliste assumée, éprouvée par l'expérience de "
+              "toutes les juridictions.",
+ "exps": [
+   ("Divorce &amp; famille", "Divorce, séparation, liquidation du régime matrimonial, autorité parentale."),
+   ("Accidents de la route", "Indemnisation des victimes d'accidents de la circulation, expertises, négociation avec les assureurs."),
+   ("Accidents médicaux &amp; nosocomiaux", "Erreurs médicales, infections nosocomiales, réparation intégrale du préjudice."),
+   ("Accidents du travail", "Accidents du travail, maladies professionnelles, contentieux de l'incapacité."),
+   ("Droit du travail", "Licenciement, harcèlement, fautes de l'employeur devant le conseil de prud'hommes."),
+   ("Commercial &amp; concurrence", "Litiges commerciaux, droit des affaires et de la concurrence, droit pénal."),
+ ],
+ "parc_title": "Une pratique<br>de <em>plaideur</em>",
+ "tl": [
+   ("Depuis 1996", "Avocat — Barreau d'Arras", "25 rue de Douai",
+    "Trente années de pratique généraliste devant l'ensemble des juridictions du "
+    "Pas-de-Calais, en conseil comme au contentieux."),
+   ("18 décembre 1996", "Prestation de serment", "Barreau d'Arras",
+    "Entrée dans la profession d'avocat après l'obtention du CAPA."),
+   ("Pratique", "Toutes les juridictions", "Civil, social, commercial, pénal",
+    "Conseil de prud'hommes, pôle social, tribunal judiciaire, tribunal de commerce "
+    "et juridictions pénales."),
+ ],
+ "form_title": "L'expérience<br>comme <em>expertise</em>",
+ "dips": [
+   ("1996", "CAPA — Certificat d'aptitude à la profession d'avocat",
+    "Prestation de serment le 18 décembre 1996.", "Barreau d'Arras"),
+   ("30", "Trente années d'exercice",
+    "Une pratique continue de tous les contentieux depuis 1996.", "Arras"),
+   ("Droit", "Formation généraliste",
+    "Un socle couvrant le droit civil, social, commercial et pénal.", "Droit privé"),
+ ],
+ "infos_title": "Un cabinet<br>au cœur d'<em>Arras</em>",
+ "infos": [
+   ("Chaque dossier est suivi personnellement, du premier rendez-vous jusqu'à l'audience.",
+    "Suivi personnel", "Interlocuteur unique"),
+   ("Les victimes d'accidents sont accompagnées à chaque étape&nbsp;: expertise médicale, négociation, procédure.",
+    "Dommage corporel", "De l'expertise à l'indemnisation"),
+   ("Le cabinet est situé au 25 rue de Douai, à Arras.",
+    "Accès", "Rue de Douai — Arras"),
+ ],
+ "contact_blocks": [
+   ("Cabinet", "<p>25 rue de Douai<br>62000 Arras</p>", "Sur rendez-vous"),
+   ("Écrire", '<a href="mailto:pierre.rotellini@gmail.com">pierre.rotellini@gmail.com</a>', "Échanges couverts par le secret professionnel"),
+   ("Domaines", "<p>Famille · Dommage corporel<br>Travail · Commercial</p>", "Conseil &amp; contentieux"),
+ ],
+ "opts": ["Divorce &amp; famille", "Accident de la route", "Accident médical",
+          "Accident du travail", "Droit du travail", "Commercial &amp; concurrence", "Autre"],
+ "footer_name": "Pierre Rotellini", "footer_sub": "Avocat au Barreau d'Arras",
+ "sources": "annuaire de l'Ordre des avocats d'Arras, Justifit", "me": "Me Rotellini",
+},
+
+# ─────────────────────────── 37. MAGALI BONDUELLE — DOUAI ──
+{
+ "slug": "magali-bonduelle", "mono": "B", "watermark": "B",
+ "brand": "Magali Bonduelle", "brand_sub": "Avocate — Barreau de Douai",
+ "title": "Maître Magali Bonduelle — Avocate au Barreau de Douai | Famille, personnes &amp; protection des mineurs",
+ "desc": "Maître Magali Bonduelle, Avocate au Barreau de Douai depuis 1992. Droit de la famille, droit des personnes et de leur patrimoine, tutelle, protection des mineurs.",
+ "ink": "#1A1410", "ink2": "#241D17", "ink3": "#312820", "radial": "rgba(160,105,55,.18)",
+ "kicker": "Avocate au Barreau de Douai",
+ "h1a": "Maître", "h1b": "Magali <em>Bonduelle</em>",
+ "hero_sub": "Avocate au Barreau de Douai depuis 1992, j'ai consacré trente-quatre "
+             "années au droit des familles et à la protection des plus vulnérables — "
+             "avec l'aide juridictionnelle acceptée et des honoraires échelonnables.",
+ "meta": [("Famille", "Divorce &amp; séparation"),
+          ("Enfants", "Garde &amp; pension"),
+          ("Protection", "Tutelle &amp; mineurs")],
+ "marquee": ["Barreau de Douai — Serment prêté en 1992",
+             "Trente-quatre années d'expérience",
+             "Aide juridictionnelle acceptée",
+             "Honoraires payables en plusieurs fois",
+             "Droit des tutelles et protection des mineurs"],
+ "stats": [{"n": "34", "label": "Années d'exercice"},
+           {"n": "1992", "counter": False, "label": "Prestation de serment"},
+           {"n": "3", "label": "Domaines d'intervention"},
+           {"n": "1", "label": "Interlocutrice unique"}],
+ "img": IMG_LIB, "img_alt": ALT_LIB,
+ "credit_b": "Le cabinet", "credit_s": "52 place du Barlet, Douai",
+ "about_title": "Trente-quatre ans<br>auprès des <em>familles</em>",
+ "lead": "Une expérience rare du droit des familles, doublée d'un engagement pour l'accès au droit.",
+ "p1": "Avocate au Barreau de Douai depuis sa prestation de serment en 1992, Maître "
+       "Magali Bonduelle exerce au 52 place du Barlet, à Douai. Trente-quatre années de "
+       "pratique lui ont donné une expertise reconnue du droit de la famille, des "
+       "personnes et de leur patrimoine.",
+ "p2": "Elle conseille et assiste dans les divorces — par consentement mutuel ou "
+       "contentieux —, les procédures de séparation, la garde des enfants et les "
+       "pensions alimentaires. Le droit des tutelles et la protection des mineurs font "
+       "également partie intégrante de sa pratique. Attachée à l'accès au droit, elle "
+       "accepte l'aide juridictionnelle, permet le règlement échelonné des honoraires "
+       "et ne facture pas la première consultation en cas de procédure d'aide "
+       "juridictionnelle.",
+ "sig": "Magali Bonduelle", "sig_sub": "Avocate au Barreau de Douai<br>Depuis 1992",
+ "exp_title": "Le droit des familles,<br>et de ceux qu'il faut <em>protéger</em>",
+ "exp_intro": "Trois décennies au service des familles du Douaisis, en conseil "
+              "comme au contentieux.",
+ "exps": [
+   ("Divorce par consentement mutuel", "Divorce amiable, conventions, liquidation du régime matrimonial."),
+   ("Divorce contentieux", "Représentation devant le juge aux affaires familiales, mesures provisoires."),
+   ("Séparation", "Procédures de séparation de corps et de fait, rupture de PACS et de concubinage."),
+   ("Garde d'enfants &amp; pension", "Résidence des enfants, droits de visite et d'hébergement, pension alimentaire."),
+   ("Tutelle &amp; curatelle", "Mesures de protection des majeurs vulnérables, habilitation familiale."),
+   ("Protection des mineurs", "Assistance éducative, protection de l'enfance, représentation des mineurs."),
+ ],
+ "parc_title": "Depuis 1992,<br>à <em>Douai</em>",
+ "tl": [
+   ("Depuis 1992", "Avocate — Barreau de Douai", "52 place du Barlet",
+    "Trente-quatre années de pratique du droit de la famille et de la protection des "
+    "personnes au service des familles du Douaisis."),
+   ("1992", "Prestation de serment", "Barreau de Douai",
+    "Entrée dans la profession d'avocat après l'obtention du CAPA."),
+   ("Engagement", "Accès au droit", "Aide juridictionnelle &amp; échelonnement",
+    "L'aide juridictionnelle est acceptée, les honoraires peuvent être réglés en "
+    "plusieurs fois, et la première consultation n'est pas facturée en cas de "
+    "procédure d'aide juridictionnelle."),
+ ],
+ "form_title": "Une expertise<br>bâtie sur la <em>durée</em>",
+ "dips": [
+   ("1992", "CAPA — Certificat d'aptitude à la profession d'avocat",
+    "Prestation de serment en 1992 au Barreau de Douai.", "Barreau de Douai"),
+   ("34", "Trente-quatre années d'exercice",
+    "Une pratique continue du droit de la famille depuis 1992.", "Douai"),
+   ("AJ", "Aide juridictionnelle",
+    "Un engagement constant pour l'accès au droit de tous les justiciables.", "Accès au droit"),
+ ],
+ "infos_title": "Le droit,<br>accessible à <em>tous</em>",
+ "infos": [
+   ("La première consultation n'est pas facturée lorsqu'une procédure d'aide juridictionnelle est engagée.",
+    "Première consultation", "Non facturée sous conditions"),
+   ("Le cabinet accepte l'aide juridictionnelle, totale ou partielle, selon vos ressources.",
+    "Aide juridictionnelle", "Acceptée"),
+   ("Les honoraires peuvent être réglés en plusieurs fois, en fonction de votre situation.",
+    "Honoraires", "Paiement échelonné possible"),
+ ],
+ "contact_blocks": [
+   ("Cabinet", "<p>52 place du Barlet<br>59500 Douai</p>", "Sur rendez-vous"),
+   ("Aide juridictionnelle", "<p>Acceptée</p>", "Honoraires échelonnables"),
+   ("Écrire", "<p>Via le formulaire ci-contre</p>", "Échanges couverts par le secret professionnel"),
+ ],
+ "opts": ["Divorce par consentement mutuel", "Divorce contentieux", "Séparation",
+          "Garde d'enfants &amp; pension", "Tutelle ou curatelle", "Protection d'un mineur", "Autre"],
+ "footer_name": "Magali Bonduelle", "footer_sub": "Avocate au Barreau de Douai",
+ "sources": "annuaire du Barreau de Douai, Justifit", "me": "Me Bonduelle",
+},
+
+# ─────────────────────────── 38. XAVIER FERRAND — DUNKERQUE ──
+{
+ "slug": "xavier-ferrand", "mono": "F", "watermark": "F",
+ "brand": "Xavier Ferrand", "brand_sub": "Avocat — Barreau de Dunkerque",
+ "title": "Maître Xavier Ferrand — Avocat au Barreau de Dunkerque | Administratif, fonction publique, étrangers &amp; pénal",
+ "desc": "Maître Xavier Ferrand, Avocat au Barreau de Dunkerque. Droit administratif, droit de la fonction publique, droit des étrangers, droit pénal, droit civil.",
+ "ink": "#091820", "ink2": "#0F222C", "ink3": "#152F3C", "radial": "rgba(30,110,150,.2)",
+ "kicker": "Avocat au Barreau de Dunkerque",
+ "h1a": "Maître", "h1b": "Xavier <em>Ferrand</em>",
+ "hero_sub": "Avocat au Barreau de Dunkerque depuis 2012, je défends les agents publics "
+             "et les étrangers face à l'administration — un contentieux technique où "
+             "chaque délai compte.",
+ "meta": [("Fonction publique", "Agents &amp; carrières"),
+          ("Étrangers", "Séjour &amp; nationalité"),
+          ("Pénal &amp; civil", "Défense &amp; contrats")],
+ "marquee": ["Barreau de Dunkerque — Serment prêté en 2012",
+             "Quatorze années d'expérience",
+             "Contentieux de la fonction publique",
+             "Recours contre les mesures d'éloignement",
+             "Cabinet à Saint-Pol-sur-Mer"],
+ "stats": [{"n": "14", "label": "Années d'exercice"},
+           {"n": "2012", "counter": False, "label": "Prestation de serment"},
+           {"n": "5", "label": "Domaines d'intervention"},
+           {"n": "2", "label": "Ordres de juridiction"}],
+ "img": IMG_COL, "img_alt": ALT_COL,
+ "credit_b": "Le cabinet", "credit_s": "2A rue Clemenceau, Saint-Pol-sur-Mer",
+ "about_title": "Face à l'administration,<br>la <em>technique</em> fait la différence",
+ "lead": "Défendre les agents publics et les étrangers dans un contentieux où les délais et les formes décident de tout.",
+ "p1": "Avocat au Barreau de Dunkerque depuis sa prestation de serment le 29 octobre "
+       "2012, Maître Xavier Ferrand exerce au 2A rue Clemenceau, à Saint-Pol-sur-Mer, "
+       "aux portes de Dunkerque.",
+ "p2": "Sa pratique se distingue par une double compétence rare&nbsp;: le droit "
+       "administratif et de la fonction publique — où il assiste les agents publics "
+       "dans leurs litiges de congés, mobilité, licenciement, procédures disciplinaires "
+       "et rémunération — et le droit des étrangers et de la nationalité. Il intervient "
+       "également en droit pénal, droit civil, droit des contrats et responsabilité "
+       "civile.",
+ "sig": "Xavier Ferrand", "sig_sub": "Avocat au Barreau de Dunkerque<br>Depuis 2012",
+ "exp_title": "Deux ordres,<br>une même <em>rigueur</em>",
+ "exp_intro": "Juridictions administratives et judiciaires&nbsp;: une pratique "
+              "technique au service des particuliers et des agents publics.",
+ "exps": [
+   ("Fonction publique", "Congés, mobilité, licenciement, procédures disciplinaires, contentieux de la rémunération."),
+   ("Droit administratif", "Recours pour excès de pouvoir, référés, litiges avec les administrations."),
+   ("Séjour &amp; régularisation", "Visas et refus de visa, titres de séjour, demandes de régularisation."),
+   ("Éloignement &amp; nationalité", "Recours contre les mesures de reconduite à la frontière, contentieux de la nationalité."),
+   ("Défense pénale", "Assistance en garde à vue et défense devant les juridictions pénales."),
+   ("Civil &amp; contrats", "Droit des contrats, responsabilité civile, litiges du quotidien."),
+ ],
+ "parc_title": "Quatorze ans<br>sur les deux <em>fronts</em>",
+ "tl": [
+   ("Depuis 2012", "Avocat — Barreau de Dunkerque", "2A rue Clemenceau, Saint-Pol-sur-Mer",
+    "Quatorze années de pratique devant les juridictions administratives et "
+    "judiciaires du Nord."),
+   ("29 octobre 2012", "Prestation de serment", "Barreau de Dunkerque",
+    "Entrée dans la profession d'avocat après l'obtention du CAPA."),
+   ("Spécificité", "Droit public &amp; droit des étrangers", "Deux ordres de juridiction",
+    "Une double compétence rare qui permet d'agir aussi bien devant le tribunal "
+    "administratif que devant le tribunal judiciaire."),
+ ],
+ "form_title": "Une culture<br>de droit <em>public</em>",
+ "dips": [
+   ("2012", "CAPA — Certificat d'aptitude à la profession d'avocat",
+    "Prestation de serment le 29 octobre 2012.", "Barreau de Dunkerque"),
+   ("Pub.", "Droit administratif &amp; fonction publique",
+    "Une spécialisation dans le contentieux des agents publics.", "Droit public"),
+   ("14 ans", "D'expérience continue",
+    "Une pratique quotidienne des juridictions dunkerquoises depuis 2012.", "Dunkerque"),
+ ],
+ "infos_title": "Les délais<br>ne <em>pardonnent</em> pas",
+ "infos": [
+   ("En contentieux administratif, les délais de recours sont courts et impératifs&nbsp;: consultez le cabinet dès la notification de la décision.",
+    "Délais", "Consultez sans attendre"),
+   ("Le cabinet intervient devant le tribunal administratif comme devant le tribunal judiciaire.",
+    "Juridictions", "Administratif &amp; judiciaire"),
+   ("Le cabinet est situé au 2A rue Clemenceau, à Saint-Pol-sur-Mer, aux portes de Dunkerque.",
+    "Accès", "Saint-Pol-sur-Mer"),
+ ],
+ "contact_blocks": [
+   ("Cabinet", "<p>2A rue Clemenceau<br>59430 Saint-Pol-sur-Mer</p>", "Aux portes de Dunkerque"),
+   ("Urgence", "<p>Délais de recours courts</p>", "Consultez dès la notification"),
+   ("Écrire", "<p>Via le formulaire ci-contre</p>", "Échanges couverts par le secret professionnel"),
+ ],
+ "opts": ["Fonction publique", "Litige administratif", "Titre de séjour &amp; régularisation",
+          "Recours contre éloignement", "Défense pénale", "Civil &amp; contrats", "Autre"],
+ "footer_name": "Xavier Ferrand", "footer_sub": "Avocat au Barreau de Dunkerque",
+ "sources": "Justifit, annuaire du Barreau de Dunkerque", "me": "Me Ferrand",
+},
+
+# ─────────────────────────── 39. EMMANUELLE AULAGNON — LA ROCHE-SUR-YON ──
+{
+ "slug": "emmanuelle-aulagnon", "mono": "A", "watermark": "A",
+ "brand": "Emmanuelle Aulagnon", "brand_sub": "Avocate — Barreau de La Roche-sur-Yon",
+ "title": "Maître Emmanuelle Aulagnon — Avocate au Barreau de La Roche-sur-Yon | Famille, successions, construction &amp; dommage corporel",
+ "desc": "Maître Emmanuelle Aulagnon, Avocate au Barreau de La Roche-sur-Yon. Droit de la famille, successions, divorce, droit de la construction, dommage corporel.",
+ "ink": "#0C1424", "ink2": "#121C31", "ink3": "#192642", "radial": "rgba(50,80,170,.2)",
+ "kicker": "Avocate au Barreau de La Roche-sur-Yon",
+ "h1a": "Maître", "h1b": "Emmanuelle <em>Aulagnon</em>",
+ "hero_sub": "Avocate au Barreau de La Roche-sur-Yon, j'accompagne les familles "
+             "vendéennes dans leurs séparations et leurs successions — et défends "
+             "ceux que la construction ou l'accident ont lésés.",
+ "meta": [("Famille", "Divorce &amp; filiation"),
+          ("Successions", "Partages &amp; indivisions"),
+          ("Construction", "Malfaçons &amp; dommage corporel")],
+ "marquee": ["Barreau de La Roche-sur-Yon",
+             "Divorce amiable et contentieux",
+             "Liquidation des régimes matrimoniaux",
+             "Droit de la construction et malfaçons",
+             "Cabinet boulevard d'Angleterre, La Roche-sur-Yon"],
+ "stats": [{"n": "5", "label": "Domaines d'intervention"},
+           {"n": "2", "label": "Formes de divorce accompagnées"},
+           {"n": "1", "label": "Interlocutrice unique"},
+           {"n": "85", "counter": False, "label": "Vendée — La Roche-sur-Yon"}],
+ "img": IMG_LIB, "img_alt": ALT_LIB,
+ "credit_b": "Le cabinet", "credit_s": "129 boulevard d'Angleterre, La Roche-sur-Yon",
+ "about_title": "Séparations, héritages,<br>et ce que l'on <em>construit</em>",
+ "lead": "Accompagner les familles dans leurs ruptures et leurs transmissions, défendre ceux que le bâti ou l'accident ont lésés.",
+ "p1": "Avocate au Barreau de La Roche-sur-Yon, Maître Emmanuelle Aulagnon exerce au "
+       "129 boulevard d'Angleterre, à La Roche-sur-Yon, au sein du cabinet Siret et "
+       "Associés.",
+ "p2": "Sa pratique couvre le droit de la famille — divorces amiables et contentieux, "
+       "divorces par consentement mutuel et pour faute, séparations, liquidation des "
+       "régimes matrimoniaux, dissolution des indivisions, PACS, filiation, adoption, "
+       "autorité parentale et pensions alimentaires —, le droit des successions, le "
+       "droit de la construction et le droit du dommage corporel.",
+ "sig": "Emmanuelle Aulagnon", "sig_sub": "Avocate au Barreau de La Roche-sur-Yon<br>Cabinet Siret et Associés",
+ "exp_title": "De la rupture<br>à la <em>reconstruction</em>",
+ "exp_intro": "Cinq domaines articulés autour des grands passages de la vie&nbsp;: "
+              "séparer, transmettre, bâtir, réparer.",
+ "exps": [
+   ("Divorce amiable", "Divorce par consentement mutuel, conventions, liquidation du régime matrimonial."),
+   ("Divorce contentieux", "Divorce pour faute ou pour altération du lien conjugal, mesures provisoires."),
+   ("Indivision &amp; PACS", "Dissolution des indivisions, rupture de PACS, partage des biens communs."),
+   ("Filiation &amp; adoption", "Actions relatives à la filiation, procédures d'adoption, autorité parentale."),
+   ("Successions", "Partages successoraux, indivisions successorales, contentieux entre héritiers."),
+   ("Construction &amp; dommage corporel", "Malfaçons, désordres de construction, réparation des préjudices corporels."),
+ ],
+ "parc_title": "Une pratique<br><em>vendéenne</em>",
+ "tl": [
+   ("Aujourd'hui", "Avocate — Barreau de La Roche-sur-Yon", "129 boulevard d'Angleterre",
+    "Une pratique au service des familles et propriétaires vendéens, en conseil "
+    "comme au contentieux."),
+   ("Cabinet", "Siret et Associés", "La Roche-sur-Yon",
+    "Un exercice au sein d'une structure associative qui permet de mutualiser les "
+    "compétences tout en garantissant un suivi personnel."),
+   ("Pratique", "Famille, successions, construction", "Les grands passages de la vie",
+    "Une pratique organisée autour des moments où le patrimoine et la famille se "
+    "recomposent."),
+ ],
+ "form_title": "Une double<br><em>compétence</em>",
+ "dips": [
+   ("Fam", "Droit de la famille et des successions",
+    "Divorces, liquidations, partages successoraux et filiation.", "Famille &amp; successions"),
+   ("Cons", "Droit de la construction",
+    "Malfaçons, désordres et responsabilité des constructeurs.", "Construction"),
+   ("DC", "Droit du dommage corporel",
+    "Évaluation et réparation des préjudices corporels.", "Dommage corporel"),
+ ],
+ "infos_title": "Un accompagnement<br>de bout en <em>bout</em>",
+ "infos": [
+   ("Du premier rendez-vous à la liquidation du régime matrimonial, le dossier est suivi jusqu'à son terme.",
+    "Suivi", "Jusqu'à la liquidation"),
+   ("En matière successorale, le cabinet intervient aussi bien en négociation amiable qu'au contentieux entre héritiers.",
+    "Successions", "Amiable &amp; contentieux"),
+   ("Le cabinet est situé au 129 boulevard d'Angleterre, à La Roche-sur-Yon.",
+    "Accès", "Boulevard d'Angleterre"),
+ ],
+ "contact_blocks": [
+   ("Cabinet", "<p>129 boulevard d'Angleterre<br>85000 La Roche-sur-Yon</p>", "Sur rendez-vous"),
+   ("Domaines", "<p>Famille · Successions<br>Construction · Dommage corporel</p>", "Conseil &amp; contentieux"),
+   ("Écrire", "<p>Via le formulaire ci-contre</p>", "Échanges couverts par le secret professionnel"),
+ ],
+ "opts": ["Divorce amiable", "Divorce contentieux", "Indivision &amp; PACS",
+          "Filiation &amp; adoption", "Succession", "Construction ou dommage corporel", "Autre"],
+ "footer_name": "Emmanuelle Aulagnon", "footer_sub": "Avocate au Barreau de La Roche-sur-Yon",
+ "sources": "Justifit, annuaire du barreau", "me": "Me Aulagnon",
+},
+
+# ─────────────────────────── 40. AMÉLIE MARTIN — ÉVREUX ──
+{
+ "slug": "amelie-martin", "mono": "M", "watermark": "M",
+ "brand": "Amélie Martin", "brand_sub": "Avocate — Barreau de l'Eure",
+ "title": "Maître Amélie Martin — Avocate au Barreau de l'Eure | Famille, pénal &amp; civil",
+ "desc": "Maître Amélie Martin, Avocate au Barreau de l'Eure (Évreux). Droit de la famille, droit pénal, droit civil, baux, crédit à la consommation, voisinage.",
+ "ink": "#101A14", "ink2": "#17241C", "ink3": "#203026", "radial": "rgba(70,140,95,.18)",
+ "kicker": "Avocate au Barreau de l'Eure",
+ "h1a": "Maître", "h1b": "Amélie <em>Martin</em>",
+ "hero_sub": "Avocate au Barreau de l'Eure, je m'attache à construire avec chaque "
+             "client une relation de confiance et de transparence — du dépôt de la "
+             "requête en divorce jusqu'au jugement.",
+ "meta": [("Famille", "Divorce &amp; séparation"),
+          ("Civil", "Baux &amp; voisinage"),
+          ("Pénal", "Défense &amp; victimes")],
+ "marquee": ["Barreau de l'Eure — Évreux",
+             "Confiance et transparence",
+             "Baux d'habitation et commerciaux",
+             "Crédit à la consommation et conflits de voisinage",
+             "Cabinet ouvert du lundi au vendredi, 9h — 19h"],
+ "stats": [{"n": "3", "label": "Domaines d'intervention"},
+           {"n": "10", "label": "Heures d'ouverture par jour"},
+           {"n": "5", "label": "Jours d'ouverture"},
+           {"n": "1", "label": "Interlocutrice unique"}],
+ "img": IMG_STA, "img_alt": ALT_STA,
+ "credit_b": "Le cabinet", "credit_s": "6 bis rue Victor Hugo, Évreux",
+ "about_title": "Confiance<br>et <em>transparence</em>",
+ "lead": "Construire une relation de confiance et de transparence — c'est la condition d'une défense efficace.",
+ "p1": "Avocate au Barreau de l'Eure, Maître Amélie Martin exerce au 6 bis rue Victor "
+       "Hugo, à Évreux. Son cabinet est ouvert du lundi au vendredi, de 9&nbsp;heures à "
+       "19&nbsp;heures — une amplitude pensée pour ceux qui travaillent.",
+ "p2": "Elle traite l'ensemble des questions relevant du droit de la famille, du droit "
+       "pénal et du droit civil&nbsp;: baux d'habitation et commerciaux, crédit à la "
+       "consommation, conflits de voisinage. En matière de divorce et de séparation, "
+       "elle accompagne les époux depuis le dépôt de la requête devant le juge aux "
+       "affaires familiales jusqu'au jugement définitif.",
+ "sig": "Amélie Martin", "sig_sub": "Avocate au Barreau de l'Eure<br>Évreux",
+ "exp_title": "Trois domaines,<br>une même <em>disponibilité</em>",
+ "exp_intro": "Familles, locataires, bailleurs et justiciables&nbsp;: une pratique "
+              "de proximité au cœur de l'Eure.",
+ "exps": [
+   ("Divorce &amp; séparation", "Accompagnement du dépôt de la requête devant le juge aux affaires familiales jusqu'au jugement."),
+   ("Enfants &amp; autorité parentale", "Résidence des enfants, droits de visite et d'hébergement, pension alimentaire."),
+   ("Baux d'habitation", "Rédaction, congés, loyers impayés, procédures d'expulsion."),
+   ("Baux commerciaux", "Négociation, renouvellement et contentieux des baux commerciaux."),
+   ("Crédit &amp; consommation", "Litiges de crédit à la consommation, clauses abusives, surendettement."),
+   ("Pénal &amp; voisinage", "Défense devant les juridictions pénales, conflits de voisinage."),
+ ],
+ "parc_title": "Une avocate<br>de <em>proximité</em>",
+ "tl": [
+   ("Aujourd'hui", "Avocate — Barreau de l'Eure", "6 bis rue Victor Hugo, Évreux",
+    "Une pratique généraliste au service des habitants de l'Eure, du contentieux "
+    "familial aux litiges du quotidien."),
+   ("Méthode", "Confiance et transparence", "Une relation claire dès le départ",
+    "Chaque client sait où en est son dossier, ce qu'il va coûter et ce qu'il peut "
+    "raisonnablement espérer."),
+   ("Horaires", "Du lundi au vendredi, 9h — 19h", "Une amplitude rare",
+    "Une disponibilité pensée pour les actifs qui ne peuvent pas se libérer en "
+    "milieu de journée."),
+ ],
+ "form_title": "Une pratique<br><em>généraliste</em>",
+ "dips": [
+   ("CAPA", "Certificat d'aptitude à la profession d'avocat",
+    "Inscription au Barreau de l'Eure.", "Barreau de l'Eure"),
+   ("Droit", "Formation en droit privé",
+    "Un cursus généraliste couvrant le droit civil, familial et pénal.", "Droit privé"),
+   ("9-19", "Une large amplitude horaire",
+    "Cabinet ouvert du lundi au vendredi de 9 à 19 heures.", "Évreux"),
+ ],
+ "infos_title": "Ouvert<br>de 9h à <em>19h</em>",
+ "infos": [
+   ("Le cabinet vous reçoit du lundi au vendredi, de 9&nbsp;heures à 19&nbsp;heures — y compris en fin de journée.",
+    "Horaires", "Lun — ven, 9h à 19h"),
+   ("Une relation de confiance et de transparence est recherchée dès le premier rendez-vous.",
+    "Méthode", "Confiance &amp; transparence"),
+   ("Le cabinet est situé au 6 bis rue Victor Hugo, en centre-ville d'Évreux.",
+    "Accès", "Centre d'Évreux"),
+ ],
+ "contact_blocks": [
+   ("Cabinet", "<p>6 bis rue Victor Hugo<br>27000 Évreux</p>", "Centre-ville — sur rendez-vous"),
+   ("Horaires", "<p>Lundi — vendredi<br>9h à 19h</p>", "Sur rendez-vous"),
+   ("Écrire", "<p>Via le formulaire ci-contre</p>", "Échanges couverts par le secret professionnel"),
+ ],
+ "opts": ["Divorce &amp; séparation", "Enfants &amp; autorité parentale", "Bail d'habitation",
+          "Bail commercial", "Crédit &amp; consommation", "Défense pénale", "Autre"],
+ "footer_name": "Amélie Martin", "footer_sub": "Avocate au Barreau de l'Eure",
+ "sources": "annuaire du Barreau de l'Eure, Justifit", "me": "Me Martin",
+},
+
+# ─────────────────────────── 41. MATHILDE LAFON — BÉZIERS ──
+{
+ "slug": "mathilde-lafon", "mono": "L", "watermark": "L",
+ "brand": "Mathilde Lafon", "brand_sub": "Avocate — Barreau de Béziers",
+ "title": "Maître Mathilde Lafon — Avocate au Barreau de Béziers | Travail, étrangers, famille &amp; assurances",
+ "desc": "Maître Mathilde Lafon, Avocate au Barreau de Béziers. Droit du travail, droit des étrangers, droit de la famille, droit des assurances, ventes aux enchères.",
+ "ink": "#1A1509", "ink2": "#24200F", "ink3": "#302B17", "radial": "rgba(170,140,45,.16)",
+ "kicker": "Avocate au Barreau de Béziers",
+ "h1a": "Maître", "h1b": "Mathilde <em>Lafon</em>",
+ "hero_sub": "Avocate au Barreau de Béziers depuis 2013, j'accompagne salariés, "
+             "étrangers et familles — et représente mes clients dans les ventes aux "
+             "enchères immobilières.",
+ "meta": [("Travail", "Salariés &amp; employeurs"),
+          ("Étrangers", "Séjour &amp; nationalité"),
+          ("Famille &amp; assurances", "Divorce &amp; litiges")],
+ "marquee": ["Barreau de Béziers — Serment prêté en 2013",
+             "Treize années d'expérience",
+             "Ventes aux enchères immobilières",
+             "Conseil de prud'hommes",
+             "Cabinet boulevard Maréchal Leclerc, Béziers"],
+ "stats": [{"n": "13", "label": "Années d'exercice"},
+           {"n": "2013", "counter": False, "label": "Prestation de serment"},
+           {"n": "5", "label": "Domaines d'intervention"},
+           {"n": "1", "label": "Interlocutrice unique"}],
+ "img": IMG_COL, "img_alt": ALT_COL,
+ "credit_b": "Le cabinet", "credit_s": "3 boulevard Maréchal Leclerc, Béziers",
+ "about_title": "Du prud'homme<br>à la salle des <em>ventes</em>",
+ "lead": "Une pratique large et concrète, du contentieux prud'homal aux enchères immobilières.",
+ "p1": "Avocate au Barreau de Béziers depuis sa prestation de serment le 5 décembre "
+       "2013, Maître Mathilde Lafon exerce au 3 boulevard Maréchal Leclerc, à Béziers. "
+       "Treize années de pratique lui ont donné une connaissance fine des juridictions "
+       "de l'Hérault.",
+ "p2": "Sa pratique couvre le droit du travail, le droit des étrangers et de la "
+       "nationalité, le droit de la famille et le droit des assurances. Elle est "
+       "également compétente pour représenter ses clients dans les ventes aux enchères "
+       "immobilières — une matière technique où la présence d'un avocat est obligatoire.",
+ "sig": "Mathilde Lafon", "sig_sub": "Avocate au Barreau de Béziers<br>Depuis 2013",
+ "exp_title": "Cinq domaines,<br>une même <em>technicité</em>",
+ "exp_intro": "Salariés, étrangers, familles et enchérisseurs&nbsp;: une pratique "
+              "où la technique juridique fait la différence.",
+ "exps": [
+   ("Droit du travail", "Licenciement, rupture conventionnelle, harcèlement, contentieux prud'homal."),
+   ("Séjour &amp; régularisation", "Titres de séjour, régularisation, recours contre les mesures d'éloignement."),
+   ("Nationalité", "Demandes de naturalisation et contentieux de la nationalité française."),
+   ("Divorce &amp; famille", "Divorce, séparation, autorité parentale, pension alimentaire."),
+   ("Droit des assurances", "Litiges avec les assureurs, refus de garantie, indemnisation."),
+   ("Ventes aux enchères", "Représentation obligatoire de l'avocat lors des ventes aux enchères immobilières."),
+ ],
+ "parc_title": "Treize ans<br>dans l'<em>Hérault</em>",
+ "tl": [
+   ("Depuis 2013", "Avocate — Barreau de Béziers", "3 boulevard Maréchal Leclerc",
+    "Treize années de pratique sociale, familiale et immobilière au service des "
+    "justiciables de l'Hérault."),
+   ("5 décembre 2013", "Prestation de serment", "Barreau de Béziers",
+    "Entrée dans la profession d'avocat après l'obtention du CAPA."),
+   ("Spécificité", "Ventes aux enchères immobilières", "Représentation obligatoire",
+    "Une compétence technique&nbsp;: seul un avocat peut porter les enchères pour "
+    "son client lors des ventes judiciaires."),
+ ],
+ "form_title": "Une praticienne<br>du <em>concret</em>",
+ "dips": [
+   ("2013", "CAPA — Certificat d'aptitude à la profession d'avocat",
+    "Prestation de serment le 5 décembre 2013.", "Barreau de Béziers"),
+   ("Ench.", "Ventes aux enchères immobilières",
+    "Représentation des enchérisseurs devant le juge de l'exécution.", "Enchères judiciaires"),
+   ("13 ans", "D'expérience continue",
+    "Une pratique quotidienne des juridictions biterroises depuis 2013.", "Béziers"),
+ ],
+ "infos_title": "Une compétence<br><em>rare</em>",
+ "infos": [
+   ("Lors d'une vente aux enchères immobilière, seul un avocat peut porter les enchères pour vous&nbsp;: le cabinet vous accompagne à chaque étape.",
+    "Enchères", "Représentation obligatoire"),
+   ("Chaque dossier est suivi personnellement, du premier rendez-vous jusqu'à l'audience.",
+    "Suivi personnel", "Interlocutrice unique"),
+   ("Le cabinet est situé au 3 boulevard Maréchal Leclerc, au cœur de Béziers.",
+    "Accès", "Centre de Béziers"),
+ ],
+ "contact_blocks": [
+   ("Cabinet", "<p>3 boulevard Maréchal Leclerc<br>34500 Béziers</p>", "Centre-ville — sur rendez-vous"),
+   ("Spécificité", "<p>Ventes aux enchères<br>immobilières</p>", "Représentation par avocat"),
+   ("Écrire", "<p>Via le formulaire ci-contre</p>", "Échanges couverts par le secret professionnel"),
+ ],
+ "opts": ["Droit du travail", "Titre de séjour &amp; régularisation", "Nationalité",
+          "Divorce &amp; famille", "Litige d'assurance", "Vente aux enchères", "Autre"],
+ "footer_name": "Mathilde Lafon", "footer_sub": "Avocate au Barreau de Béziers",
+ "sources": "Justifit, annuaire du Barreau de Béziers", "me": "Me Lafon",
+},
+
+# ─────────────────────────── 42. FLAVIEN GUILLOT — ALENÇON ──
+{
+ "slug": "flavien-guillot", "mono": "G", "watermark": "G",
+ "brand": "Flavien Guillot", "brand_sub": "Avocat — Barreau d'Alençon",
+ "title": "Maître Flavien Guillot — Avocat au Barreau d'Alençon | Pénal, dommage corporel, sécurité sociale &amp; famille",
+ "desc": "Maître Flavien Guillot, Avocat au Barreau d'Alençon. Droit pénal, dommage corporel, droit de la sécurité sociale, droit immobilier, droit de la famille.",
+ "ink": "#15171A", "ink2": "#1E2126", "ink3": "#292D33", "radial": "rgba(120,130,150,.14)",
+ "kicker": "Avocat au Barreau d'Alençon",
+ "h1a": "Maître", "h1b": "Flavien <em>Guillot</em>",
+ "hero_sub": "Avocat au Barreau d'Alençon depuis 2019, je défends devant toutes les "
+             "juridictions pénales — de la contravention au crime — et accompagne les "
+             "victimes jusqu'à la réparation de leur préjudice.",
+ "meta": [("Pénal", "Contraventions, délits &amp; crimes"),
+          ("Dommage corporel", "Victimes &amp; indemnisation"),
+          ("Social &amp; famille", "Sécurité sociale &amp; divorce")],
+ "marquee": ["Barreau d'Alençon — Serment prêté en 2019",
+             "Défense devant toutes les juridictions pénales",
+             "Dommage corporel et indemnisation des victimes",
+             "Droit de la sécurité sociale et protection sociale",
+             "Cabinet rue du Château, Alençon"],
+ "stats": [{"n": "7", "label": "Années d'exercice"},
+           {"n": "2019", "counter": False, "label": "Prestation de serment"},
+           {"n": "5", "label": "Domaines d'intervention"},
+           {"n": "3", "label": "Degrés de juridiction pénale"}],
+ "img": IMG_STA, "img_alt": ALT_STA,
+ "credit_b": "Le cabinet", "credit_s": "39 rue du Château, Alençon",
+ "about_title": "De la contravention<br>au <em>crime</em>",
+ "lead": "Une défense pénale à tous les degrés, doublée d'un accompagnement des victimes jusqu'à la réparation.",
+ "p1": "Avocat au Barreau d'Alençon depuis sa prestation de serment le 4 décembre 2019, "
+       "Maître Flavien Guillot exerce au 39 rue du Château, à Alençon, au sein du "
+       "cabinet Guyomard Sablé Guillot.",
+ "p2": "Sa pratique s'organise autour du droit pénal — contraventions, délits et crimes, "
+       "devant l'ensemble des juridictions répressives —, du droit du dommage corporel "
+       "et de l'indemnisation des victimes, du droit de la sécurité sociale et de la "
+       "protection sociale, du droit immobilier et du droit de la famille.",
+ "sig": "Flavien Guillot", "sig_sub": "Avocat au Barreau d'Alençon<br>Depuis 2019",
+ "exp_title": "Défendre<br>et <em>réparer</em>",
+ "exp_intro": "Prévenus, victimes et assurés sociaux&nbsp;: une pratique du "
+              "contentieux au sens plein.",
+ "exps": [
+   ("Contraventions &amp; délits", "Défense devant le tribunal de police et le tribunal correctionnel."),
+   ("Crimes", "Défense devant la cour d'assises et suivi de l'instruction."),
+   ("Dommage corporel", "Indemnisation des victimes d'accidents et d'agressions, expertises médicales."),
+   ("Sécurité sociale", "Contentieux de la sécurité sociale, de la protection sociale et de l'incapacité."),
+   ("Droit immobilier", "Ventes, baux, copropriété et contentieux immobiliers."),
+   ("Famille", "Divorce, séparation, autorité parentale et pension alimentaire."),
+ ],
+ "parc_title": "Sept ans<br>dans l'<em>Orne</em>",
+ "tl": [
+   ("Depuis 2019", "Avocat — Barreau d'Alençon", "39 rue du Château",
+    "Sept années de pratique pénale, sociale et familiale au service des justiciables "
+    "de l'Orne, au sein du cabinet Guyomard Sablé Guillot."),
+   ("4 décembre 2019", "Prestation de serment", "Barreau d'Alençon",
+    "Entrée dans la profession d'avocat après l'obtention du CAPA."),
+   ("Pratique", "Tous les degrés de la répression", "Police, correctionnelle, assises",
+    "Une défense assurée de la simple contravention jusqu'au crime, devant "
+    "l'ensemble des juridictions pénales."),
+ ],
+ "form_title": "Une culture<br>du <em>pénal</em>",
+ "dips": [
+   ("2019", "CAPA — Certificat d'aptitude à la profession d'avocat",
+    "Prestation de serment le 4 décembre 2019.", "Barreau d'Alençon"),
+   ("Droit", "Formation en droit privé et sciences criminelles",
+    "Un cursus orienté vers le droit pénal et la réparation du préjudice.", "Droit pénal"),
+   ("7 ans", "D'expérience continue",
+    "Une pratique quotidienne des juridictions ornaises depuis 2019.", "Alençon"),
+ ],
+ "infos_title": "Une défense<br>à chaque <em>degré</em>",
+ "infos": [
+   ("Le cabinet intervient devant le tribunal de police, le tribunal correctionnel et la cour d'assises.",
+    "Juridictions", "Police · Correctionnelle · Assises"),
+   ("Les victimes sont accompagnées de la constitution de partie civile jusqu'à l'indemnisation effective.",
+    "Victimes", "Jusqu'à l'indemnisation"),
+   ("Le cabinet est situé au 39 rue du Château, à Alençon.",
+    "Accès", "Rue du Château — Alençon"),
+ ],
+ "contact_blocks": [
+   ("Cabinet", "<p>39 rue du Château<br>61000 Alençon</p>", "Sur rendez-vous"),
+   ("Domaines", "<p>Pénal · Dommage corporel<br>Sécurité sociale · Famille</p>", "Conseil &amp; contentieux"),
+   ("Écrire", "<p>Via le formulaire ci-contre</p>", "Échanges couverts par le secret professionnel"),
+ ],
+ "opts": ["Contravention ou délit", "Affaire criminelle", "Victime — dommage corporel",
+          "Sécurité sociale", "Immobilier", "Famille", "Autre"],
+ "footer_name": "Flavien Guillot", "footer_sub": "Avocat au Barreau d'Alençon",
+ "sources": "Justifit, annuaire du barreau", "me": "Me Guillot",
+},
+
+# ─────────────────────────── 43. VALÉRIE KUCAN — NEVERS ──
+{
+ "slug": "valerie-kucan", "mono": "K", "watermark": "K",
+ "brand": "Valérie Kucan", "brand_sub": "Avocate — Barreau de Nevers",
+ "title": "Maître Valérie Kucan — Avocate au Barreau de Nevers | Droit pénal &amp; droit de la famille",
+ "desc": "Maître Valérie Kucan, Avocate au Barreau de Nevers depuis 1987. Droit pénal, droit de la famille, divorces, successions, adoptions.",
+ "ink": "#1C0F14", "ink2": "#27161C", "ink3": "#341F26", "radial": "rgba(150,50,80,.18)",
+ "kicker": "Avocate au Barreau de Nevers",
+ "h1a": "Maître", "h1b": "Valérie <em>Kucan</em>",
+ "hero_sub": "Avocate au Barreau de Nevers depuis 1987, je défends victimes, prévenus "
+             "et accusés, et accompagne les familles nivernaises — avec un premier "
+             "rendez-vous non facturé si une procédure suit.",
+ "meta": [("Pénal", "Victimes, prévenus &amp; accusés"),
+          ("Famille", "Divorce &amp; successions"),
+          ("Enfants", "Autorité parentale &amp; adoption")],
+ "marquee": ["Barreau de Nevers — Serment prêté en 1987",
+             "Trente-neuf années d'expérience",
+             "Premier rendez-vous non facturé si procédure",
+             "Divorces, successions, indivisions, adoptions",
+             "Cabinet rue Pasteur, Nevers"],
+ "stats": [{"n": "39", "label": "Années d'exercice"},
+           {"n": "1987", "counter": False, "label": "Prestation de serment"},
+           {"n": "2", "label": "Domaines d'intervention"},
+           {"n": "1", "label": "Interlocutrice unique"}],
+ "img": IMG_COL, "img_alt": ALT_COL,
+ "credit_b": "Le cabinet", "credit_s": "6 rue Pasteur, Nevers",
+ "about_title": "Trente-neuf ans<br>au barreau de <em>Nevers</em>",
+ "lead": "Près de quatre décennies au service des familles et des justiciables nivernais.",
+ "p1": "Avocate au Barreau de Nevers depuis sa prestation de serment le 8 avril 1987, "
+       "Maître Valérie Kucan exerce au 6 rue Pasteur, à Nevers. Trente-neuf années de "
+       "pratique font d'elle l'une des figures expérimentées du barreau nivernais.",
+ "p2": "Sa pratique s'organise autour de deux pôles&nbsp;: le droit pénal, où elle "
+       "défend ses clients devant l'ensemble des juridictions, qu'ils soient victimes, "
+       "prévenus ou accusés&nbsp;; et le droit de la famille — divorces amiables ou "
+       "contentieux, partages de successions entre héritiers, liquidation des "
+       "indivisions, autorité parentale, résidence des enfants et adoptions. Le premier "
+       "rendez-vous n'est pas facturé lorsqu'une procédure est ensuite engagée.",
+ "sig": "Valérie Kucan", "sig_sub": "Avocate au Barreau de Nevers<br>Depuis 1987",
+ "exp_title": "Deux pôles,<br>quatre <em>décennies</em>",
+ "exp_intro": "Défense pénale et contentieux familial&nbsp;: une pratique éprouvée "
+              "par l'expérience.",
+ "exps": [
+   ("Défense pénale", "Défense devant le tribunal correctionnel, le tribunal de police et la cour d'assises."),
+   ("Victimes d'infractions", "Constitution de partie civile et réparation du préjudice."),
+   ("Divorce amiable ou contentieux", "Divorce par consentement mutuel ou contentieux, liquidation du régime matrimonial."),
+   ("Successions &amp; indivisions", "Partages successoraux entre héritiers, liquidation des indivisions."),
+   ("Autorité parentale", "Résidence des enfants après séparation ou divorce, droits de visite, pension alimentaire."),
+   ("Adoption", "Procédures d'adoption simple et plénière."),
+ ],
+ "parc_title": "Depuis 1987,<br>dans la <em>Nièvre</em>",
+ "tl": [
+   ("Depuis 1987", "Avocate — Barreau de Nevers", "6 rue Pasteur",
+    "Trente-neuf années de pratique du droit pénal et du droit de la famille au "
+    "service des justiciables de la Nièvre."),
+   ("8 avril 1987", "Prestation de serment", "Barreau de Nevers",
+    "Entrée dans la profession d'avocat après l'obtention du CAPA."),
+   ("Engagement", "Un premier rendez-vous non facturé", "Si une procédure suit",
+    "Le premier rendez-vous n'est pas facturé lorsqu'une procédure est ensuite "
+    "engagée avec le cabinet."),
+ ],
+ "form_title": "L'expérience<br>de quatre <em>décennies</em>",
+ "dips": [
+   ("1987", "CAPA — Certificat d'aptitude à la profession d'avocat",
+    "Prestation de serment le 8 avril 1987.", "Barreau de Nevers"),
+   ("39", "Trente-neuf années d'exercice",
+    "Une pratique continue du pénal et de la famille depuis 1987.", "Nevers"),
+   ("Droit", "Formation en droit privé",
+    "Un cursus orienté vers le droit des personnes et le contentieux pénal.", "Droit privé"),
+ ],
+ "infos_title": "Un premier rendez-vous<br>non <em>facturé</em>",
+ "infos": [
+   ("Le premier rendez-vous n'est pas facturé lorsqu'une procédure est ensuite engagée avec le cabinet.",
+    "Premier rendez-vous", "Non facturé si procédure"),
+   ("Chaque dossier est suivi personnellement, du premier rendez-vous jusqu'à l'audience.",
+    "Suivi personnel", "Interlocutrice unique"),
+   ("Le cabinet est situé au 6 rue Pasteur, à Nevers.",
+    "Accès", "Rue Pasteur — Nevers"),
+ ],
+ "contact_blocks": [
+   ("Cabinet", "<p>6 rue Pasteur<br>58000 Nevers</p>", "Sur rendez-vous"),
+   ("Premier rendez-vous", "<p>Non facturé<br>si une procédure suit</p>", "Pour évaluer votre dossier"),
+   ("Écrire", "<p>Via le formulaire ci-contre</p>", "Échanges couverts par le secret professionnel"),
+ ],
+ "opts": ["Défense pénale", "Victime d'infraction", "Divorce",
+          "Succession &amp; indivision", "Autorité parentale", "Adoption", "Autre"],
+ "footer_name": "Valérie Kucan", "footer_sub": "Avocate au Barreau de Nevers",
+ "sources": "Justifit, annuaire du Barreau de Nevers", "me": "Me Kucan",
+},
+
+# ─────────────────────────── 44. EMMA BARRET — PÉRIGUEUX ──
+{
+ "slug": "emma-barret", "mono": "B", "watermark": "B",
+ "brand": "Emma Barret", "brand_sub": "Avocate — Barreau de Périgueux",
+ "title": "Maître Emma Barret — Avocate au Barreau de Périgueux | Droit du travail, consommation &amp; famille",
+ "desc": "Maître Emma Barret, Avocate au Barreau de Périgueux, docteure en droit. Droit du travail, droit de la consommation et bancaire, droit de la famille.",
+ "ink": "#0D1810", "ink2": "#131F16", "ink3": "#1B2A1F", "radial": "rgba(55,125,70,.2)",
+ "kicker": "Avocate au Barreau de Périgueux",
+ "h1a": "Maître", "h1b": "Emma <em>Barret</em>",
+ "hero_sub": "Docteure en droit du travail et en droit civil, ancienne enseignante à "
+             "l'université pendant six ans, je mets cette double culture au service des "
+             "salariés, des consommateurs et des familles du Périgord.",
+ "meta": [("Droit du travail", "Licenciement &amp; harcèlement"),
+          ("Consommation", "Crédit &amp; bancaire"),
+          ("Famille", "Divorce &amp; enfants")],
+ "marquee": ["Barreau de Périgueux — Serment prêté en 2008",
+             "Docteure en droit du travail et droit civil",
+             "Six années d'enseignement universitaire",
+             "Droit pénal du travail et affaires sociales",
+             "Cabinet à Périgueux"],
+ "stats": [{"n": "18", "label": "Années d'exercice"},
+           {"n": "Dr", "counter": False, "label": "Docteure en droit"},
+           {"n": "6", "label": "Années d'enseignement"},
+           {"n": "3", "label": "Domaines d'intervention"}],
+ "img": IMG_LIB, "img_alt": ALT_LIB,
+ "credit_b": "Le cabinet", "credit_s": "Périgueux — Dordogne",
+ "about_title": "Docteure en droit,<br>avocate de <em>terrain</em>",
+ "lead": "La rigueur de la recherche universitaire mise au service des salariés et des familles du Périgord.",
+ "p1": "Avocate au Barreau de Périgueux depuis sa prestation de serment le 5 décembre "
+       "2008, Maître Emma Barret est docteure en droit du travail et en droit civil. "
+       "Elle a enseigné ces deux matières à l'université pendant six années.",
+ "p2": "Sa pratique est principalement tournée vers le droit du travail — sa "
+       "spécialité — qu'il s'agisse de licenciements, de ruptures conventionnelles, de "
+       "harcèlement, de retraite, de fautes de l'employeur, de sécurité sociale, de "
+       "droit pénal du travail ou d'affaires sociales et de contrats de travail. Elle "
+       "intervient également en droit de la consommation et droit bancaire, ainsi qu'en "
+       "droit de la famille.",
+ "sig": "Emma Barret", "sig_sub": "Avocate au Barreau de Périgueux<br>Docteure en droit",
+ "exp_title": "Le droit du travail,<br>en <em>profondeur</em>",
+ "exp_intro": "Une spécialité approfondie par la recherche et l'enseignement, "
+              "complétée par le droit de la consommation et de la famille.",
+ "exps": [
+   ("Licenciement &amp; ruptures", "Licenciement, rupture conventionnelle, contestation devant le conseil de prud'hommes."),
+   ("Harcèlement &amp; faute de l'employeur", "Harcèlement moral ou sexuel, manquement à l'obligation de sécurité."),
+   ("Contrats de travail &amp; retraite", "Analyse et rédaction des contrats, requalification, contentieux de la retraite."),
+   ("Droit pénal du travail", "Infractions au droit du travail, responsabilité pénale de l'employeur."),
+   ("Consommation &amp; bancaire", "Crédits, clauses abusives, litiges bancaires et de consommation."),
+   ("Droit de la famille", "Divorce, séparation, autorité parentale et pension alimentaire."),
+ ],
+ "parc_title": "De l'amphithéâtre<br>au <em>prétoire</em>",
+ "tl": [
+   ("Depuis 2008", "Avocate — Barreau de Périgueux", "Périgueux",
+    "Dix-huit années de pratique du droit du travail et de la consommation au "
+    "service des salariés et des familles de Dordogne."),
+   ("Enseignement", "Six années à l'université", "Droit du travail &amp; droit civil",
+    "Un enseignement universitaire qui a nourri une maîtrise théorique rare, mise "
+    "au service de la pratique."),
+   ("Doctorat", "Docteure en droit", "Droit du travail &amp; droit civil",
+    "Le plus haut grade universitaire, dans les deux matières au cœur de la "
+    "pratique du cabinet."),
+ ],
+ "form_title": "Un parcours<br><em>universitaire</em>",
+ "dips": [
+   ("Dr", "Doctorat en droit du travail et droit civil",
+    "Le plus haut grade universitaire dans les deux matières de la pratique.", "Docteure en droit"),
+   ("6 ans", "Enseignement universitaire",
+    "Six années d'enseignement du droit du travail et du droit civil.", "Université"),
+   ("2008", "CAPA — Certificat d'aptitude à la profession d'avocat",
+    "Prestation de serment le 5 décembre 2008.", "Barreau de Périgueux"),
+ ],
+ "infos_title": "L'expertise<br>d'une <em>spécialiste</em>",
+ "infos": [
+   ("Le droit du travail est la spécialité du cabinet&nbsp;: une matière technique, approfondie par la recherche et l'enseignement.",
+    "Spécialité", "Droit du travail"),
+   ("Les dossiers sont traités avec expertise, rigueur et confidentialité.",
+    "Méthode", "Expertise · Rigueur · Confidentialité"),
+   ("Le cabinet est situé à Périgueux, au cœur de la Dordogne.",
+    "Accès", "Périgueux"),
+ ],
+ "contact_blocks": [
+   ("Cabinet", "<p>Périgueux<br>Dordogne</p>", "Sur rendez-vous"),
+   ("Spécialité", "<p>Droit du travail</p>", "Docteure en droit"),
+   ("Écrire", "<p>Via le formulaire ci-contre</p>", "Échanges couverts par le secret professionnel"),
+ ],
+ "opts": ["Licenciement", "Harcèlement au travail", "Contrat de travail ou retraite",
+          "Droit pénal du travail", "Consommation &amp; bancaire", "Famille", "Autre"],
+ "footer_name": "Emma Barret", "footer_sub": "Avocate au Barreau de Périgueux",
+ "sources": "annuaire du Barreau de Périgueux, Justifit", "me": "Me Barret",
+},
+
+# ─────────────────────────── 45. CLÉMENCE VIGNÈRES — TARBES ──
+{
+ "slug": "clemence-vigneres", "mono": "V", "watermark": "V",
+ "brand": "Clémence Vignères", "brand_sub": "Avocate — Barreau de Tarbes",
+ "title": "Maître Clémence Vignères — Avocate au Barreau de Tarbes | Civil, famille, divorce &amp; contrats",
+ "desc": "Maître Clémence Vignères, Avocate au Barreau de Tarbes. Droit civil, droit de la famille, divorce, droit des contrats, baux, recouvrement.",
+ "ink": "#0A1622", "ink2": "#10202E", "ink3": "#172C3E", "radial": "rgba(40,100,160,.2)",
+ "kicker": "Avocate au Barreau de Tarbes",
+ "h1a": "Maître", "h1b": "Clémence <em>Vignères</em>",
+ "hero_sub": "Avocate au Barreau de Tarbes depuis 2016, j'accompagne les familles et "
+             "les particuliers des Hautes-Pyrénées — du divorce au litige de voisinage, "
+             "du bail impayé à la reconnaissance de paternité.",
+ "meta": [("Famille", "Divorce &amp; filiation"),
+          ("Civil", "Contrats &amp; obligations"),
+          ("Baux &amp; recouvrement", "Locatif &amp; créances")],
+ "marquee": ["Barreau de Tarbes — Serment prêté en 2016",
+             "Dix années d'expérience",
+             "Divorce amiable et contentieux",
+             "Baux, voisinage et recouvrement de créances",
+             "Cabinet cours Reffye, Tarbes"],
+ "stats": [{"n": "10", "label": "Années d'exercice"},
+           {"n": "2016", "counter": False, "label": "Prestation de serment"},
+           {"n": "4", "label": "Domaines d'intervention"},
+           {"n": "1", "label": "Interlocutrice unique"}],
+ "img": IMG_COL, "img_alt": ALT_COL,
+ "credit_b": "Le cabinet", "credit_s": "10 cours Reffye, Tarbes",
+ "about_title": "Le droit civil,<br>au plus près du <em>quotidien</em>",
+ "lead": "Une pratique civile et familiale complète, au service des habitants des Hautes-Pyrénées.",
+ "p1": "Avocate au Barreau de Tarbes depuis sa prestation de serment le 7 décembre "
+       "2016, Maître Clémence Vignères exerce au 10 cours Reffye, à Tarbes.",
+ "p2": "Sa pratique couvre le droit civil — droit des personnes et des obligations, "
+       "recouvrement de créances, conflits de voisinage, baux et rapports "
+       "bailleurs-locataires — et le droit de la famille&nbsp;: divorces amiables ou "
+       "contentieux, pensions alimentaires, résidence des enfants, reconnaissance de "
+       "paternité, liquidation des régimes matrimoniaux, responsabilité civile et "
+       "adoption.",
+ "sig": "Clémence Vignères", "sig_sub": "Avocate au Barreau de Tarbes<br>Depuis 2016",
+ "exp_title": "Quatre domaines,<br>une même <em>attention</em>",
+ "exp_intro": "Familles, bailleurs, locataires et créanciers&nbsp;: une pratique "
+              "civile de proximité.",
+ "exps": [
+   ("Divorce amiable ou contentieux", "Divorce par consentement mutuel ou contentieux, liquidation du régime matrimonial."),
+   ("Enfants &amp; pension alimentaire", "Résidence des enfants, droits de visite, pension alimentaire."),
+   ("Filiation &amp; adoption", "Reconnaissance de paternité, actions relatives à la filiation, adoption."),
+   ("Baux &amp; rapports locatifs", "Baux d'habitation, loyers impayés, congés, contentieux locatif."),
+   ("Recouvrement de créances", "Mise en demeure, injonction de payer, procédures d'exécution."),
+   ("Voisinage &amp; responsabilité", "Conflits de voisinage, responsabilité civile, droit des obligations."),
+ ],
+ "parc_title": "Dix ans<br>dans les <em>Hautes-Pyrénées</em>",
+ "tl": [
+   ("Depuis 2016", "Avocate — Barreau de Tarbes", "10 cours Reffye",
+    "Dix années de pratique civile et familiale au service des habitants des "
+    "Hautes-Pyrénées."),
+   ("7 décembre 2016", "Prestation de serment", "Barreau de Tarbes",
+    "Entrée dans la profession d'avocat après l'obtention du CAPA."),
+   ("Pratique", "Civil &amp; famille", "Les litiges du quotidien",
+    "Une pratique tournée vers les difficultés concrètes&nbsp;: séparations, "
+    "impayés, voisinage, filiation."),
+ ],
+ "form_title": "Une praticienne<br>du <em>droit civil</em>",
+ "dips": [
+   ("2016", "CAPA — Certificat d'aptitude à la profession d'avocat",
+    "Prestation de serment le 7 décembre 2016.", "Barreau de Tarbes"),
+   ("Droit", "Formation en droit privé",
+    "Un cursus orienté vers le droit des personnes, des obligations et de la famille.", "Droit privé"),
+   ("10 ans", "D'expérience continue",
+    "Une pratique quotidienne des juridictions tarbaises depuis 2016.", "Tarbes"),
+ ],
+ "infos_title": "Un cabinet<br>au cœur de <em>Tarbes</em>",
+ "infos": [
+   ("Chaque dossier est suivi personnellement, du premier rendez-vous jusqu'à l'audience.",
+    "Suivi personnel", "Interlocutrice unique"),
+   ("Le cabinet intervient aussi bien en négociation amiable qu'au contentieux devant le tribunal judiciaire.",
+    "Approche", "Amiable &amp; contentieux"),
+   ("Le cabinet est situé au 10 cours Reffye, à Tarbes.",
+    "Accès", "Cours Reffye — Tarbes"),
+ ],
+ "contact_blocks": [
+   ("Cabinet", "<p>10 cours Reffye<br>65000 Tarbes</p>", "Sur rendez-vous"),
+   ("Domaines", "<p>Civil · Famille<br>Baux · Recouvrement</p>", "Conseil &amp; contentieux"),
+   ("Écrire", "<p>Via le formulaire ci-contre</p>", "Échanges couverts par le secret professionnel"),
+ ],
+ "opts": ["Divorce", "Enfants &amp; pension alimentaire", "Filiation &amp; adoption",
+          "Bail &amp; litige locatif", "Recouvrement de créances", "Voisinage", "Autre"],
+ "footer_name": "Clémence Vignères", "footer_sub": "Avocate au Barreau de Tarbes",
+ "sources": "annuaire du Barreau de Tarbes, Justifit", "me": "Me Vignères",
+},
+
+# ─────────────────────────── 46. ALICE GIRARDOT — CHALON-SUR-SAÔNE ──
+{
+ "slug": "alice-girardot", "mono": "G", "watermark": "G",
+ "brand": "Alice Girardot", "brand_sub": "Avocate — Barreau de Chalon-sur-Saône",
+ "title": "Maître Alice Girardot — Avocate au Barreau de Chalon-sur-Saône | Famille, successions &amp; assistance éducative",
+ "desc": "Maître Alice Girardot, Avocate au Barreau de Chalon-sur-Saône. Droit de la famille, successions, filiation, contentieux assurance-vie, assistance éducative, pénal de la famille.",
+ "ink": "#190D16", "ink2": "#23141F", "ink3": "#301D2A", "radial": "rgba(140,45,105,.18)",
+ "kicker": "Avocate au Barreau de Chalon-sur-Saône",
+ "h1a": "Maître", "h1b": "Alice <em>Girardot</em>",
+ "hero_sub": "Avocate au Barreau de Chalon-sur-Saône depuis 2013, je consacre ma "
+             "pratique au droit de la famille et à la protection de l'enfance — devant "
+             "le juge aux affaires familiales comme devant le juge des enfants.",
+ "meta": [("Famille", "Divorce &amp; successions"),
+          ("Enfance", "Assistance éducative"),
+          ("Assurance-vie", "Contentieux successoral")],
+ "marquee": ["Barreau de Chalon-sur-Saône — Serment prêté en 2013",
+             "Cabinet secondaire à Beaune",
+             "Ressort de la cour d'appel de Dijon",
+             "Contentieux des assurances-vie",
+             "Assistance éducative devant le juge des enfants"],
+ "stats": [{"n": "13", "label": "Années d'exercice"},
+           {"n": "2013", "counter": False, "label": "Prestation de serment"},
+           {"n": "2", "label": "Cabinets — Chalon &amp; Beaune"},
+           {"n": "3", "label": "Domaines d'intervention"}],
+ "img": IMG_LIB, "img_alt": ALT_LIB,
+ "credit_b": "Le cabinet", "credit_s": "15 place du Châtelet, Chalon-sur-Saône",
+ "about_title": "La famille,<br>et l'enfant qu'il faut <em>protéger</em>",
+ "lead": "Une pratique dédiée au droit de la famille, des successions et de la protection de l'enfance.",
+ "p1": "Avocate au Barreau de Chalon-sur-Saône depuis sa prestation de serment le "
+       "3 décembre 2013, Maître Alice Girardot exerce au 15 place du Châtelet, à "
+       "Chalon-sur-Saône, et dispose d'un cabinet secondaire à Beaune.",
+ "p2": "Sa pratique est essentiellement consacrée au droit de la famille — divorce, "
+       "séparation, successions, filiation, contentieux des assurances-vie, assistance "
+       "éducative devant le juge des enfants — et au droit pénal de la famille. Elle "
+       "intervient également en procédure civile et en droit des assurances, et assure "
+       "la représentation de ses clients dans l'ensemble du ressort de la cour d'appel "
+       "de Dijon.",
+ "sig": "Alice Girardot", "sig_sub": "Avocate au Barreau de Chalon-sur-Saône<br>Depuis 2013",
+ "exp_title": "Séparer, transmettre,<br><em>protéger</em>",
+ "exp_intro": "Une pratique familiale complète, du divorce au contentieux "
+              "successoral, en passant par la protection de l'enfance.",
+ "exps": [
+   ("Divorce &amp; séparation", "Divorce amiable ou contentieux, séparation, liquidation du régime matrimonial."),
+   ("Successions", "Partages successoraux, indivisions, contentieux entre héritiers."),
+   ("Assurance-vie", "Contentieux des contrats d'assurance-vie dans le cadre successoral."),
+   ("Filiation", "Actions relatives à la filiation, reconnaissance et contestation de paternité."),
+   ("Assistance éducative", "Représentation devant le juge des enfants, mesures de protection de l'enfance."),
+   ("Pénal de la famille", "Violences intrafamiliales, non-représentation d'enfant, abandon de famille."),
+ ],
+ "parc_title": "De Chalon<br>à <em>Beaune</em>",
+ "tl": [
+   ("Depuis 2013", "Avocate — Barreau de Chalon-sur-Saône", "15 place du Châtelet",
+    "Treize années de pratique du droit de la famille et de la protection de "
+    "l'enfance en Saône-et-Loire."),
+   ("Second cabinet", "Beaune", "Côte-d'Or",
+    "Un second point d'accueil à Beaune, pour être au plus près des clients de la "
+    "Côte-d'Or."),
+   ("Ressort", "Cour d'appel de Dijon", "Représentation dans tout le ressort",
+    "Le cabinet assure la représentation de ses clients devant l'ensemble des "
+    "juridictions du ressort de la cour d'appel de Dijon."),
+ ],
+ "form_title": "Une spécialisation<br><em>familiale</em>",
+ "dips": [
+   ("2013", "CAPA — Certificat d'aptitude à la profession d'avocat",
+    "Prestation de serment le 3 décembre 2013.", "Barreau de Chalon-sur-Saône"),
+   ("Fam", "Droit de la famille et des successions",
+    "Le cœur de la pratique&nbsp;: divorce, filiation, successions, assurance-vie.", "Famille"),
+   ("JE", "Assistance éducative",
+    "Représentation devant le juge des enfants en protection de l'enfance.", "Protection de l'enfance"),
+ ],
+ "infos_title": "Deux cabinets,<br>un même <em>ressort</em>",
+ "infos": [
+   ("Le cabinet vous accueille à Chalon-sur-Saône et à Beaune, selon votre lieu de résidence.",
+    "Deux cabinets", "Chalon-sur-Saône · Beaune"),
+   ("La représentation est assurée dans l'ensemble du ressort de la cour d'appel de Dijon.",
+    "Ressort", "Cour d'appel de Dijon"),
+   ("Chaque dossier est suivi personnellement, du premier rendez-vous jusqu'à l'audience.",
+    "Suivi personnel", "Interlocutrice unique"),
+ ],
+ "contact_blocks": [
+   ("Cabinet principal", "<p>15 place du Châtelet<br>71100 Chalon-sur-Saône</p>", "Sur rendez-vous"),
+   ("Téléphone", '<a href="tel:+33385486586">03 85 48 65 86</a>', "Second cabinet à Beaune"),
+   ("Écrire", "<p>Via le formulaire ci-contre</p>", "Échanges couverts par le secret professionnel"),
+ ],
+ "opts": ["Divorce &amp; séparation", "Succession", "Contentieux assurance-vie",
+          "Filiation", "Assistance éducative", "Pénal de la famille", "Autre"],
+ "footer_name": "Alice Girardot", "footer_sub": "Avocate au Barreau de Chalon-sur-Saône",
+ "sources": "annuaire du Barreau de Chalon-sur-Saône, Justifit", "me": "Me Girardot",
+},
+
+# ─────────────────────────── 47. EMILIA GRECO — ÉPINAL ──
+{
+ "slug": "emilia-greco", "mono": "G", "watermark": "G",
+ "brand": "Emilia Greco", "brand_sub": "Avocate — Barreau d'Épinal",
+ "title": "Maître Emilia Greco — Avocate au Barreau d'Épinal | Pénal, famille &amp; droit de l'énergie",
+ "desc": "Maître Emilia Greco, Avocate au Barreau d'Épinal depuis 2003. Droit pénal, droit de la famille, droit de l'énergie et de la transition énergétique.",
+ "ink": "#0C1712", "ink2": "#121F19", "ink3": "#1A2B23", "radial": "rgba(45,120,80,.2)",
+ "kicker": "Avocate au Barreau d'Épinal",
+ "h1a": "Maître", "h1b": "Emilia <em>Greco</em>",
+ "hero_sub": "Avocate au Barreau d'Épinal depuis 2003, je défends devant toutes les "
+             "juridictions pénales et accompagne les familles vosgiennes — avec une "
+             "compétence rare en droit de la transition énergétique.",
+ "meta": [("Pénal", "Police, correctionnelle &amp; assises"),
+          ("Famille", "Divorce &amp; successions"),
+          ("Énergie", "Transition &amp; réseaux")],
+ "marquee": ["Barreau d'Épinal — Serment prêté en 2003",
+             "Vingt-trois années d'expérience",
+             "Deux cabinets : Épinal et Saint-Dié-des-Vosges",
+             "Droit de l'énergie et de la transition énergétique",
+             "Défense devant la cour d'assises"],
+ "stats": [{"n": "23", "label": "Années d'exercice"},
+           {"n": "2003", "counter": False, "label": "Prestation de serment"},
+           {"n": "2", "label": "Cabinets dans les Vosges"},
+           {"n": "3", "label": "Domaines d'intervention"}],
+ "img": IMG_STA, "img_alt": ALT_STA,
+ "credit_b": "Le cabinet", "credit_s": "3 place Foch, Épinal",
+ "about_title": "Du prétoire pénal<br>à la <em>transition énergétique</em>",
+ "lead": "Vingt-trois ans de défense pénale et familiale, doublés d'une compétence rare en droit de l'énergie.",
+ "p1": "Avocate au Barreau d'Épinal depuis sa prestation de serment le 11 février 2003, "
+       "Maître Emilia Greco exerce au 3 place Foch, à Épinal, et accueille également "
+       "ses clients dans son cabinet de Saint-Dié-des-Vosges.",
+ "p2": "Elle assiste ses clients en droit pénal et les représente devant l'ensemble des "
+       "juridictions répressives — tribunal de police, tribunal correctionnel, cour "
+       "d'assises — qu'ils soient victimes, prévenus ou accusés. Elle intervient "
+       "également en droit de la famille, ainsi qu'en droit de l'énergie&nbsp;: réseaux "
+       "énergétiques, énergies renouvelables, efficacité et rénovation énergétiques — "
+       "une compétence rare en province.",
+ "sig": "Emilia Greco", "sig_sub": "Avocate au Barreau d'Épinal<br>Depuis 2003",
+ "exp_title": "Trois domaines,<br>dont un <em>rare</em>",
+ "exp_intro": "Défense pénale, contentieux familial et droit de la transition "
+              "énergétique&nbsp;: une combinaison singulière.",
+ "exps": [
+   ("Défense pénale", "Défense devant le tribunal de police, le tribunal correctionnel et la cour d'assises."),
+   ("Victimes d'infractions", "Constitution de partie civile et réparation du préjudice."),
+   ("Divorce &amp; séparation", "Divorce amiable ou contentieux, séparation, liquidation du régime matrimonial."),
+   ("Successions &amp; indivisions", "Partages successoraux entre héritiers, liquidation des indivisions, PACS."),
+   ("Énergies renouvelables", "Projets d'énergies renouvelables, raccordement, réseaux énergétiques."),
+   ("Rénovation &amp; efficacité énergétique", "Contentieux de la rénovation énergétique et de l'efficacité énergétique."),
+ ],
+ "parc_title": "Vingt-trois ans<br>dans les <em>Vosges</em>",
+ "tl": [
+   ("Depuis 2003", "Avocate — Barreau d'Épinal", "3 place Foch",
+    "Vingt-trois années de pratique pénale et familiale au service des justiciables "
+    "vosgiens."),
+   ("Second cabinet", "Saint-Dié-des-Vosges", "Vosges",
+    "Un second point d'accueil pour être au plus près des clients de l'est du "
+    "département."),
+   ("11 février 2003", "Prestation de serment", "Barreau d'Épinal",
+    "Entrée dans la profession d'avocat après l'obtention du CAPA."),
+ ],
+ "form_title": "Une compétence<br><em>singulière</em>",
+ "dips": [
+   ("2003", "CAPA — Certificat d'aptitude à la profession d'avocat",
+    "Prestation de serment le 11 février 2003.", "Barreau d'Épinal"),
+   ("Én.", "Droit de l'énergie",
+    "Transition énergétique, réseaux, énergies renouvelables et rénovation.", "Énergie"),
+   ("23", "Vingt-trois années d'exercice",
+    "Une pratique continue du pénal et de la famille depuis 2003.", "Épinal"),
+ ],
+ "infos_title": "Deux cabinets<br>dans les <em>Vosges</em>",
+ "infos": [
+   ("Le cabinet vous accueille à Épinal et à Saint-Dié-des-Vosges, selon votre lieu de résidence.",
+    "Deux cabinets", "Épinal · Saint-Dié"),
+   ("La défense pénale est assurée à tous les degrés&nbsp;: police, correctionnelle et assises.",
+    "Défense pénale", "Jusqu'aux assises"),
+   ("Le droit de l'énergie est une compétence rare, utile aux porteurs de projets comme aux particuliers.",
+    "Énergie", "Compétence rare"),
+ ],
+ "contact_blocks": [
+   ("Cabinet principal", "<p>3 place Foch<br>88000 Épinal</p>", "Sur rendez-vous"),
+   ("Second cabinet", "<p>Saint-Dié-des-Vosges</p>", "Sur rendez-vous"),
+   ("Écrire", "<p>Via le formulaire ci-contre</p>", "Échanges couverts par le secret professionnel"),
+ ],
+ "opts": ["Défense pénale", "Victime d'infraction", "Divorce &amp; séparation",
+          "Succession", "Énergies renouvelables", "Rénovation énergétique", "Autre"],
+ "footer_name": "Emilia Greco", "footer_sub": "Avocate au Barreau d'Épinal",
+ "sources": "Justifit, annuaire du Barreau d'Épinal", "me": "Me Greco",
+},
+
+# ─────────────────────────── 48. VINCENT FONTENILLE — BOURGES ──
+{
+ "slug": "vincent-fontenille", "mono": "F", "watermark": "F",
+ "brand": "Vincent Fontenille", "brand_sub": "Avocat — Barreau de Bourges",
+ "title": "Maître Vincent Fontenille — Avocat au Barreau de Bourges | Famille, commercial, civil &amp; consommation",
+ "desc": "Maître Vincent Fontenille, Avocat au Barreau de Bourges. Droit de la famille, droit commercial, droit civil, droit du crédit et de la consommation.",
+ "ink": "#0E1320", "ink2": "#141B2C", "ink3": "#1C253C", "radial": "rgba(60,80,150,.2)",
+ "kicker": "Avocat au Barreau de Bourges",
+ "h1a": "Maître", "h1b": "Vincent <em>Fontenille</em>",
+ "hero_sub": "Avocat au Barreau de Bourges depuis 2013, j'interviens devant les "
+             "juridictions de première instance comme en appel — pour les familles, "
+             "les entreprises et les consommateurs du Berry.",
+ "meta": [("Famille", "Divorce &amp; enfants"),
+          ("Commercial", "Entreprises &amp; litiges"),
+          ("Consommation", "Crédit &amp; contrats")],
+ "marquee": ["Barreau de Bourges — Serment prêté en 2013",
+             "Treize années d'expérience",
+             "Première instance et appel",
+             "Aide juridictionnelle acceptée",
+             "Cabinet avenue Jean Jaurès, Bourges"],
+ "stats": [{"n": "13", "label": "Années d'exercice"},
+           {"n": "2013", "counter": False, "label": "Prestation de serment"},
+           {"n": "4", "label": "Domaines d'intervention"},
+           {"n": "2", "label": "Degrés de juridiction"}],
+ "img": IMG_COL, "img_alt": ALT_COL,
+ "credit_b": "Le cabinet", "credit_s": "7 avenue Jean Jaurès, Bourges",
+ "about_title": "De la première instance<br>à l'<em>appel</em>",
+ "lead": "Une pratique complète, du tribunal judiciaire à la cour d'appel, pour les particuliers comme pour les entreprises.",
+ "p1": "Avocat au Barreau de Bourges depuis sa prestation de serment le 6 décembre "
+       "2013, Maître Vincent Fontenille exerce au 7 avenue Jean Jaurès, à Bourges. "
+       "Le cabinet est ouvert en semaine de 9&nbsp;heures à 12&nbsp;heures et de "
+       "14&nbsp;heures à 18&nbsp;heures.",
+ "p2": "Sa pratique couvre le droit de la famille, le droit commercial, le droit civil "
+       "et le droit du crédit et de la consommation — devant les juridictions de "
+       "première instance comme devant la cour d'appel. Attaché à l'accès au droit, le "
+       "cabinet accepte l'aide juridictionnelle.",
+ "sig": "Vincent Fontenille", "sig_sub": "Avocat au Barreau de Bourges<br>Depuis 2013",
+ "exp_title": "Quatre domaines,<br>deux <em>degrés</em>",
+ "exp_intro": "Familles, entreprises et consommateurs du Cher&nbsp;: une pratique "
+              "généraliste, en première instance comme en appel.",
+ "exps": [
+   ("Divorce &amp; famille", "Divorce, séparation, autorité parentale, pension alimentaire."),
+   ("Droit commercial", "Litiges commerciaux, relations entre professionnels, recouvrement."),
+   ("Droit civil", "Contrats, responsabilité civile, litiges du quotidien."),
+   ("Crédit &amp; consommation", "Contrats de crédit, clauses abusives, litiges de consommation."),
+   ("Procédure d'appel", "Représentation devant la cour d'appel de Bourges."),
+   ("Aide juridictionnelle", "Le cabinet accepte l'aide juridictionnelle, totale ou partielle."),
+ ],
+ "parc_title": "Treize ans<br>dans le <em>Berry</em>",
+ "tl": [
+   ("Depuis 2013", "Avocat — Barreau de Bourges", "7 avenue Jean Jaurès",
+    "Treize années de pratique généraliste au service des particuliers et des "
+    "entreprises du Cher."),
+   ("6 décembre 2013", "Prestation de serment", "Barreau de Bourges",
+    "Entrée dans la profession d'avocat après l'obtention du CAPA."),
+   ("Pratique", "Première instance et appel", "Tribunal judiciaire &amp; cour d'appel",
+    "Une intervention à tous les degrés de juridiction, jusqu'à la cour d'appel "
+    "de Bourges."),
+ ],
+ "form_title": "Un praticien<br><em>généraliste</em>",
+ "dips": [
+   ("2013", "CAPA — Certificat d'aptitude à la profession d'avocat",
+    "Prestation de serment le 6 décembre 2013.", "Barreau de Bourges"),
+   ("Droit", "Formation en droit privé et commercial",
+    "Un cursus couvrant le droit civil, familial, commercial et de la consommation.", "Droit privé"),
+   ("13 ans", "D'expérience continue",
+    "Une pratique quotidienne des juridictions berruyères depuis 2013.", "Bourges"),
+ ],
+ "infos_title": "Ouvert<br>en <em>semaine</em>",
+ "infos": [
+   ("Le cabinet vous reçoit en semaine, de 9&nbsp;heures à 12&nbsp;heures et de 14&nbsp;heures à 18&nbsp;heures.",
+    "Horaires", "9h-12h / 14h-18h"),
+   ("Le cabinet accepte l'aide juridictionnelle, totale ou partielle, selon vos ressources.",
+    "Aide juridictionnelle", "Acceptée"),
+   ("Le cabinet est joignable directement au 09 86 36 72 93, avenue Jean Jaurès.",
+    "Réactivité", "Contact direct"),
+ ],
+ "contact_blocks": [
+   ("Cabinet", "<p>7 avenue Jean Jaurès<br>18000 Bourges</p>", "Sur rendez-vous"),
+   ("Téléphone", '<a href="tel:+33986367293">09 86 36 72 93</a>', "9h-12h / 14h-18h en semaine"),
+   ("Écrire", '<a href="mailto:vincent.fontenille.avocat@outlook.fr">vincent.fontenille.avocat@outlook.fr</a>', "Échanges couverts par le secret professionnel"),
+ ],
+ "opts": ["Divorce &amp; famille", "Litige commercial", "Litige civil",
+          "Crédit &amp; consommation", "Procédure d'appel", "Autre"],
+ "footer_name": "Vincent Fontenille", "footer_sub": "Avocat au Barreau de Bourges",
+ "sources": "annuaire du Barreau de Bourges, Justifit", "me": "Me Fontenille",
+},
+
+# ─────────────────────────── 49. FRANÇOISE MERCIER-RAYET — MOULINS ──
+{
+ "slug": "francoise-mercier-rayet", "mono": "M", "watermark": "M",
+ "brand": "Françoise Mercier-Rayet", "brand_sub": "Avocate — Barreau de Moulins",
+ "title": "Maître Françoise Mercier-Rayet — Avocate au Barreau de Moulins | Droit social &amp; droit des personnes",
+ "desc": "Maître Françoise Mercier-Rayet, Avocate au Barreau de Moulins depuis 1981. Droit social, droit des personnes et de la famille.",
+ "ink": "#171310", "ink2": "#201B17", "ink3": "#2C2620", "radial": "rgba(140,110,70,.16)",
+ "kicker": "Avocate au Barreau de Moulins",
+ "h1a": "Maître", "h1b": "Françoise <em>Mercier-Rayet</em>",
+ "hero_sub": "Avocate au Barreau de Moulins depuis 1981, je consacre quarante-cinq "
+             "années d'expérience au droit social et au droit des personnes — dans "
+             "l'Allier et le Bourbonnais.",
+ "meta": [("Droit social", "Salariés &amp; employeurs"),
+          ("Personnes", "Famille &amp; protection"),
+          ("Proximité", "Moulins &amp; Dompierre")],
+ "marquee": ["Barreau de Moulins — Serment prêté en 1981",
+             "Quarante-cinq années d'expérience",
+             "Spécialisations : droit social et droit des personnes",
+             "Cabinet secondaire à Dompierre-sur-Besbre",
+             "Cabinet cours Anatole France, Moulins"],
+ "stats": [{"n": "45", "label": "Années d'exercice"},
+           {"n": "1981", "counter": False, "label": "Prestation de serment"},
+           {"n": "2", "label": "Domaines de spécialisation"},
+           {"n": "2", "label": "Cabinets dans l'Allier"}],
+ "img": IMG_LIB, "img_alt": ALT_LIB,
+ "credit_b": "Le cabinet", "credit_s": "9 cours Anatole France, Moulins",
+ "about_title": "Quarante-cinq ans<br>au barreau de <em>Moulins</em>",
+ "lead": "Une expérience exceptionnelle du droit social et du droit des personnes, au service du Bourbonnais.",
+ "p1": "Avocate au Barreau de Moulins depuis sa prestation de serment le 13 octobre "
+       "1981, Maître Françoise Mercier-Rayet exerce au 9 cours Anatole France, à "
+       "Moulins. Quarante-cinq années de pratique font d'elle l'une des figures les "
+       "plus expérimentées du barreau de l'Allier.",
+ "p2": "Ses domaines de spécialisation sont le droit social et le droit des personnes. "
+       "Avec Maître William Hillairaud, elle reçoit également le vendredi après-midi au "
+       "cabinet secondaire de Dompierre-sur-Besbre, au 150 place de la Bascule — une "
+       "présence de proximité dans l'est du département.",
+ "sig": "Françoise Mercier-Rayet", "sig_sub": "Avocate au Barreau de Moulins<br>Depuis 1981",
+ "exp_title": "Le travail<br>et la <em>personne</em>",
+ "exp_intro": "Deux spécialisations complémentaires, éprouvées par quarante-cinq "
+              "années de pratique.",
+ "exps": [
+   ("Droit du travail", "Licenciement, rupture du contrat, contentieux devant le conseil de prud'hommes."),
+   ("Sécurité sociale", "Contentieux de la sécurité sociale, accidents du travail, maladies professionnelles."),
+   ("Protection sociale", "Prestations sociales, invalidité, contentieux de l'incapacité."),
+   ("Droit de la famille", "Divorce, séparation, autorité parentale et pension alimentaire."),
+   ("Protection des personnes", "Tutelle, curatelle, protection des majeurs vulnérables."),
+   ("Successions", "Partages successoraux, indivisions et transmission du patrimoine."),
+ ],
+ "parc_title": "Depuis 1981,<br>dans l'<em>Allier</em>",
+ "tl": [
+   ("Depuis 1981", "Avocate — Barreau de Moulins", "9 cours Anatole France",
+    "Quarante-cinq années de pratique du droit social et du droit des personnes au "
+    "service des habitants de l'Allier."),
+   ("Second cabinet", "Dompierre-sur-Besbre", "150 place de la Bascule",
+    "Une permanence le vendredi après-midi, avec Maître William Hillairaud, dans "
+    "l'est du département."),
+   ("13 octobre 1981", "Prestation de serment", "Barreau de Moulins",
+    "Entrée dans la profession d'avocat après l'obtention du CAPA."),
+ ],
+ "form_title": "Deux <em>spécialisations</em>",
+ "dips": [
+   ("Soc.", "Droit social",
+    "Une spécialisation en droit du travail, sécurité sociale et protection sociale.", "Droit social"),
+   ("Pers.", "Droit des personnes",
+    "Une spécialisation en droit de la famille et protection des personnes.", "Droit des personnes"),
+   ("1981", "CAPA — Certificat d'aptitude à la profession d'avocat",
+    "Prestation de serment le 13 octobre 1981.", "Barreau de Moulins"),
+ ],
+ "infos_title": "Une présence<br>dans tout le <em>département</em>",
+ "infos": [
+   ("Le cabinet principal vous reçoit à Moulins, au 9 cours Anatole France.",
+    "Cabinet principal", "Moulins"),
+   ("Une permanence est assurée le vendredi après-midi à Dompierre-sur-Besbre, au 150 place de la Bascule.",
+    "Permanence", "Dompierre — vendredi après-midi"),
+   ("Quarante-cinq années d'expérience au service des justiciables de l'Allier.",
+    "Expérience", "Depuis 1981"),
+ ],
+ "contact_blocks": [
+   ("Cabinet principal", "<p>9 cours Anatole France<br>03000 Moulins</p>", "Sur rendez-vous"),
+   ("Permanence", "<p>150 place de la Bascule<br>Dompierre-sur-Besbre</p>", "Vendredi après-midi"),
+   ("Écrire", "<p>Via le formulaire ci-contre</p>", "Échanges couverts par le secret professionnel"),
+ ],
+ "opts": ["Droit du travail", "Sécurité sociale", "Protection sociale",
+          "Divorce &amp; famille", "Tutelle ou curatelle", "Succession", "Autre"],
+ "footer_name": "Françoise Mercier-Rayet", "footer_sub": "Avocate au Barreau de Moulins",
+ "sources": "Justifit, annuaire du barreau", "me": "Me Mercier-Rayet",
+},
+
+# ─────────────────────────── 50. LAURENT PARDAILLÉ — MILLAU ──
+{
+ "slug": "laurent-pardaille", "mono": "P", "watermark": "P",
+ "brand": "Laurent Pardaillé", "brand_sub": "Avocat — Barreau de l'Aveyron",
+ "title": "Maître Laurent Pardaillé — Avocat au Barreau de l'Aveyron | Civil, famille, pénal &amp; immobilier",
+ "desc": "Maître Laurent Pardaillé, Avocat au Barreau de l'Aveyron (Millau) depuis 1996. Droit civil, droit de la famille, droit pénal, droit immobilier.",
+ "ink": "#16171A", "ink2": "#1F2024", "ink3": "#2A2C31", "radial": "rgba(110,115,125,.16)",
+ "kicker": "Avocat au Barreau de l'Aveyron",
+ "h1a": "Maître", "h1b": "Laurent <em>Pardaillé</em>",
+ "hero_sub": "Avocat au Barreau de l'Aveyron depuis 1996, je mets trente années "
+             "d'expérience au service des habitants du sud Aveyron — du litige civil "
+             "au contentieux immobilier, de la séparation à la défense pénale.",
+ "meta": [("Civil", "Contrats &amp; responsabilité"),
+          ("Famille", "Divorce &amp; enfants"),
+          ("Immobilier &amp; pénal", "Baux &amp; défense")],
+ "marquee": ["Barreau de l'Aveyron — Avocat depuis 1996",
+             "Trente années d'expérience",
+             "Copropriété, construction et baux commerciaux",
+             "Défense devant les juridictions pénales",
+             "Cabinet impasse Boris Vian, Millau"],
+ "stats": [{"n": "30", "label": "Années d'exercice"},
+           {"n": "1996", "counter": False, "label": "Entrée dans la profession"},
+           {"n": "4", "label": "Domaines d'intervention"},
+           {"n": "1", "label": "Interlocuteur unique"}],
+ "img": IMG_STA, "img_alt": ALT_STA,
+ "credit_b": "Le cabinet", "credit_s": "90 impasse Boris Vian, Millau",
+ "about_title": "Trente ans<br>dans le sud <em>Aveyron</em>",
+ "lead": "Une pratique généraliste éprouvée, au service des habitants du Larzac et des Grands Causses.",
+ "p1": "Avocat depuis 1996, inscrit au Barreau de l'Aveyron, Maître Laurent Pardaillé "
+       "exerce au 90 impasse Boris Vian, à Millau. Trente années de pratique lui "
+       "confèrent une connaissance approfondie des juridictions aveyronnaises.",
+ "p2": "Sa pratique couvre le droit civil — droit des personnes, obligations "
+       "contractuelles, responsabilité civile —, le droit de la famille — divorces "
+       "amiables et contentieux, séparations, PACS, autorité parentale, pensions "
+       "alimentaires, droits de l'enfant —, le droit pénal et le droit immobilier "
+       "— copropriété, construction, baux d'habitation et commerciaux.",
+ "sig": "Laurent Pardaillé", "sig_sub": "Avocat au Barreau de l'Aveyron<br>Depuis 1996",
+ "exp_title": "Quatre domaines,<br>trente ans de <em>terrain</em>",
+ "exp_intro": "Une pratique généraliste complète, du contrat au prétoire pénal.",
+ "exps": [
+   ("Droit civil &amp; contrats", "Droit des personnes, obligations contractuelles, responsabilité civile."),
+   ("Divorce &amp; séparation", "Divorce amiable ou contentieux, séparation, PACS."),
+   ("Enfants &amp; autorité parentale", "Autorité parentale, pension alimentaire, droits de l'enfant."),
+   ("Copropriété &amp; construction", "Litiges de copropriété, désordres de construction, malfaçons."),
+   ("Baux d'habitation &amp; commerciaux", "Rédaction, congés, loyers impayés, contentieux locatif."),
+   ("Défense pénale", "Représentation devant les juridictions pénales."),
+ ],
+ "parc_title": "Depuis 1996,<br>à <em>Millau</em>",
+ "tl": [
+   ("Depuis 1996", "Avocat — Barreau de l'Aveyron", "90 impasse Boris Vian, Millau",
+    "Trente années de pratique généraliste au service des habitants du sud Aveyron, "
+    "en conseil comme au contentieux."),
+   ("1996", "Entrée dans la profession", "Barreau de l'Aveyron",
+    "Inscription au barreau après l'obtention du CAPA."),
+   ("Ancrage", "Millau &amp; les Grands Causses", "Sud Aveyron",
+    "Un cabinet de proximité au cœur du sud Aveyron, à Millau."),
+ ],
+ "form_title": "L'expérience<br>d'un <em>généraliste</em>",
+ "dips": [
+   ("1996", "CAPA — Certificat d'aptitude à la profession d'avocat",
+    "Entrée dans la profession d'avocat en 1996.", "Barreau de l'Aveyron"),
+   ("30", "Trente années d'exercice",
+    "Une pratique continue du droit civil, familial, pénal et immobilier.", "Millau"),
+   ("Droit", "Formation généraliste",
+    "Un socle couvrant le droit civil, de la famille, pénal et immobilier.", "Droit privé"),
+ ],
+ "infos_title": "Un cabinet<br>de <em>proximité</em>",
+ "infos": [
+   ("Chaque dossier est suivi personnellement, du premier rendez-vous jusqu'à l'audience.",
+    "Suivi personnel", "Interlocuteur unique"),
+   ("Le cabinet est joignable directement au 05 65 60 40 68, à Millau.",
+    "Réactivité", "Contact direct"),
+   ("Le cabinet est situé au 90 impasse Boris Vian, à Millau.",
+    "Accès", "Millau — sud Aveyron"),
+ ],
+ "contact_blocks": [
+   ("Cabinet", "<p>90 impasse Boris Vian<br>12100 Millau</p>", "Sur rendez-vous"),
+   ("Téléphone", '<a href="tel:+33565604068">05 65 60 40 68</a>', "Du lundi au vendredi"),
+   ("Écrire", "<p>Via le formulaire ci-contre</p>", "Échanges couverts par le secret professionnel"),
+ ],
+ "opts": ["Litige civil &amp; contrat", "Divorce &amp; séparation", "Enfants &amp; autorité parentale",
+          "Copropriété ou construction", "Bail d'habitation ou commercial", "Défense pénale", "Autre"],
+ "footer_name": "Laurent Pardaillé", "footer_sub": "Avocat au Barreau de l'Aveyron",
+ "sources": "Justifit, annuaire des avocats de l'Aveyron", "me": "Me Pardaillé",
+},
+
+# ─────────────────────────── 51. SOPHIE SAÏS — MONT-DE-MARSAN ──
+{
+ "slug": "sophie-sais", "mono": "S", "watermark": "S",
+ "brand": "Sophie Saïs", "brand_sub": "Avocate — Barreau de Mont-de-Marsan",
+ "title": "Maître Sophie Saïs — Avocate au Barreau de Mont-de-Marsan | Famille, pénal, immobilier &amp; successions",
+ "desc": "Maître Sophie Saïs, Avocate au Barreau de Mont-de-Marsan. Droit de la famille, droit pénal, droit immobilier, droit des successions, droit routier.",
+ "ink": "#0E1A13", "ink2": "#15241B", "ink3": "#1D3125", "radial": "rgba(50,135,85,.18)",
+ "kicker": "Avocate au Barreau de Mont-de-Marsan",
+ "h1a": "Maître", "h1b": "Sophie <em>Saïs</em>",
+ "hero_sub": "Avocate au Barreau de Mont-de-Marsan, j'accompagne les Landais dans "
+             "leurs séparations, leurs successions et leurs litiges immobiliers — et "
+             "défends victimes comme auteurs devant les juridictions pénales.",
+ "meta": [("Famille", "Divorce &amp; garde"),
+          ("Immobilier &amp; successions", "Propriété &amp; transmission"),
+          ("Pénal &amp; routier", "Défense &amp; circulation")],
+ "marquee": ["Barreau de Mont-de-Marsan",
+             "Divorce amiable et contentieux",
+             "Changement de régime matrimonial et adoption",
+             "Vices cachés, construction et conflits de voisinage",
+             "Cabinet rue Gambetta, Mont-de-Marsan"],
+ "stats": [{"n": "5", "label": "Domaines d'intervention"},
+           {"n": "3", "label": "Types de contentieux immobilier"},
+           {"n": "1", "label": "Interlocutrice unique"},
+           {"n": "40", "counter": False, "label": "Landes — Mont-de-Marsan"}],
+ "img": IMG_COL, "img_alt": ALT_COL,
+ "credit_b": "Le cabinet", "credit_s": "66 rue Gambetta, Mont-de-Marsan",
+ "about_title": "La famille, la maison,<br>l'<em>héritage</em>",
+ "lead": "Accompagner les Landais dans les moments où la famille et le patrimoine se recomposent.",
+ "p1": "Avocate au Barreau de Mont-de-Marsan, Maître Sophie Saïs exerce au 66 rue "
+       "Gambetta, au centre de Mont-de-Marsan.",
+ "p2": "Sa pratique couvre le droit de la famille — divorce amiable ou contentieux, "
+       "dissolution de PACS, changement de régime matrimonial, adoption, autorité "
+       "parentale, garde alternée, pension alimentaire —, le droit pénal, où elle "
+       "défend victimes comme auteurs à tous les stades de la procédure, le droit "
+       "immobilier — propriété, location, vente, construction, vices cachés, conflits "
+       "de voisinage —, le droit des successions et le droit routier.",
+ "sig": "Sophie Saïs", "sig_sub": "Avocate au Barreau de Mont-de-Marsan<br>Landes",
+ "exp_title": "Cinq domaines,<br>une même <em>écoute</em>",
+ "exp_intro": "Familles, propriétaires, héritiers et justiciables landais&nbsp;: "
+              "une pratique de proximité complète.",
+ "exps": [
+   ("Divorce &amp; PACS", "Divorce amiable ou contentieux, dissolution de PACS, changement de régime matrimonial."),
+   ("Enfants &amp; garde alternée", "Autorité parentale, garde alternée, pension alimentaire, adoption."),
+   ("Défense pénale", "Défense des victimes comme des auteurs, à tous les stades de la procédure."),
+   ("Immobilier &amp; construction", "Propriété, vente, location, construction, vices cachés."),
+   ("Voisinage &amp; successions", "Conflits de voisinage, partages successoraux, indivisions."),
+   ("Droit routier", "Infractions au code de la route, permis de conduire, contentieux de la circulation."),
+ ],
+ "parc_title": "Une pratique<br><em>landaise</em>",
+ "tl": [
+   ("Aujourd'hui", "Avocate — Barreau de Mont-de-Marsan", "66 rue Gambetta",
+    "Une pratique généraliste au service des familles et des propriétaires des "
+    "Landes, en conseil comme au contentieux."),
+   ("Pratique", "Victimes et auteurs", "À tous les stades de la procédure",
+    "En matière pénale, le cabinet défend aussi bien les victimes que les personnes "
+    "poursuivies, de l'enquête au jugement."),
+   ("Ancrage", "Centre de Mont-de-Marsan", "Rue Gambetta",
+    "Un cabinet de proximité au cœur de la préfecture des Landes."),
+ ],
+ "form_title": "Une pratique<br><em>complète</em>",
+ "dips": [
+   ("CAPA", "Certificat d'aptitude à la profession d'avocat",
+    "Inscription au Barreau de Mont-de-Marsan.", "Barreau de Mont-de-Marsan"),
+   ("Droit", "Formation généraliste",
+    "Un socle couvrant le droit de la famille, pénal, immobilier et successoral.", "Droit privé"),
+   ("40", "Les Landes",
+    "Une pratique ancrée dans le département des Landes.", "Mont-de-Marsan"),
+ ],
+ "infos_title": "Victimes<br>et <em>auteurs</em>",
+ "infos": [
+   ("En matière pénale, le cabinet défend aussi bien les victimes que les personnes poursuivies.",
+    "Défense pénale", "Victimes &amp; auteurs"),
+   ("En droit immobilier, le cabinet intervient sur les vices cachés, la construction et les conflits de voisinage.",
+    "Immobilier", "Vices cachés &amp; construction"),
+   ("Le cabinet est situé au 66 rue Gambetta, au centre de Mont-de-Marsan.",
+    "Accès", "Centre de Mont-de-Marsan"),
+ ],
+ "contact_blocks": [
+   ("Cabinet", "<p>66 rue Gambetta<br>40000 Mont-de-Marsan</p>", "Centre-ville — sur rendez-vous"),
+   ("Téléphone", '<a href="tel:+33759629193">07 59 62 91 93</a>', "Du lundi au vendredi"),
+   ("Écrire", "<p>Via le formulaire ci-contre</p>", "Échanges couverts par le secret professionnel"),
+ ],
+ "opts": ["Divorce &amp; PACS", "Enfants &amp; garde", "Défense pénale",
+          "Immobilier &amp; construction", "Succession", "Droit routier", "Autre"],
+ "footer_name": "Sophie Saïs", "footer_sub": "Avocate au Barreau de Mont-de-Marsan",
+ "sources": "Justifit, annuaire du Barreau de Mont-de-Marsan", "me": "Me Saïs",
+},
+
+# ─────────────────────────── 52. LUC MAZARS — CAHORS ──
+{
+ "slug": "luc-mazars", "mono": "M", "watermark": "M",
+ "brand": "Luc Mazars", "brand_sub": "Avocat — Barreau du Lot",
+ "title": "Maître Luc Mazars — Avocat au Barreau du Lot | Recouvrement, voies d'exécution, fonction publique &amp; bancaire",
+ "desc": "Maître Luc Mazars, Avocat au Barreau du Lot (Cahors). Recouvrement de créances, voies d'exécution, droit de la fonction publique, droit bancaire et des sûretés.",
+ "ink": "#17101C", "ink2": "#211828", "ink3": "#2D2236", "radial": "rgba(115,60,150,.18)",
+ "kicker": "Avocat au Barreau du Lot",
+ "h1a": "Maître", "h1b": "Luc <em>Mazars</em>",
+ "hero_sub": "Avocat indépendant au Barreau du Lot depuis 2008, j'exerce dans une "
+             "matière technique et souvent décisive&nbsp;: le recouvrement de créances "
+             "et les voies d'exécution — obtenir un jugement, c'est bien&nbsp;; le "
+             "faire exécuter, c'est mieux.",
+ "meta": [("Recouvrement", "Créances &amp; injonctions"),
+          ("Voies d'exécution", "Saisies &amp; sûretés"),
+          ("Fonction publique", "Agents &amp; carrières")],
+ "marquee": ["Barreau du Lot — Serment prêté en 2008",
+             "Dix-huit années d'expérience",
+             "Recouvrement de créances et voies d'exécution",
+             "Droit bancaire, sûretés et garanties",
+             "Cabinet boulevard Gambetta, Cahors"],
+ "stats": [{"n": "18", "label": "Années d'exercice"},
+           {"n": "2008", "counter": False, "label": "Prestation de serment"},
+           {"n": "4", "label": "Domaines d'intervention"},
+           {"n": "100", "sup": "%", "label": "Exercice indépendant"}],
+ "img": IMG_LIB, "img_alt": ALT_LIB,
+ "credit_b": "Le cabinet", "credit_s": "16 boulevard Gambetta, Cahors",
+ "about_title": "Obtenir un jugement,<br>puis le faire <em>exécuter</em>",
+ "lead": "Une spécialisation technique et concrète : recouvrer les créances et faire exécuter les décisions.",
+ "p1": "Avocat indépendant au Barreau du Lot depuis sa prestation de serment le "
+       "18 décembre 2008, Maître Luc Mazars exerce au 16 boulevard Gambetta, à Cahors. "
+       "Dix-huit années de pratique lui confèrent une expertise reconnue dans une "
+       "matière que peu d'avocats pratiquent en profondeur.",
+ "p2": "Sa pratique est principalement tournée vers le recouvrement de créances et les "
+       "procédures d'exécution — saisies, mesures conservatoires, sûretés et "
+       "garanties —, le droit bancaire et boursier, ainsi que le droit de la fonction "
+       "publique et le droit de la consommation et du crédit.",
+ "sig": "Luc Mazars", "sig_sub": "Avocat au Barreau du Lot<br>Exercice indépendant",
+ "exp_title": "La technique<br>de l'<em>exécution</em>",
+ "exp_intro": "Une matière exigeante où la maîtrise des procédures fait toute "
+              "la différence entre un jugement et un paiement.",
+ "exps": [
+   ("Recouvrement de créances", "Mise en demeure, injonction de payer, référé provision, procédure au fond."),
+   ("Voies d'exécution", "Saisies-attributions, saisies-ventes, saisies immobilières, mesures conservatoires."),
+   ("Sûretés &amp; garanties", "Cautionnements, hypothèques, nantissements et privilèges."),
+   ("Droit bancaire &amp; boursier", "Litiges bancaires, contentieux du crédit, responsabilité des établissements."),
+   ("Fonction publique", "Contentieux des agents publics, carrières, rémunérations."),
+   ("Crédit &amp; consommation", "Contrats de crédit, clauses abusives, surendettement."),
+ ],
+ "parc_title": "Dix-huit ans<br>dans le <em>Lot</em>",
+ "tl": [
+   ("Depuis 2008", "Avocat indépendant — Barreau du Lot", "16 boulevard Gambetta, Cahors",
+    "Dix-huit années de pratique du recouvrement et des voies d'exécution au service "
+    "des créanciers et des justiciables lotois."),
+   ("18 décembre 2008", "Prestation de serment", "Barreau du Lot",
+    "Entrée dans la profession d'avocat après l'obtention du CAPA."),
+   ("Spécificité", "Recouvrement &amp; exécution", "Une matière technique",
+    "Peu d'avocats pratiquent en profondeur les voies d'exécution&nbsp;: c'est "
+    "pourtant là que se joue l'efficacité réelle d'une décision de justice."),
+ ],
+ "form_title": "Une expertise<br><em>technique</em>",
+ "dips": [
+   ("2008", "CAPA — Certificat d'aptitude à la profession d'avocat",
+    "Prestation de serment le 18 décembre 2008.", "Barreau du Lot"),
+   ("Exéc.", "Voies d'exécution &amp; sûretés",
+    "Une spécialisation dans les procédures civiles d'exécution.", "Exécution"),
+   ("18 ans", "D'expérience continue",
+    "Une pratique quotidienne du recouvrement depuis 2008.", "Cahors"),
+ ],
+ "infos_title": "Après le jugement,<br>le <em>paiement</em>",
+ "infos": [
+   ("Un jugement favorable ne vaut que s'il est exécuté&nbsp;: le cabinet vous accompagne jusqu'au recouvrement effectif.",
+    "Méthode", "Jusqu'au paiement effectif"),
+   ("Le cabinet intervient aussi bien en amont, pour sécuriser vos créances par des sûretés, qu'en aval, pour les recouvrer.",
+    "Approche", "Sécuriser &amp; recouvrer"),
+   ("Le cabinet est situé au 16 boulevard Gambetta, à Cahors.",
+    "Accès", "Boulevard Gambetta — Cahors"),
+ ],
+ "contact_blocks": [
+   ("Cabinet", "<p>16 boulevard Gambetta<br>46000 Cahors</p>", "Sur rendez-vous"),
+   ("Téléphone", '<a href="tel:+33565352040">05 65 35 20 40</a>', "Du lundi au vendredi"),
+   ("Écrire", "<p>Via le formulaire ci-contre</p>", "Échanges couverts par le secret professionnel"),
+ ],
+ "opts": ["Recouvrement de créances", "Voie d'exécution — saisie", "Sûretés &amp; garanties",
+          "Litige bancaire", "Fonction publique", "Crédit &amp; consommation", "Autre"],
+ "footer_name": "Luc Mazars", "footer_sub": "Avocat au Barreau du Lot",
+ "sources": "Justifit, annuaire du Barreau du Lot", "me": "Me Mazars",
+},
+
+# ─────────────────────────── 53. GWENHAËL VIEILLE — CHOLET ──
+{
+ "slug": "gwenhael-vieille", "mono": "V", "watermark": "V",
+ "brand": "Gwenhaël Vieille", "brand_sub": "Avocate — Barreau d'Angers",
+ "title": "Maître Gwenhaël Vieille — Avocate au Barreau d'Angers | Famille, mineurs, dommage corporel &amp; pénal",
+ "desc": "Maître Gwenhaël Vieille, Avocate au Barreau d'Angers, cabinet à Cholet. Droit de la famille, droit des mineurs, dommage corporel, droit pénal, immobilier, commercial.",
+ "ink": "#0B151E", "ink2": "#111E29", "ink3": "#182937", "radial": "rgba(45,105,145,.2)",
+ "kicker": "Avocate au Barreau d'Angers",
+ "h1a": "Maître", "h1b": "Gwenhaël <em>Vieille</em>",
+ "hero_sub": "Avocate depuis 2004, installée à Cholet, j'accompagne les familles du "
+             "Choletais et défends les victimes — accidents de la route, violences, "
+             "accidents du travail — jusqu'à la réparation de leur préjudice.",
+ "meta": [("Famille &amp; mineurs", "Divorce &amp; enfants"),
+          ("Dommage corporel", "Victimes &amp; indemnisation"),
+          ("Pénal &amp; immobilier", "Défense &amp; litiges")],
+ "marquee": ["Barreau d'Angers — Serment prêté en 2004",
+             "Vingt-deux années d'expérience",
+             "Accidents de la route, violences, accidents du travail",
+             "Droit des enfants et autorité parentale",
+             "Cabinet boulevard Gustave Richard, Cholet"],
+ "stats": [{"n": "22", "label": "Années d'exercice"},
+           {"n": "2004", "counter": False, "label": "Prestation de serment"},
+           {"n": "5", "label": "Domaines d'intervention"},
+           {"n": "1", "label": "Interlocutrice unique"}],
+ "img": IMG_STA, "img_alt": ALT_STA,
+ "credit_b": "Le cabinet", "credit_s": "68 boulevard Gustave Richard, Cholet",
+ "about_title": "Vingt-deux ans<br>au service du <em>Choletais</em>",
+ "lead": "Accompagner les familles, défendre les victimes, jusqu'à la réparation intégrale du préjudice.",
+ "p1": "Avocate depuis sa prestation de serment le 31 mars 2004, inscrite au Barreau "
+       "d'Angers, Maître Gwenhaël Vieille reçoit ses clients au 68 boulevard Gustave "
+       "Richard, à Cholet.",
+ "p2": "Sa pratique couvre le droit de la famille — divorce, séparation, PACS, autorité "
+       "parentale, pension alimentaire — et le droit des enfants&nbsp;; le droit du "
+       "dommage corporel, où elle défend les victimes d'accidents de la circulation, de "
+       "violences, d'accidents du travail et de maladies professionnelles&nbsp;; le "
+       "droit pénal, devant les juridictions répressives&nbsp;; ainsi que le droit "
+       "immobilier et le droit commercial.",
+ "sig": "Gwenhaël Vieille", "sig_sub": "Avocate au Barreau d'Angers<br>Cabinet à Cholet",
+ "exp_title": "Accompagner<br>et <em>réparer</em>",
+ "exp_intro": "Familles, enfants et victimes du Choletais&nbsp;: une pratique de "
+              "proximité tournée vers les personnes.",
+ "exps": [
+   ("Divorce &amp; séparation", "Divorce amiable ou contentieux, séparation, PACS, liquidation du régime matrimonial."),
+   ("Enfants &amp; autorité parentale", "Autorité parentale, résidence des enfants, pension alimentaire."),
+   ("Droit des enfants", "Protection de l'enfance, assistance éducative, représentation des mineurs."),
+   ("Accidents de la route &amp; violences", "Indemnisation des victimes d'accidents de la circulation et de violences."),
+   ("Accidents du travail", "Accidents du travail et maladies professionnelles, réparation du préjudice."),
+   ("Pénal, immobilier &amp; commercial", "Défense devant les juridictions pénales, litiges immobiliers et commerciaux."),
+ ],
+ "parc_title": "Depuis 2004,<br>à <em>Cholet</em>",
+ "tl": [
+   ("Depuis 2004", "Avocate — Barreau d'Angers", "68 boulevard Gustave Richard, Cholet",
+    "Vingt-deux années de pratique du droit de la famille et du dommage corporel au "
+    "service des habitants du Choletais et du Maine-et-Loire."),
+   ("31 mars 2004", "Prestation de serment", "Barreau d'Angers",
+    "Entrée dans la profession d'avocat après l'obtention du CAPA."),
+   ("Pratique", "Familles &amp; victimes", "Deux axes complémentaires",
+    "Une pratique organisée autour des personnes&nbsp;: accompagner les familles "
+    "dans leurs ruptures, défendre les victimes jusqu'à l'indemnisation."),
+ ],
+ "form_title": "Vingt-deux ans<br>d'<em>expérience</em>",
+ "dips": [
+   ("2004", "CAPA — Certificat d'aptitude à la profession d'avocat",
+    "Prestation de serment le 31 mars 2004.", "Barreau d'Angers"),
+   ("22", "Vingt-deux années d'exercice",
+    "Une pratique continue du droit de la famille et du dommage corporel.", "Cholet"),
+   ("Droit", "Formation en droit privé",
+    "Un cursus généraliste couvrant le droit des personnes et la réparation du préjudice.", "Droit privé"),
+ ],
+ "infos_title": "Un cabinet<br>à <em>Cholet</em>",
+ "infos": [
+   ("Les victimes sont accompagnées à chaque étape&nbsp;: expertise médicale, négociation avec l'assureur, procédure.",
+    "Victimes", "Jusqu'à l'indemnisation"),
+   ("Chaque dossier est suivi personnellement, du premier rendez-vous jusqu'à l'audience.",
+    "Suivi personnel", "Interlocutrice unique"),
+   ("Le cabinet est situé au 68 boulevard Gustave Richard, à Cholet.",
+    "Accès", "Boulevard Gustave Richard"),
+ ],
+ "contact_blocks": [
+   ("Cabinet", "<p>68 boulevard Gustave Richard<br>49300 Cholet</p>", "Sur rendez-vous"),
+   ("Téléphone", '<a href="tel:+33241641205">02 41 64 12 05</a>', "Du lundi au vendredi"),
+   ("Écrire", '<a href="mailto:gwenhael.vieille@avocat.fr">gwenhael.vieille@avocat.fr</a>', "Échanges couverts par le secret professionnel"),
+ ],
+ "opts": ["Divorce &amp; séparation", "Enfants &amp; autorité parentale", "Droit des enfants",
+          "Accident de la route ou violences", "Accident du travail", "Pénal, immobilier ou commercial", "Autre"],
+ "footer_name": "Gwenhaël Vieille", "footer_sub": "Avocate au Barreau d'Angers",
+ "sources": "annuaire du Barreau d'Angers, Justifit", "me": "Me Vieille",
+},
+
+# ─────────────────────────── 54. AURÉLIE CARPENTIER — SAINT-QUENTIN ──
+{
+ "slug": "aurelie-carpentier", "mono": "C", "watermark": "C",
+ "brand": "Aurélie Carpentier", "brand_sub": "Avocate — Barreau de Saint-Quentin",
+ "title": "Maître Aurélie Carpentier — Avocate au Barreau de Saint-Quentin | Famille, droit routier &amp; dommage corporel",
+ "desc": "Maître Aurélie Carpentier, Avocate au Barreau de Saint-Quentin depuis 2005. Droit de la famille, droit routier, dommage corporel, droit des enfants.",
+ "ink": "#1B0F0F", "ink2": "#261717", "ink3": "#331F1F", "radial": "rgba(165,55,50,.18)",
+ "kicker": "Avocate au Barreau de Saint-Quentin",
+ "h1a": "Maître", "h1b": "Aurélie <em>Carpentier</em>",
+ "hero_sub": "Avocate au Barreau de Saint-Quentin depuis 2005, combative, efficace et "
+             "pragmatique, j'accompagne les familles de l'Aisne et défends les "
+             "automobilistes comme les victimes.",
+ "meta": [("Famille", "Divorce &amp; enfants"),
+          ("Droit routier", "Permis &amp; infractions"),
+          ("Dommage corporel", "Victimes &amp; indemnisation")],
+ "marquee": ["Barreau de Saint-Quentin — Serment prêté en 2005",
+             "Vingt et une années d'expérience",
+             "Aide juridictionnelle acceptée",
+             "Honoraires payables en plusieurs fois",
+             "Cabinet boulevard Henri Martin, Saint-Quentin"],
+ "stats": [{"n": "21", "label": "Années d'exercice"},
+           {"n": "2005", "counter": False, "label": "Prestation de serment"},
+           {"n": "3", "label": "Domaines d'intervention"},
+           {"n": "1", "label": "Interlocutrice unique"}],
+ "img": IMG_COL, "img_alt": ALT_COL,
+ "credit_b": "Le cabinet", "credit_s": "38 boulevard Henri Martin, Saint-Quentin",
+ "about_title": "Combative,<br>efficace et <em>pragmatique</em>",
+ "lead": "Vingt et un ans d'expérience au service des familles et des automobilistes de l'Aisne.",
+ "p1": "Avocate au Barreau de Saint-Quentin depuis sa prestation de serment le "
+       "16 décembre 2005, Maître Aurélie Carpentier exerce au 38 boulevard Henri "
+       "Martin, à Saint-Quentin. Vingt et une années de pratique lui ont donné une "
+       "connaissance approfondie des juridictions de l'Aisne.",
+ "p2": "Sa pratique couvre le droit de la famille — divorce, séparation, PACS, autorité "
+       "parentale, pension alimentaire, droits de l'enfant — et le droit routier&nbsp;: "
+       "excès de vitesse, conduite sans permis, conduite sous l'emprise de l'alcool ou "
+       "de stupéfiants, ainsi que l'indemnisation des préjudices corporels. Le cabinet "
+       "accepte l'aide juridictionnelle et permet le règlement échelonné des honoraires.",
+ "sig": "Aurélie Carpentier", "sig_sub": "Avocate au Barreau de Saint-Quentin<br>Depuis 2005",
+ "exp_title": "La famille<br>et la <em>route</em>",
+ "exp_intro": "Deux domaines complémentaires, où l'urgence et la technique "
+              "se rencontrent.",
+ "exps": [
+   ("Divorce &amp; séparation", "Divorce amiable ou contentieux, séparation, PACS."),
+   ("Enfants &amp; autorité parentale", "Autorité parentale, pension alimentaire, droits de l'enfant."),
+   ("Excès de vitesse &amp; permis", "Contestation des infractions, permis à points, suspensions et annulations."),
+   ("Alcool &amp; stupéfiants au volant", "Défense en cas de conduite sous l'emprise de l'alcool ou de stupéfiants."),
+   ("Conduite sans permis", "Défense devant le tribunal correctionnel et le tribunal de police."),
+   ("Dommage corporel", "Indemnisation des préjudices corporels après un accident."),
+ ],
+ "parc_title": "Vingt et un ans<br>dans l'<em>Aisne</em>",
+ "tl": [
+   ("Depuis 2005", "Avocate — Barreau de Saint-Quentin", "38 boulevard Henri Martin",
+    "Vingt et une années de pratique du droit de la famille et du droit routier au "
+    "service des habitants de l'Aisne."),
+   ("16 décembre 2005", "Prestation de serment", "Barreau de Saint-Quentin",
+    "Entrée dans la profession d'avocat après l'obtention du CAPA."),
+   ("Engagement", "Accès au droit", "Aide juridictionnelle &amp; échelonnement",
+    "Le cabinet accepte l'aide juridictionnelle et permet le règlement des honoraires "
+    "en plusieurs fois."),
+ ],
+ "form_title": "Une praticienne<br><em>déterminée</em>",
+ "dips": [
+   ("2005", "CAPA — Certificat d'aptitude à la profession d'avocat",
+    "Prestation de serment le 16 décembre 2005.", "Barreau de Saint-Quentin"),
+   ("Rout.", "Droit routier",
+    "Excès de vitesse, permis à points, alcool et stupéfiants au volant.", "Droit routier"),
+   ("21", "Vingt et une années d'exercice",
+    "Une pratique continue du droit de la famille et du droit routier.", "Saint-Quentin"),
+ ],
+ "infos_title": "Le droit,<br>à votre <em>portée</em>",
+ "infos": [
+   ("Le cabinet accepte l'aide juridictionnelle, totale ou partielle, selon vos ressources.",
+    "Aide juridictionnelle", "Acceptée"),
+   ("Les honoraires peuvent être réglés en plusieurs fois, en fonction de votre situation.",
+    "Honoraires", "Paiement échelonné possible"),
+   ("En droit routier, chaque délai compte&nbsp;: contactez le cabinet dès réception de l'avis de contravention.",
+    "Urgence routière", "Délais courts"),
+ ],
+ "contact_blocks": [
+   ("Cabinet", "<p>38 boulevard Henri Martin<br>02100 Saint-Quentin</p>", "Sur rendez-vous"),
+   ("Téléphone", '<a href="tel:+33323070199">03 23 07 01 99</a>', "Du lundi au vendredi"),
+   ("Écrire", "<p>Via le formulaire ci-contre</p>", "Échanges couverts par le secret professionnel"),
+ ],
+ "opts": ["Divorce &amp; séparation", "Enfants &amp; autorité parentale", "Excès de vitesse ou permis",
+          "Alcool ou stupéfiants au volant", "Conduite sans permis", "Dommage corporel", "Autre"],
+ "footer_name": "Aurélie Carpentier", "footer_sub": "Avocate au Barreau de Saint-Quentin",
+ "sources": "annuaire du Barreau de Saint-Quentin, Justifit", "me": "Me Carpentier",
+},
+
+# ─────────────────────────── 55. MARIE MALEC — DIEPPE ──
+{
+ "slug": "marie-malec", "mono": "M", "watermark": "M",
+ "brand": "Marie Malec", "brand_sub": "Avocate — Barreau de Dieppe",
+ "title": "Maître Marie Malec — Avocate au Barreau de Dieppe | Famille, pénal &amp; droit de la consommation",
+ "desc": "Maître Marie Malec, Avocate au Barreau de Dieppe. Droit de la famille, droit pénal, droit du crédit et de la consommation, surendettement.",
+ "ink": "#0A131A", "ink2": "#101C25", "ink3": "#172733", "radial": "rgba(55,95,130,.2)",
+ "kicker": "Avocate au Barreau de Dieppe",
+ "h1a": "Maître", "h1b": "Marie <em>Malec</em>",
+ "hero_sub": "Avocate au Barreau de Dieppe depuis 2017, j'accompagne les familles, "
+             "défends les victimes de violences intrafamiliales et aide ceux que le "
+             "crédit a mis en difficulté.",
+ "meta": [("Famille", "Mariage, divorce &amp; enfants"),
+          ("Pénal familial", "Violences &amp; abandon"),
+          ("Consommation", "Crédit &amp; surendettement")],
+ "marquee": ["Barreau de Dieppe — Serment prêté en 2017",
+             "Neuf années d'expérience",
+             "Violences intrafamiliales et abandon de famille",
+             "Surendettement et contrats de crédit",
+             "Cabinet rue Jean Ribault, Dieppe"],
+ "stats": [{"n": "9", "label": "Années d'exercice"},
+           {"n": "2017", "counter": False, "label": "Prestation de serment"},
+           {"n": "3", "label": "Domaines d'intervention"},
+           {"n": "1", "label": "Interlocutrice unique"}],
+ "img": IMG_LIB, "img_alt": ALT_LIB,
+ "credit_b": "Le cabinet", "credit_s": "32 rue Jean Ribault, Dieppe",
+ "about_title": "La famille,<br>et ce qui la <em>fragilise</em>",
+ "lead": "Accompagner les familles, protéger les victimes, dénouer les situations de surendettement.",
+ "p1": "Avocate au Barreau de Dieppe depuis sa prestation de serment le 1ᵉʳ décembre "
+       "2017, Maître Marie Malec exerce au 32 rue Jean Ribault, à Dieppe.",
+ "p2": "Sa pratique couvre le droit de la famille — mariage, divorce, régimes "
+       "matrimoniaux, séparation, pension alimentaire, autorité parentale et droits de "
+       "garde —, le droit pénal de la famille, où elle intervient sur les infractions "
+       "intrafamiliales telles que l'abandon de famille, les violences conjugales et "
+       "l'inceste, ainsi que le droit du crédit et de la consommation&nbsp;: litiges de "
+       "service après-vente, contrats de crédit, contrats de vente et surendettement.",
+ "sig": "Marie Malec", "sig_sub": "Avocate au Barreau de Dieppe<br>Depuis 2017",
+ "exp_title": "Protéger la famille,<br>alléger la <em>dette</em>",
+ "exp_intro": "Trois domaines qui se rejoignent&nbsp;: ce qui fragilise les familles, "
+              "du conflit conjugal à la spirale du crédit.",
+ "exps": [
+   ("Mariage &amp; régimes matrimoniaux", "Contrats de mariage, régimes matrimoniaux, changement de régime."),
+   ("Divorce &amp; séparation", "Divorce amiable ou contentieux, séparation, pension alimentaire."),
+   ("Enfants &amp; autorité parentale", "Autorité parentale, droits de garde, résidence des enfants."),
+   ("Violences intrafamiliales", "Violences conjugales, abandon de famille, inceste — défense des victimes."),
+   ("Crédit &amp; contrats", "Contrats de crédit, contrats de vente, litiges de service après-vente."),
+   ("Surendettement", "Procédures de surendettement, plans de redressement, effacement des dettes."),
+ ],
+ "parc_title": "Neuf ans<br>en <em>Seine-Maritime</em>",
+ "tl": [
+   ("Depuis 2017", "Avocate — Barreau de Dieppe", "32 rue Jean Ribault",
+    "Neuf années de pratique du droit de la famille et de la consommation au service "
+    "des habitants du Dieppois."),
+   ("1ᵉʳ décembre 2017", "Prestation de serment", "Barreau de Dieppe",
+    "Entrée dans la profession d'avocat après l'obtention du CAPA."),
+   ("Pratique", "Famille &amp; consommation", "Deux fragilités, une même écoute",
+    "Une pratique tournée vers les situations qui fragilisent les familles&nbsp;: "
+    "la rupture, la violence, la dette."),
+ ],
+ "form_title": "Une pratique<br>de <em>proximité</em>",
+ "dips": [
+   ("2017", "CAPA — Certificat d'aptitude à la profession d'avocat",
+    "Prestation de serment le 1ᵉʳ décembre 2017.", "Barreau de Dieppe"),
+   ("Droit", "Formation en droit privé",
+    "Un cursus orienté vers le droit des personnes, de la famille et de la consommation.", "Droit privé"),
+   ("9 ans", "D'expérience continue",
+    "Une pratique quotidienne des juridictions dieppoises depuis 2017.", "Dieppe"),
+ ],
+ "infos_title": "Une écoute<br>sans <em>jugement</em>",
+ "infos": [
+   ("Les victimes de violences intrafamiliales sont reçues avec discrétion et accompagnées dans leurs démarches.",
+    "Violences", "Accompagnement discret"),
+   ("En matière de surendettement, le cabinet vous accompagne devant la commission comme devant le juge.",
+    "Surendettement", "Commission &amp; juge"),
+   ("Le cabinet est joignable directement au 07 50 68 01 96, rue Jean Ribault à Dieppe.",
+    "Réactivité", "Contact direct"),
+ ],
+ "contact_blocks": [
+   ("Cabinet", "<p>32 rue Jean Ribault<br>76200 Dieppe</p>", "Sur rendez-vous"),
+   ("Téléphone", '<a href="tel:+33750680196">07 50 68 01 96</a>', "Du lundi au vendredi"),
+   ("Écrire", "<p>Via le formulaire ci-contre</p>", "Échanges couverts par le secret professionnel"),
+ ],
+ "opts": ["Mariage &amp; régime matrimonial", "Divorce &amp; séparation", "Enfants &amp; autorité parentale",
+          "Violences intrafamiliales", "Crédit &amp; contrats", "Surendettement", "Autre"],
+ "footer_name": "Marie Malec", "footer_sub": "Avocate au Barreau de Dieppe",
+ "sources": "Justifit, annuaire du Barreau de Dieppe", "me": "Me Malec",
+},
 ]
