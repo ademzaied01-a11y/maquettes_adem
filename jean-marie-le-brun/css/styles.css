@@ -203,7 +203,7 @@ a:focus-visible,button:focus-visible{outline:2px solid var(--gold);outline-offse
   border:1px solid var(--gold-deep);z-index:0;
 }
 .portrait{position:relative;z-index:1;overflow:hidden;aspect-ratio:1/1;background:var(--cream-2)}
-.portrait img{width:100%;height:116%;object-fit:cover;object-position:center 35%;will-change:transform}
+.portrait img{width:100%;height:120%;object-fit:cover;object-position:center 35%;will-change:transform}
 .portrait .credit{
   position:absolute;left:1.2rem;bottom:1.2rem;z-index:2;
   background:rgba(12,21,18,.85);color:var(--text-on-dark);backdrop-filter:blur(6px);
